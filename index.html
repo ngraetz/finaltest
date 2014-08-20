@@ -99,9 +99,11 @@ d3.csv("sankey.csv", function(error, data) {
   var link = svg.append("g").selectAll(".link")
       .data(graph.links)
 	  .enter().append("path")
-	  .attr("class", function (d) {return d.source.name})
       .attr("class", "link")
-	  // .attr("class", function (d) {return d.target})
+	  .attr("id", function(d,i){
+        d.id = i;
+        return "link-"+i;
+		})
       .attr("d", path)
       .style("stroke-width", function(d) { return Math.max(1, d.dy); })
       .sort(function(a, b) { return b.dy - a.dy; });
