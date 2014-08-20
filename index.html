@@ -53,7 +53,7 @@ var svg = d3.select("#chart").append("svg")
 
 // Set the sankey diagram properties
 var sankey = d3.sankey()
-    .nodeWidth(36)
+    .nodeWidth(60)
     .nodePadding(0)
     .size([width, height]);
 
@@ -107,7 +107,7 @@ d3.csv("sankey.csv", function(error, data) {
 // add the link titles
   link.append("title")
         .text(function(d) {
-    		return d.source.name + " ? " + 
+    		return d.source.name + " : " + 
                 d.target.name + "\n" + format(d.value); });
 
 // add in the nodes
@@ -117,12 +117,13 @@ d3.csv("sankey.csv", function(error, data) {
       .attr("class", "node")
       .attr("transform", function(d) { 
 		  return "translate(" + d.x + "," + d.y + ")"; })
+	/*
     .call(d3.behavior.drag()
       .origin(function(d) { return d; })
       .on("dragstart", function() { 
 		  this.parentNode.appendChild(this); })
       .on("drag", dragmove));
-
+		*/
 // add the rectangles for the nodes
   node.append("rect")
       .attr("height", function(d) { return d.dy; })
