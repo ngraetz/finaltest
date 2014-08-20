@@ -118,7 +118,7 @@ d3.csv("sankey.csv", function(error, data) {
       .attr("transform", function(d) { 
 		  return "translate(" + d.x + "," + d.y + ")"; })
 		// CODE TO HIGHLIGHT ALL LINKS ON CLICK
-		.on("click",highlight_paths(1))
+		.on("click",highlight_paths);
 	/*
     .call(d3.behavior.drag()
       .origin(function(d) { return d; })
