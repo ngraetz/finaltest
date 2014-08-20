@@ -1,1071 +1,1071 @@
 source,target,value
-inj_mech_suffocate,N1,0.0000121
-inj_homicide_knife,N1,0.0000455
-inj_mech_other,N1,0.0012833
-inj_trans_road_pedest,N1,0.0257601
-inj_trans_road_pedal,N1,0.000348
-inj_homicide_other,N1,0.0000682
-inj_trans_road_2wheel,N1,0.0019827
-inj_othunintent,N1,0.0012916
-inj_animal_nonven,N1,0.0001005
-inj_fires,N1,0.0006753
-inj_falls,N1,0.0013328
-inj_suicide,N1,0.0003585
-inj_mech_gun,N1,0.0000121
-inj_trans_road_other,N1,0.0008644
-inj_drowning,N1,0.0005429
-inj_trans_road_4wheel,N1,0.0049887
-inj_trans_other,N1,0.1104606
-inj_homicide_gun,N1,1.80E-06
-inj_animal_venom,N1,9.13E-06
-inj_trans_road_pedal,N10,0.0022199
-inj_foreign_eye,N10,0.0001323
-inj_mech_suffocate,N10,1.29E-06
-inj_falls,N10,0.018716
-inj_trans_road_2wheel,N10,0.0018129
-inj_poisoning,N10,0.0135314
-inj_homicide_gun,N10,0.0000791
-inj_trans_other,N10,0.0111701
-inj_fires,N10,0.2590551
-inj_animal_nonven,N10,0.0001374
-inj_mech_other,N10,0.0032013
-inj_suicide,N10,0.0013704
-inj_animal_venom,N10,0.0002123
-inj_drowning,N10,0.0005198
-inj_foreign_other,N10,0.007879
-inj_foreign_aspiration,N10,0.0015064
-inj_homicide_other,N10,0.0014828
-inj_trans_road_other,N10,5.13E-06
-inj_mech_gun,N10,0.0005333
-inj_trans_road_pedest,N10,0.0041294
-inj_trans_road_4wheel,N10,0.003238
-inj_othunintent,N10,0.0122391
-inj_homicide_knife,N10,0.0000881
-inj_mech_suffocate,N11,0.0543235
-inj_trans_other,N11,0.2662374
-inj_foreign_aspiration,N11,0.0061524
-inj_drowning,N11,0.0437891
-inj_othunintent,N11,2.48657
-inj_trans_road_4wheel,N11,1.90142
-inj_suicide,N11,0.005219
-inj_fires,N11,0.1139027
-inj_trans_road_2wheel,N11,0.3271864
-inj_animal_venom,N11,0.006261
-inj_homicide_knife,N11,0.0056894
-inj_mech_gun,N11,0.0058048
-inj_animal_nonven,N11,0.0380143
-inj_homicide_gun,N11,0.0020962
-inj_homicide_other,N11,0.0154733
-inj_falls,N11,2.834761
-inj_trans_road_pedest,N11,0.6664373
-inj_foreign_eye,N11,0.0003706
-inj_trans_road_pedal,N11,0.1970136
-inj_mech_other,N11,0.1157207
-inj_foreign_other,N11,0.0054006
-inj_poisoning,N11,0.0040923
-inj_trans_road_other,N11,0.0357486
-inj_trans_road_pedest,N12,0.3308249
-inj_foreign_aspiration,N12,0.0990542
-inj_othunintent,N12,0.4511209
-inj_trans_road_pedal,N12,0.1775677
-inj_suicide,N12,0.0049296
-inj_trans_road_other,N12,0.022734
-inj_trans_other,N12,1.956119
-inj_fires,N12,0.0884684
-inj_mech_gun,N12,0.014609
-inj_animal_nonven,N12,0.2429025
-inj_homicide_gun,N12,0.0027397
-inj_mech_suffocate,N12,0.0000306
-inj_poisoning,N12,0.0405584
-inj_drowning,N12,0.0748092
-inj_foreign_other,N12,0.0032345
-inj_homicide_other,N12,0.0121306
-inj_trans_road_4wheel,N12,0.277007
-inj_homicide_knife,N12,0.0047678
-inj_foreign_eye,N12,0.0100802
-inj_trans_road_2wheel,N12,0.238294
-inj_mech_other,N12,0.0650503
-inj_animal_venom,N12,0.0174206
-inj_falls,N12,1.300651
-inj_mech_suffocate,N13,0.209898
-inj_foreign_other,N13,0.0025772
-inj_foreign_aspiration,N13,0.0942131
-inj_falls,N13,12.3567
-inj_trans_road_4wheel,N13,0.8781886
-inj_othunintent,N13,29.55144
-inj_trans_road_2wheel,N13,1.400907
-inj_trans_road_pedal,N13,1.894398
-inj_homicide_knife,N13,0.0093693
-inj_homicide_gun,N13,0.0007903
-inj_suicide,N13,0.0128693
-inj_poisoning,N13,0.0736401
-inj_drowning,N13,0.0786767
-inj_trans_other,N13,1.867935
-inj_trans_road_other,N13,0.0869525
-inj_homicide_other,N13,0.146269
-inj_foreign_eye,N13,0.0004139
-inj_animal_venom,N13,0.0145196
-inj_fires,N13,0.2103058
-inj_trans_road_pedest,N13,1.493182
-inj_mech_gun,N13,0.0605115
-inj_mech_other,N13,0.5540841
-inj_animal_nonven,N13,0.0345314
-inj_foreign_aspiration,N14,0.759444
-inj_trans_road_4wheel,N14,262.6982
-inj_fires,N14,492.503
-inj_homicide_gun,N14,0.5129489
-inj_othunintent,N14,1029.023
-inj_homicide_other,N14,16.58495
-inj_mech_gun,N14,18.93657
-inj_mech_other,N14,1077.096
-inj_homicide_knife,N14,6.718647
-inj_trans_road_pedal,N14,39.83647
-inj_animal_venom,N14,3.839304
-inj_mech_suffocate,N14,18.76915
-inj_foreign_eye,N14,0.0659164
-inj_poisoning,N14,0.2155449
-inj_trans_road_other,N14,3.543411
-inj_foreign_other,N14,16.23743
-inj_trans_other,N14,24.73326
-inj_trans_road_2wheel,N14,21.11076
-inj_trans_road_pedest,N14,12.08319
-inj_falls,N14,288.488
-inj_animal_nonven,N14,117.8432
-inj_drowning,N14,0.8792454
-inj_suicide,N14,2.548708
-inj_trans_road_other,N15,3.860623
-inj_trans_other,N15,7.569712
-inj_foreign_other,N15,0.063558
-inj_homicide_other,N15,2.102922
-inj_foreign_aspiration,N15,0.0876618
-inj_homicide_knife,N15,0.310111
-inj_mech_gun,N15,0.6902435
-inj_fires,N15,1.035791
-inj_mech_suffocate,N15,1.809942
-inj_trans_road_pedest,N15,14.461
-inj_foreign_eye,N15,0.0018533
-inj_falls,N15,85.88487
-inj_drowning,N15,0.6484778
-inj_trans_road_pedal,N15,24.72338
-inj_trans_road_4wheel,N15,38.06555
-inj_animal_venom,N15,0.0688212
-inj_othunintent,N15,84.71537
-inj_mech_other,N15,13.96501
-inj_suicide,N15,0.0555684
-inj_homicide_gun,N15,0.1270555
-inj_animal_nonven,N15,0.3803283
-inj_trans_road_2wheel,N15,12.00142
-inj_poisoning,N15,0.1340224
-inj_falls,N16,10.08819
-inj_homicide_gun,N16,0.1917203
-inj_trans_road_other,N16,0.1676466
-inj_trans_road_pedal,N16,5.359139
-inj_trans_road_4wheel,N16,5.792228
-inj_animal_venom,N16,0.0496305
-inj_drowning,N16,0.0867148
-inj_fires,N16,0.3853941
-inj_trans_road_pedest,N16,2.660744
-inj_foreign_other,N16,0.0567758
-inj_foreign_eye,N16,0.0029665
-inj_trans_other,N16,3.216532
-inj_homicide_other,N16,1.511544
-inj_mech_other,N16,4.000866
-inj_mech_suffocate,N16,0.1985319
-inj_homicide_knife,N16,0.0650356
-inj_foreign_aspiration,N16,0.0655379
-inj_suicide,N16,0.0248692
-inj_othunintent,N16,12.3614
-inj_animal_nonven,N16,0.1079616
-inj_poisoning,N16,0.0441583
-inj_trans_road_2wheel,N16,5.19488
-inj_mech_gun,N16,0.3262902
-inj_trans_other,N17,2.546741
-inj_animal_venom,N17,0.0486884
-inj_animal_nonven,N17,0.1195795
-inj_drowning,N17,0.1913486
-inj_foreign_other,N17,0.047263
-inj_mech_suffocate,N17,0.4971408
-inj_othunintent,N17,25.16943
-inj_poisoning,N17,0.0401205
-inj_falls,N17,18.53266
-inj_mech_gun,N17,0.6121786
-inj_trans_road_pedest,N17,8.80985
-inj_trans_road_other,N17,0.2896094
-inj_foreign_aspiration,N17,0.0899224
-inj_suicide,N17,0.0378356
-inj_homicide_other,N17,0.1424974
-inj_mech_other,N17,20.89617
-inj_fires,N17,0.4263536
-inj_foreign_eye,N17,0.0059279
-inj_trans_road_2wheel,N17,3.641537
-inj_trans_road_4wheel,N17,11.99676
-inj_homicide_gun,N17,0.1024536
-inj_homicide_knife,N17,0.017525
-inj_trans_road_pedal,N17,5.697546
-inj_trans_road_pedest,N18,4.032666
-inj_foreign_other,N18,0.4295254
-inj_animal_venom,N18,0.1274967
-inj_trans_other,N18,5.791149
-inj_othunintent,N18,30.99196
-inj_mech_other,N18,40.2386
-inj_trans_road_2wheel,N18,3.708153
-inj_trans_road_pedal,N18,7.220379
-inj_homicide_gun,N18,0.1338913
-inj_animal_nonven,N18,0.2928598
-inj_trans_road_4wheel,N18,12.39539
-inj_foreign_eye,N18,0.013332
-inj_falls,N18,28.94908
-inj_poisoning,N18,0.0308753
-inj_mech_gun,N18,1.157554
-inj_foreign_aspiration,N18,0.1199486
-inj_homicide_other,N18,0.942571
-inj_mech_suffocate,N18,1.534635
-inj_homicide_knife,N18,0.1369813
-inj_trans_road_other,N18,0.514651
-inj_drowning,N18,0.1239518
-inj_fires,N18,0.83774
-inj_suicide,N18,0.0890632
-inj_trans_road_4wheel,N19,21.25062
-inj_animal_nonven,N19,0.3285833
-inj_homicide_gun,N19,0.0107559
-inj_mech_other,N19,2.36986
-inj_trans_road_pedal,N19,7.033558
-inj_mech_gun,N19,0.2605962
-inj_foreign_other,N19,0.6359587
-inj_suicide,N19,0.1302668
-inj_trans_road_pedest,N19,10.8936
-inj_trans_road_2wheel,N19,1.418843
-inj_mech_suffocate,N19,0.6598349
-inj_foreign_eye,N19,0.011125
-inj_homicide_knife,N19,0.0515012
-inj_fires,N19,1.641053
-inj_animal_venom,N19,0.0652412
-inj_othunintent,N19,15.95804
-inj_trans_road_other,N19,1.061943
-inj_drowning,N19,0.6389648
-inj_falls,N19,235.6085
-inj_homicide_other,N19,0.6947303
-inj_trans_other,N19,23.79612
-inj_poisoning,N19,0.04892
-inj_foreign_aspiration,N19,0.471796
-inj_trans_road_2wheel,N2,0.0163842
-inj_suicide,N2,0.0634814
-inj_mech_other,N2,0.2083641
-inj_trans_road_other,N2,0.0015639
-inj_trans_road_4wheel,N2,0.0497125
-inj_trans_road_pedal,N2,0.0037276
-inj_mech_suffocate,N2,0.0000387
-inj_trans_road_pedest,N2,0.0729897
-inj_drowning,N2,0.0005708
-inj_animal_venom,N2,0.0004125
-inj_foreign_other,N2,0.0353039
-inj_othunintent,N2,0.040538
-inj_foreign_eye,N2,0.0001334
-inj_mech_gun,N2,0.0021253
-inj_foreign_aspiration,N2,0.0006124
-inj_poisoning,N2,0.0009063
-inj_animal_nonven,N2,0.0007283
-inj_fires,N2,0.0025814
-inj_homicide_gun,N2,0.0002783
-inj_homicide_knife,N2,0.0063423
-inj_homicide_other,N2,0.0009921
-inj_falls,N2,0.076948
-inj_trans_other,N2,0.051802
-inj_foreign_other,N20,0.1285275
-inj_othunintent,N20,40.76426
-inj_homicide_knife,N20,0.1481352
-inj_trans_road_pedal,N20,27.51097
-inj_homicide_other,N20,1.194686
-inj_animal_nonven,N20,0.5139776
-inj_trans_road_2wheel,N20,11.31695
-inj_mech_other,N20,8.129406
-inj_falls,N20,80.25472
-inj_animal_venom,N20,0.101934
-inj_homicide_gun,N20,0.3525287
-inj_mech_suffocate,N20,1.923868
-inj_suicide,N20,0.1811527
-inj_trans_road_other,N20,2.345462
-inj_mech_gun,N20,1.017556
-inj_trans_road_pedest,N20,25.54276
-inj_drowning,N20,0.4432332
-inj_foreign_aspiration,N20,0.1392815
-inj_foreign_eye,N20,0.013742
-inj_trans_road_4wheel,N20,85.30684
-inj_trans_other,N20,13.91138
-inj_fires,N20,1.325191
-inj_poisoning,N20,0.2603577
-inj_foreign_aspiration,N21,0.0361314
-inj_trans_road_2wheel,N21,1.815283
-inj_mech_gun,N21,0.1708446
-inj_homicide_knife,N21,0.0133691
-inj_othunintent,N21,6.882323
-inj_trans_road_4wheel,N21,15.59902
-inj_suicide,N21,0.0343496
-inj_fires,N21,0.3191064
-inj_homicide_gun,N21,0.0899161
-inj_drowning,N21,0.141172
-inj_mech_other,N21,1.143201
-inj_animal_nonven,N21,0.0441696
-inj_animal_venom,N21,0.0527017
-inj_mech_suffocate,N21,0.0949366
-inj_trans_other,N21,3.684362
-inj_trans_road_pedest,N21,12.14759
-inj_poisoning,N21,0.0447731
-inj_foreign_eye,N21,0.0060344
-inj_falls,N21,35.62928
-inj_foreign_other,N21,0.0157548
-inj_trans_road_pedal,N21,1.741132
-inj_homicide_other,N21,0.1703957
-inj_trans_road_other,N21,0.4182593
-inj_homicide_other,N22,1.256942
-inj_trans_road_4wheel,N22,23.71763
-inj_animal_venom,N22,0.2207086
-inj_mech_gun,N22,0.5840252
-inj_foreign_aspiration,N22,0.5844465
-inj_mech_other,N22,8.412302
-inj_trans_road_2wheel,N22,9.438124
-inj_drowning,N22,0.1704246
-inj_homicide_gun,N22,0.1259681
-inj_homicide_knife,N22,0.0861017
-inj_othunintent,N22,30.72165
-inj_animal_nonven,N22,0.3731244
-inj_trans_road_other,N22,2.668021
-inj_falls,N22,91.59165
-inj_trans_road_pedal,N22,29.66345
-inj_suicide,N22,0.1783019
-inj_trans_other,N22,10.94514
-inj_fires,N22,1.825869
-inj_trans_road_pedest,N22,11.40559
-inj_foreign_eye,N22,0.0126219
-inj_foreign_other,N22,0.1950619
-inj_mech_suffocate,N22,0.8625697
-inj_poisoning,N22,0.2145956
-inj_trans_road_pedal,N23,2.227886
-inj_suicide,N23,0.0111255
-inj_foreign_aspiration,N23,0.0121276
-inj_homicide_other,N23,0.7614063
-inj_trans_road_2wheel,N23,2.858271
-inj_othunintent,N23,4.691562
-inj_animal_venom,N23,0.0192478
-inj_trans_road_4wheel,N23,12.43628
-inj_trans_other,N23,6.939896
-inj_falls,N23,17.846
-inj_poisoning,N23,0.0168389
-inj_homicide_knife,N23,0.0965307
-inj_homicide_gun,N23,0.1236221
-inj_mech_suffocate,N23,0.4730421
-inj_trans_road_pedest,N23,11.56797
-inj_trans_road_other,N23,0.1991493
-inj_animal_nonven,N23,0.0949859
-inj_drowning,N23,0.0043342
-inj_foreign_other,N23,0.1016383
-inj_foreign_eye,N23,0.0461104
-inj_mech_gun,N23,0.160299
-inj_fires,N23,0.1740069
-inj_mech_other,N23,2.405767
-inj_homicide_other,N24,0.3815976
-inj_poisoning,N24,0.0071731
-inj_drowning,N24,0.0144785
-inj_trans_road_4wheel,N24,10.72293
-inj_trans_road_pedest,N24,0.8721335
-inj_trans_other,N24,2.4459
-inj_trans_road_2wheel,N24,0.297906
-inj_homicide_gun,N24,0.0013164
-inj_mech_suffocate,N24,0.0865343
-inj_foreign_eye,N24,0.0014885
-inj_mech_gun,N24,0.0417344
-inj_animal_nonven,N24,0.0487143
-inj_trans_road_other,N24,0.2861216
-inj_animal_venom,N24,0.0014714
-inj_suicide,N24,0.0050164
-inj_mech_other,N24,1.999437
-inj_trans_road_pedal,N24,2.927082
-inj_fires,N24,0.0298818
-inj_othunintent,N24,7.227036
-inj_homicide_knife,N24,0.0058853
-inj_falls,N24,14.44645
-inj_foreign_aspiration,N24,0.0331068
-inj_foreign_other,N24,0.0028467
-inj_trans_road_4wheel,N25,20.79398
-inj_homicide_knife,N25,0.029229
-inj_trans_road_other,N25,0.6821931
-inj_othunintent,N25,74.61363
-inj_trans_road_pedest,N25,17.94643
-inj_falls,N25,83.34853
-inj_homicide_gun,N25,0.1723844
-inj_animal_nonven,N25,0.088368
-inj_trans_road_2wheel,N25,1.374166
-inj_mech_suffocate,N25,0.9239089
-inj_mech_gun,N25,0.3304902
-inj_foreign_eye,N25,0.0067601
-inj_foreign_aspiration,N25,0.0942577
-inj_suicide,N25,0.0768739
-inj_animal_venom,N25,0.0146414
-inj_fires,N25,0.6745645
-inj_trans_other,N25,3.805079
-inj_trans_road_pedal,N25,16.36111
-inj_poisoning,N25,0.0264504
-inj_mech_other,N25,5.392131
-inj_foreign_other,N25,0.0695218
-inj_drowning,N25,0.0762993
-inj_homicide_other,N25,1.162182
-inj_foreign_eye,N26,0.0069414
-inj_homicide_other,N26,2.512692
-inj_homicide_knife,N26,0.139634
-inj_foreign_aspiration,N26,0.2572534
-inj_othunintent,N26,56.40103
-inj_trans_other,N26,4.636797
-inj_falls,N26,110.4257
-inj_animal_nonven,N26,0.3504745
-inj_fires,N26,1.238164
-inj_mech_suffocate,N26,0.6654732
-inj_mech_other,N26,12.50725
-inj_foreign_other,N26,0.0772803
-inj_trans_road_other,N26,1.094182
-inj_trans_road_pedal,N26,5.500591
-inj_trans_road_pedest,N26,25.85442
-inj_animal_venom,N26,0.0607434
-inj_drowning,N26,0.21035
-inj_homicide_gun,N26,0.2785155
-inj_poisoning,N26,0.0590982
-inj_trans_road_2wheel,N26,12.0457
-inj_suicide,N26,0.0635468
-inj_mech_gun,N26,0.883051
-inj_trans_road_4wheel,N26,41.51973
-inj_mech_other,N27,4.212094
-inj_trans_road_other,N27,1.337252
-inj_trans_road_pedal,N27,14.69517
-inj_poisoning,N27,0.05059
-inj_homicide_gun,N27,0.2230443
-inj_trans_road_4wheel,N27,20.95539
-inj_trans_other,N27,2.80662
-inj_mech_gun,N27,0.1131964
-inj_foreign_eye,N27,0.0092108
-inj_foreign_aspiration,N27,0.0295581
-inj_drowning,N27,0.1332344
-inj_homicide_knife,N27,0.086893
-inj_othunintent,N27,10.85262
-inj_homicide_other,N27,2.472492
-inj_animal_nonven,N27,0.1116017
-inj_fires,N27,0.3600264
-inj_trans_road_2wheel,N27,3.987773
-inj_mech_suffocate,N27,0.3417268
-inj_suicide,N27,0.0335523
-inj_falls,N27,10.79407
-inj_animal_venom,N27,0.0232735
-inj_foreign_other,N27,0.0605314
-inj_trans_road_pedest,N27,18.54511
-inj_trans_road_4wheel,N28,49.28045
-inj_fires,N28,1.000514
-inj_trans_road_other,N28,2.727998
-inj_trans_road_pedest,N28,39.36206
-inj_homicide_gun,N28,0.1264998
-inj_trans_other,N28,1.752348
-inj_foreign_other,N28,0.0467541
-inj_homicide_other,N28,1.351694
-inj_mech_suffocate,N28,0.3124666
-inj_trans_road_pedal,N28,15.35053
-inj_othunintent,N28,3.501335
-inj_foreign_eye,N28,0.0832938
-inj_mech_gun,N28,0.1998821
-inj_foreign_aspiration,N28,0.0602892
-inj_falls,N28,38.88721
-inj_poisoning,N28,0.096607
-inj_animal_venom,N28,0.0529679
-inj_suicide,N28,0.1434369
-inj_animal_nonven,N28,0.2498911
-inj_homicide_knife,N28,0.1036799
-inj_drowning,N28,0.2561235
-inj_trans_road_2wheel,N28,13.82627
-inj_mech_other,N28,3.035773
-inj_mech_other,N3,8.453022
-inj_foreign_other,N3,0.1232177
-inj_animal_venom,N3,0.0229309
-inj_trans_road_other,N3,0.0328469
-inj_suicide,N3,0.0554699
-inj_homicide_knife,N3,0.0770331
-inj_drowning,N3,0.0479477
-inj_foreign_eye,N3,0.0002477
-inj_poisoning,N3,0.0062961
-inj_trans_road_4wheel,N3,0.7816542
-inj_trans_road_pedest,N3,0.7320833
-inj_mech_gun,N3,0.1881734
-inj_mech_suffocate,N3,0.2182524
-inj_falls,N3,0.5926545
-inj_homicide_other,N3,0.0544592
-inj_trans_road_pedal,N3,0.1420496
-inj_trans_road_2wheel,N3,0.1968276
-inj_homicide_gun,N3,0.0237152
-inj_foreign_aspiration,N3,0.0418138
-inj_animal_nonven,N3,0.0854234
-inj_trans_other,N3,0.3934138
-inj_fires,N3,0.2308528
-inj_othunintent,N3,3.73747
-inj_trans_road_other,N30,0.000518
-inj_foreign_other,N30,93.25976
-inj_homicide_other,N30,0.1106182
-inj_animal_venom,N30,0.0294153
-inj_foreign_eye,N30,0.1111104
-inj_foreign_aspiration,N30,0.0789089
-inj_poisoning,N30,0.0163696
-inj_mech_gun,N30,0.01352
-inj_drowning,N30,0.0010191
-inj_othunintent,N30,0.2508126
-inj_falls,N30,0.0535976
-inj_mech_suffocate,N30,0.0001433
-inj_homicide_knife,N30,0.0068255
-inj_trans_road_4wheel,N30,0.2257288
-inj_trans_road_pedal,N30,0.000518
-inj_suicide,N30,0.0229528
-inj_trans_road_2wheel,N30,0.0210024
-inj_mech_other,N30,0.0496353
-inj_animal_nonven,N30,0.0879438
-inj_trans_other,N30,0.3685761
-inj_fires,N30,0.032363
-inj_trans_road_pedest,N30,0.0976225
-inj_homicide_gun,N30,0.0004917
-inj_drowning,N31,0.1275053
-inj_othunintent,N31,1.329788
-inj_trans_road_other,N31,0.0043497
-inj_animal_nonven,N31,0.016696
-inj_suicide,N31,0.0329046
-inj_poisoning,N31,0.0578197
-inj_mech_suffocate,N31,2.000487
-inj_trans_road_pedal,N31,0.0164918
-inj_falls,N31,0.5054705
-inj_homicide_gun,N31,0.0056944
-inj_foreign_eye,N31,0.0748439
-inj_foreign_aspiration,N31,112.9166
-inj_trans_road_2wheel,N31,0.0211328
-inj_homicide_knife,N31,0.067387
-inj_homicide_other,N31,0.731527
-inj_animal_venom,N31,0.0592385
-inj_mech_other,N31,0.0492262
-inj_trans_other,N31,3.474046
-inj_foreign_other,N31,3.42016
-inj_trans_road_pedest,N31,0.5781033
-inj_trans_road_4wheel,N31,0.2000647
-inj_fires,N31,0.1801892
-inj_mech_gun,N31,0.008481
-inj_trans_road_2wheel,N32,0.0317506
-inj_trans_road_pedest,N32,0.3164375
-inj_suicide,N32,0.1224857
-inj_mech_suffocate,N32,0.0824991
-inj_foreign_eye,N32,1.514063
-inj_animal_venom,N32,0.0378139
-inj_homicide_knife,N32,0.0254227
-inj_foreign_other,N32,302.7468
-inj_trans_road_pedal,N32,0.0390211
-inj_drowning,N32,0.0690595
-inj_trans_road_other,N32,0.0235675
-inj_homicide_other,N32,0.087329
-inj_poisoning,N32,0.1203215
-inj_othunintent,N32,0.5711747
-inj_fires,N32,0.1669388
-inj_animal_nonven,N32,0.0163477
-inj_homicide_gun,N32,0.0033102
-inj_mech_gun,N32,0.0030344
-inj_trans_road_4wheel,N32,0.1109863
-inj_falls,N32,0.2908178
-inj_foreign_aspiration,N32,15.86383
-inj_mech_other,N32,0.047308
-inj_trans_other,N32,2.381297
-inj_trans_other,N33,0.0033443
-inj_animal_venom,N33,0.0004624
-inj_othunintent,N33,0.0241526
-inj_animal_nonven,N33,0.0008292
-inj_suicide,N33,0.003844
-inj_falls,N33,0.3162834
-inj_homicide_gun,N33,0.0063669
-inj_poisoning,N33,0.0236323
-inj_fires,N33,0.006073
-inj_homicide_other,N33,0.012253
-inj_trans_road_pedal,N33,0.0633552
-inj_trans_road_4wheel,N33,0.5726396
-inj_mech_other,N33,0.0192631
-inj_drowning,N33,0.0054746
-inj_homicide_knife,N33,0.0024835
-inj_foreign_eye,N33,0.0003984
-inj_trans_road_pedest,N33,0.1524397
-inj_foreign_other,N33,0.0005242
-inj_trans_road_other,N33,0.0829741
-inj_mech_suffocate,N33,0.0097236
-inj_foreign_aspiration,N33,0.0035031
-inj_mech_gun,N33,0.0133147
-inj_trans_road_2wheel,N33,0.0559032
-inj_poisoning,N34,0.09333
-inj_trans_other,N34,0.0076433
-inj_homicide_knife,N34,0.0357295
-inj_trans_road_pedest,N34,1.454489
-inj_mech_other,N34,3.999268
-inj_fires,N34,3.41843
-inj_homicide_gun,N34,0.0059965
-inj_foreign_other,N34,0.0024151
-inj_animal_nonven,N34,0.3834964
-inj_animal_venom,N34,0.0005304
-inj_mech_suffocate,N34,0.0554832
-inj_trans_road_pedal,N34,0.6040978
-inj_trans_road_other,N34,0.2355415
-inj_mech_gun,N34,0.0346677
-inj_foreign_eye,N34,0.0045421
-inj_foreign_aspiration,N34,0.0006999
-inj_trans_road_2wheel,N34,0.571226
-inj_falls,N34,6.673525
-inj_othunintent,N34,0.5035849
-inj_homicide_other,N34,0.4252337
-inj_trans_road_4wheel,N34,3.876868
-inj_suicide,N34,0.0740417
-inj_drowning,N34,0.0147514
-inj_drowning,N35,11.61809
-inj_mech_suffocate,N35,0.0409615
-inj_mech_gun,N35,0.0001447
-inj_homicide_gun,N35,0.0001058
-inj_animal_nonven,N35,0.0024065
-inj_foreign_other,N35,0.0169049
-inj_mech_other,N35,0.0279878
-inj_poisoning,N35,0.0327965
-inj_othunintent,N35,0.4287229
-inj_trans_road_pedal,N35,0.0042645
-inj_suicide,N35,0.0694238
-inj_trans_road_other,N35,0.0032179
-inj_trans_road_4wheel,N35,0.1024501
-inj_animal_venom,N35,0.0038359
-inj_homicide_knife,N35,0.0014203
-inj_falls,N35,0.0468233
-inj_homicide_other,N35,0.0371632
-inj_trans_road_2wheel,N35,0.0135828
-inj_trans_other,N35,0.13786
-inj_trans_road_pedest,N35,0.0569356
-inj_fires,N35,0.2841621
-inj_foreign_aspiration,N35,0.0687954
-inj_trans_road_pedal,N36,0.0057376
-inj_foreign_aspiration,N36,0.2562406
-inj_homicide_other,N36,0.0175456
-inj_falls,N36,0.0289998
-inj_drowning,N36,0.0577194
-inj_homicide_knife,N36,0.0001877
-inj_mech_gun,N36,0.0042717
-inj_homicide_gun,N36,4.88E-06
-inj_mech_suffocate,N36,2.513033
-inj_animal_nonven,N36,0.000931
-inj_othunintent,N36,0.2345013
-inj_trans_road_other,N36,0.0057376
-inj_fires,N36,0.1061978
-inj_foreign_other,N36,0.1385475
-inj_suicide,N36,0.0679138
-inj_trans_road_pedest,N36,0.0115624
-inj_poisoning,N36,0.038058
-inj_mech_other,N36,0.0024533
-inj_animal_venom,N36,0.0023
-inj_trans_road_2wheel,N36,0.0106542
-inj_trans_road_4wheel,N36,0.0095219
-inj_trans_other,N36,0.0515132
-inj_homicide_gun,N37,0.0026834
-inj_trans_other,N37,0.1179849
-inj_mech_other,N37,2.524172
-inj_trans_road_pedal,N37,0.8901591
-inj_trans_road_2wheel,N37,0.5409204
-inj_animal_nonven,N37,0.0241467
-inj_foreign_aspiration,N37,0.0057636
-inj_trans_road_other,N37,0.0908872
-inj_trans_road_4wheel,N37,2.28077
-inj_poisoning,N37,0.0061911
-inj_homicide_other,N37,0.018428
-inj_mech_gun,N37,0.014806
-inj_homicide_knife,N37,0.0073276
-inj_falls,N37,1.383113
-inj_othunintent,N37,0.6008888
-inj_suicide,N37,0.0178922
-inj_foreign_eye,N37,0.036198
-inj_foreign_other,N37,0.0794769
-inj_trans_road_pedest,N37,1.984765
-inj_fires,N37,0.1349627
-inj_drowning,N37,0.0334908
-inj_mech_suffocate,N37,0.030285
-inj_animal_venom,N37,0.0043771
-inj_trans_road_other,N38,0.0290443
-inj_trans_road_pedest,N38,0.8462104
-inj_homicide_other,N38,0.1971331
-inj_fires,N38,0.1501915
-inj_animal_nonven,N38,0.0409212
-inj_foreign_other,N38,0.2232801
-inj_foreign_aspiration,N38,0.0721305
-inj_trans_road_4wheel,N38,1.484554
-inj_falls,N38,1.118831
-inj_suicide,N38,0.0437152
-inj_drowning,N38,0.0692165
-inj_trans_road_2wheel,N38,0.2696043
-inj_mech_suffocate,N38,0.0057944
-inj_trans_road_pedal,N38,0.2041949
-inj_homicide_knife,N38,0.0704421
-inj_animal_venom,N38,0.0154478
-inj_mech_gun,N38,0.2517322
-inj_trans_other,N38,1.553314
-inj_poisoning,N38,0.0173545
-inj_homicide_gun,N38,0.0823295
-inj_mech_other,N38,0.7779385
-inj_foreign_eye,N38,0.0429738
-inj_othunintent,N38,5.549954
-inj_trans_road_other,N39,0.066083
-inj_animal_venom,N39,0.3873564
-inj_mech_other,N39,105.797
-inj_trans_road_2wheel,N39,1.448761
-inj_mech_suffocate,N39,2.412891
-inj_fires,N39,56.1365
-inj_mech_gun,N39,9.728599
-inj_homicide_knife,N39,0.585052
-inj_suicide,N39,0.0489801
-inj_animal_nonven,N39,1.035079
-inj_othunintent,N39,149.1273
-inj_poisoning,N39,0.074576
-inj_foreign_other,N39,1.60989
-inj_foreign_aspiration,N39,0.1628571
-inj_falls,N39,25.31293
-inj_trans_road_pedal,N39,2.896085
-inj_drowning,N39,0.0669368
-inj_trans_other,N39,3.165879
-inj_trans_road_pedest,N39,3.222445
-inj_trans_road_4wheel,N39,16.52933
-inj_homicide_gun,N39,0.2008293
-inj_homicide_other,N39,6.215107
-inj_foreign_eye,N39,52.12413
-inj_homicide_knife,N4,0.0092884
-inj_poisoning,N4,0.0077501
-inj_trans_road_2wheel,N4,0.3136328
-inj_homicide_gun,N4,0.0015353
-inj_animal_nonven,N4,0.0081931
-inj_foreign_aspiration,N4,0.0266801
-inj_trans_road_pedal,N4,0.1049301
-inj_animal_venom,N4,0.007752
-inj_drowning,N4,0.1012822
-inj_foreign_other,N4,0.0156835
-inj_othunintent,N4,0.24442
-inj_trans_road_pedest,N4,1.32802
-inj_mech_suffocate,N4,0.0046366
-inj_trans_other,N4,0.3087658
-inj_trans_road_4wheel,N4,0.2329501
-inj_mech_gun,N4,0.0045641
-inj_trans_road_other,N4,0.0234399
-inj_falls,N4,0.8435182
-inj_fires,N4,0.110012
-inj_suicide,N4,0.0545504
-inj_homicide_other,N4,0.0373539
-inj_mech_other,N4,0.1654602
-inj_foreign_eye,N4,0.0003896
-inj_trans_other,N40,22.49772
-inj_homicide_gun,N40,6.77589
-inj_trans_road_2wheel,N40,119.673
-inj_mech_gun,N40,13.77446
-inj_suicide,N40,2.018145
-inj_trans_road_pedest,N40,147.9998
-inj_poisoning,N40,0.4464546
-inj_foreign_aspiration,N40,0.2644741
-inj_falls,N40,476.9648
-inj_mech_other,N40,442.6456
-inj_mech_suffocate,N40,20.06172
-inj_trans_road_pedal,N40,181.4816
-inj_animal_nonven,N40,402.3459
-inj_homicide_other,N40,55.68926
-inj_fires,N40,24.24493
-inj_foreign_eye,N40,0.4534537
-inj_trans_road_other,N40,3.595136
-inj_othunintent,N40,468.8133
-inj_animal_venom,N40,8.164352
-inj_trans_road_4wheel,N40,494.3056
-inj_drowning,N40,0.4843061
-inj_foreign_other,N40,154.6665
-inj_homicide_knife,N40,18.62231
-inj_mech_other,N41,1.00277
-inj_trans_road_pedal,N41,0.431365
-inj_suicide,N41,24.79359
-inj_animal_venom,N41,31.10794
-inj_mech_gun,N41,0.49539
-inj_homicide_other,N41,6.476605
-inj_trans_other,N41,5.47273
-inj_falls,N41,4.687331
-inj_animal_nonven,N41,1.832846
-inj_foreign_other,N41,12.23362
-inj_trans_road_other,N41,0.07993
-inj_trans_road_pedest,N41,3.608517
-inj_poisoning,N41,141.4246
-inj_trans_road_4wheel,N41,1.67038
-inj_fires,N41,18.51351
-inj_othunintent,N41,128.5138
-inj_homicide_gun,N41,1.004812
-inj_trans_road_2wheel,N41,0.4044298
-inj_drowning,N41,0.4932364
-inj_homicide_knife,N41,0.1745828
-inj_foreign_eye,N41,0.0569247
-inj_mech_suffocate,N41,0.8035065
-inj_foreign_aspiration,N41,1.401749
-inj_mech_suffocate,N42,0.1941354
-inj_animal_venom,N42,0.0531066
-inj_mech_gun,N42,0.1815806
-inj_foreign_aspiration,N42,0.2183724
-inj_trans_road_pedal,N42,0.8539543
-inj_trans_road_4wheel,N42,5.777164
-inj_trans_road_other,N42,0.2020011
-inj_homicide_knife,N42,0.233875
-inj_trans_road_2wheel,N42,0.7226194
-inj_poisoning,N42,0.0243304
-inj_foreign_other,N42,0.2138737
-inj_trans_other,N42,0.9546196
-inj_drowning,N42,0.0335603
-inj_falls,N42,2.428454
-inj_foreign_eye,N42,0.0018997
-inj_homicide_other,N42,0.135814
-inj_homicide_gun,N42,0.1541683
-inj_trans_road_pedest,N42,2.401444
-inj_mech_other,N42,0.7765782
-inj_fires,N42,0.5894079
-inj_animal_nonven,N42,0.1023703
-inj_othunintent,N42,2.993599
-inj_suicide,N42,0.0685203
-inj_trans_road_4wheel,N43,7.003945
-inj_animal_nonven,N43,0.7444714
-inj_foreign_eye,N43,0.4879533
-inj_mech_other,N43,10.57974
-inj_mech_suffocate,N43,0.3313915
-inj_suicide,N43,0.1500863
-inj_foreign_other,N43,4.313397
-inj_trans_road_pedest,N43,11.35136
-inj_foreign_aspiration,N43,0.1602017
-inj_poisoning,N43,0.364016
-inj_fires,N43,31.0855
-inj_othunintent,N43,27.85184
-inj_homicide_knife,N43,0.3691629
-inj_homicide_other,N43,0.4465306
-inj_drowning,N43,0.1265594
-inj_falls,N43,6.009019
-inj_trans_other,N43,1.492602
-inj_mech_gun,N43,0.8992386
-inj_trans_road_pedal,N43,0.9057049
-inj_animal_venom,N43,0.9515174
-inj_trans_road_other,N43,0.265559
-inj_trans_road_2wheel,N43,1.870731
-inj_homicide_gun,N43,0.1922227
-inj_homicide_other,N44,13.87454
-inj_mech_gun,N44,3.922199
-inj_animal_nonven,N44,2.548648
-inj_foreign_aspiration,N44,0.0253688
-inj_drowning,N44,0.2586774
-inj_trans_road_pedal,N44,37.96192
-inj_trans_road_other,N44,2.975022
-inj_suicide,N44,0.2620422
-inj_foreign_eye,N44,0.0663143
-inj_mech_suffocate,N44,5.582469
-inj_falls,N44,178.1688
-inj_homicide_gun,N44,2.353776
-inj_mech_other,N44,305.9936
-inj_trans_road_4wheel,N44,213.4654
-inj_trans_other,N44,29.23078
-inj_animal_venom,N44,2.789103
-inj_othunintent,N44,179.1716
-inj_foreign_other,N44,5.733462
-inj_trans_road_pedest,N44,57.38864
-inj_homicide_knife,N44,1.350342
-inj_fires,N44,5.488583
-inj_trans_road_2wheel,N44,9.079794
-inj_poisoning,N44,0.1855788
-inj_trans_road_other,N45,0.0032334
-inj_mech_suffocate,N45,0.1392278
-inj_homicide_gun,N45,0.0212917
-inj_trans_road_pedal,N45,0.0120393
-inj_foreign_aspiration,N45,0.0361413
-inj_foreign_eye,N45,0.0596625
-inj_trans_road_2wheel,N45,0.068861
-inj_falls,N45,0.387152
-inj_trans_road_4wheel,N45,0.2150335
-inj_suicide,N45,0.0238007
-inj_mech_gun,N45,1.08496
-inj_homicide_other,N45,0.0429895
-inj_poisoning,N45,0.0970196
-inj_homicide_knife,N45,0.0046493
-inj_animal_venom,N45,0.0256742
-inj_fires,N45,46.67699
-inj_animal_nonven,N45,0.011193
-inj_othunintent,N45,49.15663
-inj_drowning,N45,0.126893
-inj_trans_road_pedest,N45,0.1797657
-inj_trans_other,N45,0.343973
-inj_foreign_other,N45,0.0612636
-inj_mech_other,N45,0.1269529
-inj_medical,N46,565.0865
-inj_mech_other,N46,1.046982
-inj_trans_road_2wheel,N46,0.5179419
-inj_homicide_other,N46,0.3627028
-inj_foreign_eye,N46,1.916827
-inj_mech_gun,N46,0.1117614
-inj_mech_suffocate,N46,0.0146051
-inj_fires,N46,2.430605
-inj_othunintent,N46,26.32532
-inj_trans_other,N46,2.396521
-inj_trans_road_4wheel,N46,1.712459
-inj_falls,N46,12.36694
-inj_drowning,N46,0.2389264
-inj_foreign_other,N46,1.049239
-inj_animal_nonven,N46,0.1186897
-inj_foreign_aspiration,N46,0.621762
-inj_homicide_gun,N46,0.0232926
-inj_poisoning,N46,0.2722334
-inj_trans_road_pedal,N46,0.372087
-inj_trans_road_other,N46,0.2292072
-inj_trans_road_pedest,N46,7.248368
-inj_suicide,N46,0.3642015
-inj_animal_venom,N46,0.2183902
-inj_homicide_knife,N46,0.0967942
-inj_trans_road_4wheel,N47,387.7663
-inj_suicide,N47,0.3137298
-inj_mech_suffocate,N47,17.91515
-inj_trans_road_other,N47,4.479459
-inj_animal_nonven,N47,97.09203
-inj_foreign_eye,N47,0.0731919
-inj_trans_road_pedal,N47,25.58595
-inj_fires,N47,13.07914
-inj_animal_venom,N47,13.34971
-inj_homicide_knife,N47,3.111678
-inj_foreign_aspiration,N47,0.0909919
-inj_poisoning,N47,0.1650245
-inj_falls,N47,253.2633
-inj_homicide_other,N47,21.0115
-inj_trans_other,N47,7.631042
-inj_drowning,N47,0.1825503
-inj_othunintent,N47,280.535
-inj_foreign_other,N47,2.446202
-inj_mech_other,N47,306.222
-inj_mech_gun,N47,7.422725
-inj_trans_road_pedest,N47,55.39852
-inj_homicide_gun,N47,2.46229
-inj_trans_road_2wheel,N47,25.66054
-inj_trans_road_2wheel,N48,31.7147
-inj_animal_nonven,N48,1.090996
-inj_suicide,N48,0.2817462
-inj_foreign_other,N48,0.531607
-inj_trans_other,N48,0.818223
-inj_homicide_knife,N48,2.786637
-inj_drowning,N48,0.2536937
-inj_trans_road_pedal,N48,46.17188
-inj_foreign_aspiration,N48,0.0811432
-inj_animal_venom,N48,2.445486
-inj_homicide_other,N48,22.68875
-inj_mech_gun,N48,2.792017
-inj_trans_road_other,N48,4.855027
-inj_trans_road_4wheel,N48,430.5997
-inj_mech_other,N48,17.24206
-inj_fires,N48,76.28363
-inj_homicide_gun,N48,2.873952
-inj_poisoning,N48,0.0880729
-inj_trans_road_pedest,N48,137.9667
-inj_mech_suffocate,N48,1.290349
-inj_othunintent,N48,68.15865
-inj_foreign_eye,N48,0.0425156
-inj_falls,N48,120.7779
-inj_foreign_aspiration,N5,0.000363
-inj_trans_road_pedal,N5,0.0042444
-inj_trans_road_4wheel,N5,0.134039
-inj_mech_other,N5,0.0528517
-inj_foreign_other,N5,0.0098132
-inj_fires,N5,0.0049641
-inj_trans_road_2wheel,N5,0.0180466
-inj_homicide_other,N5,0.0021896
-inj_animal_venom,N5,0.0003924
-inj_homicide_gun,N5,0.0011385
-inj_mech_gun,N5,0.0020827
-inj_trans_road_pedest,N5,0.0821897
-inj_othunintent,N5,0.0304009
-inj_drowning,N5,0.0017263
-inj_suicide,N5,0.0145236
-inj_trans_other,N5,0.118162
-inj_falls,N5,0.064006
-inj_trans_road_other,N5,0.0023306
-inj_poisoning,N5,0.0021106
-inj_animal_nonven,N5,0.0068403
-inj_homicide_knife,N5,0.0077782
-inj_foreign_other,N6,0.3133554
-inj_trans_road_pedal,N6,0.0353806
-inj_fires,N6,0.0594539
-inj_animal_nonven,N6,0.0360526
-inj_homicide_knife,N6,0.0478179
-inj_trans_road_pedest,N6,0.0433078
-inj_mech_other,N6,5.755262
-inj_suicide,N6,0.0132948
-inj_animal_venom,N6,0.0013061
-inj_falls,N6,0.1388389
-inj_trans_road_2wheel,N6,0.0762799
-inj_trans_road_4wheel,N6,0.1961706
-inj_homicide_other,N6,0.0127934
-inj_mech_suffocate,N6,0.3417236
-inj_poisoning,N6,0.0184403
-inj_homicide_gun,N6,0.0004504
-inj_trans_road_other,N6,0.0449067
-inj_foreign_aspiration,N6,0.0015898
-inj_drowning,N6,0.0013982
-inj_othunintent,N6,2.123816
-inj_trans_other,N6,0.0810658
-inj_mech_gun,N6,0.056322
-inj_trans_road_2wheel,N7,0.1372102
-inj_trans_road_pedal,N7,0.181587
-inj_fires,N7,0.0065125
-inj_othunintent,N7,0.0465024
-inj_drowning,N7,0.0011099
-inj_animal_nonven,N7,0.0189359
-inj_suicide,N7,0.0036471
-inj_homicide_other,N7,0.0045364
-inj_homicide_gun,N7,0.0006451
-inj_mech_other,N7,0.2057005
-inj_foreign_aspiration,N7,0.0023477
-inj_trans_road_other,N7,0.0035818
-inj_animal_venom,N7,0.0034118
-inj_falls,N7,0.1263966
-inj_trans_road_pedest,N7,0.150292
-inj_trans_road_4wheel,N7,0.0568999
-inj_trans_other,N7,0.116653
-inj_mech_gun,N7,0.0646428
-inj_foreign_other,N7,0.0205778
-inj_poisoning,N7,0.0007189
-inj_homicide_knife,N7,0.0046375
-inj_trans_road_pedest,N8,2.145405
-inj_homicide_gun,N8,0.0312172
-inj_homicide_other,N8,1.043425
-inj_foreign_other,N8,0.141151
-inj_homicide_knife,N8,0.0441512
-inj_trans_other,N8,3.883
-inj_animal_venom,N8,0.1415981
-inj_mech_suffocate,N8,0.014982
-inj_animal_nonven,N8,0.0762247
-inj_foreign_aspiration,N8,0.042594
-inj_trans_road_2wheel,N8,2.34787
-inj_trans_road_pedal,N8,0.3304969
-inj_mech_other,N8,1.955477
-inj_suicide,N8,0.2424803
-inj_poisoning,N8,0.7844124
-inj_trans_road_4wheel,N8,2.497584
-inj_fires,N8,36.98645
-inj_drowning,N8,0.1505146
-inj_falls,N8,2.576952
-inj_trans_road_other,N8,0.0453426
-inj_mech_gun,N8,0.3400907
-inj_foreign_eye,N8,0.020732
-inj_othunintent,N8,12.73959
-inj_falls,N9,0.2360928
-inj_homicide_other,N9,0.0842938
-inj_mech_gun,N9,0.0134916
-inj_mech_other,N9,0.2272731
-inj_homicide_knife,N9,0.0044845
-inj_foreign_aspiration,N9,0.0192676
-inj_trans_road_pedest,N9,0.70541
-inj_othunintent,N9,0.5242604
-inj_trans_other,N9,0.0205999
-inj_fires,N9,11.87678
-inj_drowning,N9,0.0257811
-inj_foreign_other,N9,0.0066387
-inj_trans_road_pedal,N9,0.3943591
-inj_foreign_eye,N9,0.0026408
-inj_poisoning,N9,0.0274518
-inj_homicide_gun,N9,0.0008672
-inj_trans_road_other,N9,0.0174977
-inj_suicide,N9,0.1069209
-inj_animal_nonven,N9,0.0205679
-inj_trans_road_4wheel,N9,0.0761168
-inj_animal_venom,N9,0.0554819
-inj_trans_road_2wheel,N9,0.2227452
+"inj_mech_suffocate","Amputation of both lower limbs",.0000121
+"inj_homicide_knife","Amputation of both lower limbs",.0000455
+"inj_mech_other","Amputation of both lower limbs",.0012833
+"inj_trans_road_pedest","Amputation of both lower limbs",.0257601
+"inj_trans_road_pedal","Amputation of both lower limbs",.000348
+"inj_homicide_other","Amputation of both lower limbs",.0000682
+"inj_trans_road_2wheel","Amputation of both lower limbs",.0019827
+"inj_othunintent","Amputation of both lower limbs",.0012916
+"inj_animal_nonven","Amputation of both lower limbs",.0001005
+"inj_fires","Amputation of both lower limbs",.0006753
+"inj_falls","Amputation of both lower limbs",.0013328
+"inj_suicide","Amputation of both lower limbs",.0003585
+"inj_mech_gun","Amputation of both lower limbs",.0000121
+"inj_trans_road_other","Amputation of both lower limbs",.0008644
+"inj_drowning","Amputation of both lower limbs",.0005429
+"inj_trans_road_4wheel","Amputation of both lower limbs",.0049887
+"inj_trans_other","Amputation of both lower limbs",.1104606
+"inj_homicide_gun","Amputation of both lower limbs",1.80e-06
+"inj_animal_venom","Amputation of both lower limbs",9.13e-06
+"inj_trans_road_pedal","Lower airway burns",.0022199
+"inj_foreign_eye","Lower airway burns",.0001323
+"inj_mech_suffocate","Lower airway burns",1.29e-06
+"inj_falls","Lower airway burns",.018716
+"inj_trans_road_2wheel","Lower airway burns",.0018129
+"inj_poisoning","Lower airway burns",.0135314
+"inj_homicide_gun","Lower airway burns",.0000791
+"inj_trans_other","Lower airway burns",.0111701
+"inj_fires","Lower airway burns",.2590551
+"inj_animal_nonven","Lower airway burns",.0001374
+"inj_mech_other","Lower airway burns",.0032013
+"inj_suicide","Lower airway burns",.0013704
+"inj_animal_venom","Lower airway burns",.0002123
+"inj_drowning","Lower airway burns",.0005198
+"inj_foreign_other","Lower airway burns",.007879
+"inj_foreign_aspiration","Lower airway burns",.0015064
+"inj_homicide_other","Lower airway burns",.0014828
+"inj_trans_road_other","Lower airway burns",5.13e-06
+"inj_mech_gun","Lower airway burns",.0005333
+"inj_trans_road_pedest","Lower airway burns",.0041294
+"inj_trans_road_4wheel","Lower airway burns",.003238
+"inj_othunintent","Lower airway burns",.0122391
+"inj_homicide_knife","Lower airway burns",.0000881
+"inj_mech_suffocate","Dislocation of hip",.0543235
+"inj_trans_other","Dislocation of hip",.2662374
+"inj_foreign_aspiration","Dislocation of hip",.0061524
+"inj_drowning","Dislocation of hip",.0437891
+"inj_othunintent","Dislocation of hip",2.48657
+"inj_trans_road_4wheel","Dislocation of hip",1.90142
+"inj_suicide","Dislocation of hip",.005219
+"inj_fires","Dislocation of hip",.1139027
+"inj_trans_road_2wheel","Dislocation of hip",.3271864
+"inj_animal_venom","Dislocation of hip",.006261
+"inj_homicide_knife","Dislocation of hip",.0056894
+"inj_mech_gun","Dislocation of hip",.0058048
+"inj_animal_nonven","Dislocation of hip",.0380143
+"inj_homicide_gun","Dislocation of hip",.0020962
+"inj_homicide_other","Dislocation of hip",.0154733
+"inj_falls","Dislocation of hip",2.834761
+"inj_trans_road_pedest","Dislocation of hip",.6664373
+"inj_foreign_eye","Dislocation of hip",.0003706
+"inj_trans_road_pedal","Dislocation of hip",.1970136
+"inj_mech_other","Dislocation of hip",.1157207
+"inj_foreign_other","Dislocation of hip",.0054006
+"inj_poisoning","Dislocation of hip",.0040923
+"inj_trans_road_other","Dislocation of hip",.0357486
+"inj_trans_road_pedest","Dislocation of knee",.3308249
+"inj_foreign_aspiration","Dislocation of knee",.0990542
+"inj_othunintent","Dislocation of knee",.4511209
+"inj_trans_road_pedal","Dislocation of knee",.1775677
+"inj_suicide","Dislocation of knee",.0049296
+"inj_trans_road_other","Dislocation of knee",.022734
+"inj_trans_other","Dislocation of knee",1.956119
+"inj_fires","Dislocation of knee",.0884684
+"inj_mech_gun","Dislocation of knee",.014609
+"inj_animal_nonven","Dislocation of knee",.2429025
+"inj_homicide_gun","Dislocation of knee",.0027397
+"inj_mech_suffocate","Dislocation of knee",.0000306
+"inj_poisoning","Dislocation of knee",.0405584
+"inj_drowning","Dislocation of knee",.0748092
+"inj_foreign_other","Dislocation of knee",.0032345
+"inj_homicide_other","Dislocation of knee",.0121306
+"inj_trans_road_4wheel","Dislocation of knee",.277007
+"inj_homicide_knife","Dislocation of knee",.0047678
+"inj_foreign_eye","Dislocation of knee",.0100802
+"inj_trans_road_2wheel","Dislocation of knee",.238294
+"inj_mech_other","Dislocation of knee",.0650503
+"inj_animal_venom","Dislocation of knee",.0174206
+"inj_falls","Dislocation of knee",1.300651
+"inj_mech_suffocate","Dislocation of shoulder",.209898
+"inj_foreign_other","Dislocation of shoulder",.0025772
+"inj_foreign_aspiration","Dislocation of shoulder",.0942131
+"inj_falls","Dislocation of shoulder",12.3567
+"inj_trans_road_4wheel","Dislocation of shoulder",.8781886
+"inj_othunintent","Dislocation of shoulder",29.55144
+"inj_trans_road_2wheel","Dislocation of shoulder",1.400907
+"inj_trans_road_pedal","Dislocation of shoulder",1.894398
+"inj_homicide_knife","Dislocation of shoulder",.0093693
+"inj_homicide_gun","Dislocation of shoulder",.0007903
+"inj_suicide","Dislocation of shoulder",.0128693
+"inj_poisoning","Dislocation of shoulder",.0736401
+"inj_drowning","Dislocation of shoulder",.0786767
+"inj_trans_other","Dislocation of shoulder",1.867935
+"inj_trans_road_other","Dislocation of shoulder",.0869525
+"inj_homicide_other","Dislocation of shoulder",.146269
+"inj_foreign_eye","Dislocation of shoulder",.0004139
+"inj_animal_venom","Dislocation of shoulder",.0145196
+"inj_fires","Dislocation of shoulder",.2103058
+"inj_trans_road_pedest","Dislocation of shoulder",1.493182
+"inj_mech_gun","Dislocation of shoulder",.0605115
+"inj_mech_other","Dislocation of shoulder",.5540841
+"inj_animal_nonven","Dislocation of shoulder",.0345314
+"inj_foreign_aspiration","Other injuries of muscle & tendon and other dislocations",.759444
+"inj_trans_road_4wheel","Other injuries of muscle & tendon and other dislocations",262.6982
+"inj_fires","Other injuries of muscle & tendon and other dislocations",492.503
+"inj_homicide_gun","Other injuries of muscle & tendon and other dislocations",.5129489
+"inj_othunintent","Other injuries of muscle & tendon and other dislocations",1029.023
+"inj_homicide_other","Other injuries of muscle & tendon and other dislocations",16.58495
+"inj_mech_gun","Other injuries of muscle & tendon and other dislocations",18.93657
+"inj_mech_other","Other injuries of muscle & tendon and other dislocations",1077.096
+"inj_homicide_knife","Other injuries of muscle & tendon and other dislocations",6.718647
+"inj_trans_road_pedal","Other injuries of muscle & tendon and other dislocations",39.83647
+"inj_animal_venom","Other injuries of muscle & tendon and other dislocations",3.839304
+"inj_mech_suffocate","Other injuries of muscle & tendon and other dislocations",18.76915
+"inj_foreign_eye","Other injuries of muscle & tendon and other dislocations",.0659164
+"inj_poisoning","Other injuries of muscle & tendon and other dislocations",.2155449
+"inj_trans_road_other","Other injuries of muscle & tendon and other dislocations",3.543411
+"inj_foreign_other","Other injuries of muscle & tendon and other dislocations",16.23743
+"inj_trans_other","Other injuries of muscle & tendon and other dislocations",24.73326
+"inj_trans_road_2wheel","Other injuries of muscle & tendon and other dislocations",21.11076
+"inj_trans_road_pedest","Other injuries of muscle & tendon and other dislocations",12.08319
+"inj_falls","Other injuries of muscle & tendon and other dislocations",288.488
+"inj_animal_nonven","Other injuries of muscle & tendon and other dislocations",117.8432
+"inj_drowning","Other injuries of muscle & tendon and other dislocations",.8792454
+"inj_suicide","Other injuries of muscle & tendon and other dislocations",2.548708
+"inj_trans_road_other","Fracture of clavicle, scapula, or humerus",3.860623
+"inj_trans_other","Fracture of clavicle, scapula, or humerus",7.569712
+"inj_foreign_other","Fracture of clavicle, scapula, or humerus",.063558
+"inj_homicide_other","Fracture of clavicle, scapula, or humerus",2.102922
+"inj_foreign_aspiration","Fracture of clavicle, scapula, or humerus",.0876618
+"inj_homicide_knife","Fracture of clavicle, scapula, or humerus",.310111
+"inj_mech_gun","Fracture of clavicle, scapula, or humerus",.6902435
+"inj_fires","Fracture of clavicle, scapula, or humerus",1.035791
+"inj_mech_suffocate","Fracture of clavicle, scapula, or humerus",1.809942
+"inj_trans_road_pedest","Fracture of clavicle, scapula, or humerus",14.461
+"inj_foreign_eye","Fracture of clavicle, scapula, or humerus",.0018533
+"inj_falls","Fracture of clavicle, scapula, or humerus",85.88487
+"inj_drowning","Fracture of clavicle, scapula, or humerus",.6484778
+"inj_trans_road_pedal","Fracture of clavicle, scapula, or humerus",24.72338
+"inj_trans_road_4wheel","Fracture of clavicle, scapula, or humerus",38.06555
+"inj_animal_venom","Fracture of clavicle, scapula, or humerus",.0688212
+"inj_othunintent","Fracture of clavicle, scapula, or humerus",84.71537
+"inj_mech_other","Fracture of clavicle, scapula, or humerus",13.96501
+"inj_suicide","Fracture of clavicle, scapula, or humerus",.0555684
+"inj_homicide_gun","Fracture of clavicle, scapula, or humerus",.1270555
+"inj_animal_nonven","Fracture of clavicle, scapula, or humerus",.3803283
+"inj_trans_road_2wheel","Fracture of clavicle, scapula, or humerus",12.00142
+"inj_poisoning","Fracture of clavicle, scapula, or humerus",.1340224
+"inj_falls","Fracture of face bone",10.08819
+"inj_homicide_gun","Fracture of face bone",.1917203
+"inj_trans_road_other","Fracture of face bone",.1676466
+"inj_trans_road_pedal","Fracture of face bone",5.359139
+"inj_trans_road_4wheel","Fracture of face bone",5.792228
+"inj_animal_venom","Fracture of face bone",.0496305
+"inj_drowning","Fracture of face bone",.0867148
+"inj_fires","Fracture of face bone",.3853941
+"inj_trans_road_pedest","Fracture of face bone",2.660744
+"inj_foreign_other","Fracture of face bone",.0567758
+"inj_foreign_eye","Fracture of face bone",.0029665
+"inj_trans_other","Fracture of face bone",3.216532
+"inj_homicide_other","Fracture of face bone",1.511544
+"inj_mech_other","Fracture of face bone",4.000866
+"inj_mech_suffocate","Fracture of face bone",.1985319
+"inj_homicide_knife","Fracture of face bone",.0650356
+"inj_foreign_aspiration","Fracture of face bone",.0655379
+"inj_suicide","Fracture of face bone",.0248692
+"inj_othunintent","Fracture of face bone",12.3614
+"inj_animal_nonven","Fracture of face bone",.1079616
+"inj_poisoning","Fracture of face bone",.0441583
+"inj_trans_road_2wheel","Fracture of face bone",5.19488
+"inj_mech_gun","Fracture of face bone",.3262902
+"inj_trans_other","Fracture of foot bone",2.546741
+"inj_animal_venom","Fracture of foot bone",.0486884
+"inj_animal_nonven","Fracture of foot bone",.1195795
+"inj_drowning","Fracture of foot bone",.1913486
+"inj_foreign_other","Fracture of foot bone",.047263
+"inj_mech_suffocate","Fracture of foot bone",.4971408
+"inj_othunintent","Fracture of foot bone",25.16943
+"inj_poisoning","Fracture of foot bone",.0401205
+"inj_falls","Fracture of foot bone",18.53266
+"inj_mech_gun","Fracture of foot bone",.6121786
+"inj_trans_road_pedest","Fracture of foot bone",8.80985
+"inj_trans_road_other","Fracture of foot bone",.2896094
+"inj_foreign_aspiration","Fracture of foot bone",.0899224
+"inj_suicide","Fracture of foot bone",.0378356
+"inj_homicide_other","Fracture of foot bone",.1424974
+"inj_mech_other","Fracture of foot bone",20.89617
+"inj_fires","Fracture of foot bone",.4263536
+"inj_foreign_eye","Fracture of foot bone",.0059279
+"inj_trans_road_2wheel","Fracture of foot bone",3.641537
+"inj_trans_road_4wheel","Fracture of foot bone",11.99676
+"inj_homicide_gun","Fracture of foot bone",.1024536
+"inj_homicide_knife","Fracture of foot bone",.017525
+"inj_trans_road_pedal","Fracture of foot bone",5.697546
+"inj_trans_road_pedest","Fracture of hand bone",4.032666
+"inj_foreign_other","Fracture of hand bone",.4295254
+"inj_animal_venom","Fracture of hand bone",.1274967
+"inj_trans_other","Fracture of hand bone",5.791149
+"inj_othunintent","Fracture of hand bone",30.99196
+"inj_mech_other","Fracture of hand bone",40.2386
+"inj_trans_road_2wheel","Fracture of hand bone",3.708153
+"inj_trans_road_pedal","Fracture of hand bone",7.220379
+"inj_homicide_gun","Fracture of hand bone",.1338913
+"inj_animal_nonven","Fracture of hand bone",.2928598
+"inj_trans_road_4wheel","Fracture of hand bone",12.39539
+"inj_foreign_eye","Fracture of hand bone",.013332
+"inj_falls","Fracture of hand bone",28.94908
+"inj_poisoning","Fracture of hand bone",.0308753
+"inj_mech_gun","Fracture of hand bone",1.157554
+"inj_foreign_aspiration","Fracture of hand bone",.1199486
+"inj_homicide_other","Fracture of hand bone",.942571
+"inj_mech_suffocate","Fracture of hand bone",1.534635
+"inj_homicide_knife","Fracture of hand bone",.1369813
+"inj_trans_road_other","Fracture of hand bone",.514651
+"inj_drowning","Fracture of hand bone",.1239518
+"inj_fires","Fracture of hand bone",.83774
+"inj_suicide","Fracture of hand bone",.0890632
+"inj_trans_road_4wheel","Fracture of neck of femur",21.25062
+"inj_animal_nonven","Fracture of neck of femur",.3285833
+"inj_homicide_gun","Fracture of neck of femur",.0107559
+"inj_mech_other","Fracture of neck of femur",2.36986
+"inj_trans_road_pedal","Fracture of neck of femur",7.033558
+"inj_mech_gun","Fracture of neck of femur",.2605962
+"inj_foreign_other","Fracture of neck of femur",.6359587
+"inj_suicide","Fracture of neck of femur",.1302668
+"inj_trans_road_pedest","Fracture of neck of femur",10.8936
+"inj_trans_road_2wheel","Fracture of neck of femur",1.418843
+"inj_mech_suffocate","Fracture of neck of femur",.6598349
+"inj_foreign_eye","Fracture of neck of femur",.011125
+"inj_homicide_knife","Fracture of neck of femur",.0515012
+"inj_fires","Fracture of neck of femur",1.641053
+"inj_animal_venom","Fracture of neck of femur",.0652412
+"inj_othunintent","Fracture of neck of femur",15.95804
+"inj_trans_road_other","Fracture of neck of femur",1.061943
+"inj_drowning","Fracture of neck of femur",.6389648
+"inj_falls","Fracture of neck of femur",235.6085
+"inj_homicide_other","Fracture of neck of femur",.6947303
+"inj_trans_other","Fracture of neck of femur",23.79612
+"inj_poisoning","Fracture of neck of femur",.04892
+"inj_foreign_aspiration","Fracture of neck of femur",.471796
+"inj_trans_road_2wheel","Amputation of both upper limbs",.0163842
+"inj_suicide","Amputation of both upper limbs",.0634814
+"inj_mech_other","Amputation of both upper limbs",.2083641
+"inj_trans_road_other","Amputation of both upper limbs",.0015639
+"inj_trans_road_4wheel","Amputation of both upper limbs",.0497125
+"inj_trans_road_pedal","Amputation of both upper limbs",.0037276
+"inj_mech_suffocate","Amputation of both upper limbs",.0000387
+"inj_trans_road_pedest","Amputation of both upper limbs",.0729897
+"inj_drowning","Amputation of both upper limbs",.0005708
+"inj_animal_venom","Amputation of both upper limbs",.0004125
+"inj_foreign_other","Amputation of both upper limbs",.0353039
+"inj_othunintent","Amputation of both upper limbs",.040538
+"inj_foreign_eye","Amputation of both upper limbs",.0001334
+"inj_mech_gun","Amputation of both upper limbs",.0021253
+"inj_foreign_aspiration","Amputation of both upper limbs",.0006124
+"inj_poisoning","Amputation of both upper limbs",.0009063
+"inj_animal_nonven","Amputation of both upper limbs",.0007283
+"inj_fires","Amputation of both upper limbs",.0025814
+"inj_homicide_gun","Amputation of both upper limbs",.0002783
+"inj_homicide_knife","Amputation of both upper limbs",.0063423
+"inj_homicide_other","Amputation of both upper limbs",.0009921
+"inj_falls","Amputation of both upper limbs",.076948
+"inj_trans_other","Amputation of both upper limbs",.051802
+"inj_foreign_other","Fracture of patella, tibia, fibula, or ankle",.1285275
+"inj_othunintent","Fracture of patella, tibia, fibula, or ankle",40.76426
+"inj_homicide_knife","Fracture of patella, tibia, fibula, or ankle",.1481352
+"inj_trans_road_pedal","Fracture of patella, tibia, fibula, or ankle",27.51097
+"inj_homicide_other","Fracture of patella, tibia, fibula, or ankle",1.194686
+"inj_animal_nonven","Fracture of patella, tibia, fibula, or ankle",.5139776
+"inj_trans_road_2wheel","Fracture of patella, tibia, fibula, or ankle",11.31695
+"inj_mech_other","Fracture of patella, tibia, fibula, or ankle",8.129406
+"inj_falls","Fracture of patella, tibia, fibula, or ankle",80.25472
+"inj_animal_venom","Fracture of patella, tibia, fibula, or ankle",.101934
+"inj_homicide_gun","Fracture of patella, tibia, fibula, or ankle",.3525287
+"inj_mech_suffocate","Fracture of patella, tibia, fibula, or ankle",1.923868
+"inj_suicide","Fracture of patella, tibia, fibula, or ankle",.1811527
+"inj_trans_road_other","Fracture of patella, tibia, fibula, or ankle",2.345462
+"inj_mech_gun","Fracture of patella, tibia, fibula, or ankle",1.017556
+"inj_trans_road_pedest","Fracture of patella, tibia, fibula, or ankle",25.54276
+"inj_drowning","Fracture of patella, tibia, fibula, or ankle",.4432332
+"inj_foreign_aspiration","Fracture of patella, tibia, fibula, or ankle",.1392815
+"inj_foreign_eye","Fracture of patella, tibia, fibula, or ankle",.013742
+"inj_trans_road_4wheel","Fracture of patella, tibia, fibula, or ankle",85.30684
+"inj_trans_other","Fracture of patella, tibia, fibula, or ankle",13.91138
+"inj_fires","Fracture of patella, tibia, fibula, or ankle",1.325191
+"inj_poisoning","Fracture of patella, tibia, fibula, or ankle",.2603577
+"inj_foreign_aspiration","Fracture of pelvis",.0361314
+"inj_trans_road_2wheel","Fracture of pelvis",1.815283
+"inj_mech_gun","Fracture of pelvis",.1708446
+"inj_homicide_knife","Fracture of pelvis",.0133691
+"inj_othunintent","Fracture of pelvis",6.882323
+"inj_trans_road_4wheel","Fracture of pelvis",15.59902
+"inj_suicide","Fracture of pelvis",.0343496
+"inj_fires","Fracture of pelvis",.3191064
+"inj_homicide_gun","Fracture of pelvis",.0899161
+"inj_drowning","Fracture of pelvis",.141172
+"inj_mech_other","Fracture of pelvis",1.143201
+"inj_animal_nonven","Fracture of pelvis",.0441696
+"inj_animal_venom","Fracture of pelvis",.0527017
+"inj_mech_suffocate","Fracture of pelvis",.0949366
+"inj_trans_other","Fracture of pelvis",3.684362
+"inj_trans_road_pedest","Fracture of pelvis",12.14759
+"inj_poisoning","Fracture of pelvis",.0447731
+"inj_foreign_eye","Fracture of pelvis",.0060344
+"inj_falls","Fracture of pelvis",35.62928
+"inj_foreign_other","Fracture of pelvis",.0157548
+"inj_trans_road_pedal","Fracture of pelvis",1.741132
+"inj_homicide_other","Fracture of pelvis",.1703957
+"inj_trans_road_other","Fracture of pelvis",.4182593
+"inj_homicide_other","Fracture of radius or ulna",1.256942
+"inj_trans_road_4wheel","Fracture of radius or ulna",23.71763
+"inj_animal_venom","Fracture of radius or ulna",.2207086
+"inj_mech_gun","Fracture of radius or ulna",.5840252
+"inj_foreign_aspiration","Fracture of radius or ulna",.5844465
+"inj_mech_other","Fracture of radius or ulna",8.412302
+"inj_trans_road_2wheel","Fracture of radius or ulna",9.438124
+"inj_drowning","Fracture of radius or ulna",.1704246
+"inj_homicide_gun","Fracture of radius or ulna",.1259681
+"inj_homicide_knife","Fracture of radius or ulna",.0861017
+"inj_othunintent","Fracture of radius or ulna",30.72165
+"inj_animal_nonven","Fracture of radius or ulna",.3731244
+"inj_trans_road_other","Fracture of radius or ulna",2.668021
+"inj_falls","Fracture of radius or ulna",91.59165
+"inj_trans_road_pedal","Fracture of radius or ulna",29.66345
+"inj_suicide","Fracture of radius or ulna",.1783019
+"inj_trans_other","Fracture of radius or ulna",10.94514
+"inj_fires","Fracture of radius or ulna",1.825869
+"inj_trans_road_pedest","Fracture of radius or ulna",11.40559
+"inj_foreign_eye","Fracture of radius or ulna",.0126219
+"inj_foreign_other","Fracture of radius or ulna",.1950619
+"inj_mech_suffocate","Fracture of radius or ulna",.8625697
+"inj_poisoning","Fracture of radius or ulna",.2145956
+"inj_trans_road_pedal","Fracture of skull",2.227886
+"inj_suicide","Fracture of skull",.0111255
+"inj_foreign_aspiration","Fracture of skull",.0121276
+"inj_homicide_other","Fracture of skull",.7614063
+"inj_trans_road_2wheel","Fracture of skull",2.858271
+"inj_othunintent","Fracture of skull",4.691562
+"inj_animal_venom","Fracture of skull",.0192478
+"inj_trans_road_4wheel","Fracture of skull",12.43628
+"inj_trans_other","Fracture of skull",6.939896
+"inj_falls","Fracture of skull",17.846
+"inj_poisoning","Fracture of skull",.0168389
+"inj_homicide_knife","Fracture of skull",.0965307
+"inj_homicide_gun","Fracture of skull",.1236221
+"inj_mech_suffocate","Fracture of skull",.4730421
+"inj_trans_road_pedest","Fracture of skull",11.56797
+"inj_trans_road_other","Fracture of skull",.1991493
+"inj_animal_nonven","Fracture of skull",.0949859
+"inj_drowning","Fracture of skull",.0043342
+"inj_foreign_other","Fracture of skull",.1016383
+"inj_foreign_eye","Fracture of skull",.0461104
+"inj_mech_gun","Fracture of skull",.160299
+"inj_fires","Fracture of skull",.1740069
+"inj_mech_other","Fracture of skull",2.405767
+"inj_homicide_other","Fracture of sternum or rib(s)",.3815976
+"inj_poisoning","Fracture of sternum or rib(s)",.0071731
+"inj_drowning","Fracture of sternum or rib(s)",.0144785
+"inj_trans_road_4wheel","Fracture of sternum or rib(s)",10.72293
+"inj_trans_road_pedest","Fracture of sternum or rib(s)",.8721335
+"inj_trans_other","Fracture of sternum or rib(s)",2.4459
+"inj_trans_road_2wheel","Fracture of sternum or rib(s)",.297906
+"inj_homicide_gun","Fracture of sternum or rib(s)",.0013164
+"inj_mech_suffocate","Fracture of sternum or rib(s)",.0865343
+"inj_foreign_eye","Fracture of sternum or rib(s)",.0014885
+"inj_mech_gun","Fracture of sternum or rib(s)",.0417344
+"inj_animal_nonven","Fracture of sternum or rib(s)",.0487143
+"inj_trans_road_other","Fracture of sternum or rib(s)",.2861216
+"inj_animal_venom","Fracture of sternum or rib(s)",.0014714
+"inj_suicide","Fracture of sternum or rib(s)",.0050164
+"inj_mech_other","Fracture of sternum or rib(s)",1.999437
+"inj_trans_road_pedal","Fracture of sternum or rib(s)",2.927082
+"inj_fires","Fracture of sternum or rib(s)",.0298818
+"inj_othunintent","Fracture of sternum or rib(s)",7.227036
+"inj_homicide_knife","Fracture of sternum or rib(s)",.0058853
+"inj_falls","Fracture of sternum or rib(s)",14.44645
+"inj_foreign_aspiration","Fracture of sternum or rib(s)",.0331068
+"inj_foreign_other","Fracture of sternum or rib(s)",.0028467
+"inj_trans_road_4wheel","Fracture of vertebral column",20.79398
+"inj_homicide_knife","Fracture of vertebral column",.029229
+"inj_trans_road_other","Fracture of vertebral column",.6821931
+"inj_othunintent","Fracture of vertebral column",74.61363
+"inj_trans_road_pedest","Fracture of vertebral column",17.94643
+"inj_falls","Fracture of vertebral column",83.34853
+"inj_homicide_gun","Fracture of vertebral column",.1723844
+"inj_animal_nonven","Fracture of vertebral column",.088368
+"inj_trans_road_2wheel","Fracture of vertebral column",1.374166
+"inj_mech_suffocate","Fracture of vertebral column",.9239089
+"inj_mech_gun","Fracture of vertebral column",.3304902
+"inj_foreign_eye","Fracture of vertebral column",.0067601
+"inj_foreign_aspiration","Fracture of vertebral column",.0942577
+"inj_suicide","Fracture of vertebral column",.0768739
+"inj_animal_venom","Fracture of vertebral column",.0146414
+"inj_fires","Fracture of vertebral column",.6745645
+"inj_trans_other","Fracture of vertebral column",3.805079
+"inj_trans_road_pedal","Fracture of vertebral column",16.36111
+"inj_poisoning","Fracture of vertebral column",.0264504
+"inj_mech_other","Fracture of vertebral column",5.392131
+"inj_foreign_other","Fracture of vertebral column",.0695218
+"inj_drowning","Fracture of vertebral column",.0762993
+"inj_homicide_other","Fracture of vertebral column",1.162182
+"inj_foreign_eye","Fracture of femur, other than femoral neck",.0069414
+"inj_homicide_other","Fracture of femur, other than femoral neck",2.512692
+"inj_homicide_knife","Fracture of femur, other than femoral neck",.139634
+"inj_foreign_aspiration","Fracture of femur, other than femoral neck",.2572534
+"inj_othunintent","Fracture of femur, other than femoral neck",56.40103
+"inj_trans_other","Fracture of femur, other than femoral neck",4.636797
+"inj_falls","Fracture of femur, other than femoral neck",110.4257
+"inj_animal_nonven","Fracture of femur, other than femoral neck",.3504745
+"inj_fires","Fracture of femur, other than femoral neck",1.238164
+"inj_mech_suffocate","Fracture of femur, other than femoral neck",.6654732
+"inj_mech_other","Fracture of femur, other than femoral neck",12.50725
+"inj_foreign_other","Fracture of femur, other than femoral neck",.0772803
+"inj_trans_road_other","Fracture of femur, other than femoral neck",1.094182
+"inj_trans_road_pedal","Fracture of femur, other than femoral neck",5.500591
+"inj_trans_road_pedest","Fracture of femur, other than femoral neck",25.85442
+"inj_animal_venom","Fracture of femur, other than femoral neck",.0607434
+"inj_drowning","Fracture of femur, other than femoral neck",.21035
+"inj_homicide_gun","Fracture of femur, other than femoral neck",.2785155
+"inj_poisoning","Fracture of femur, other than femoral neck",.0590982
+"inj_trans_road_2wheel","Fracture of femur, other than femoral neck",12.0457
+"inj_suicide","Fracture of femur, other than femoral neck",.0635468
+"inj_mech_gun","Fracture of femur, other than femoral neck",.883051
+"inj_trans_road_4wheel","Fracture of femur, other than femoral neck",41.51973
+"inj_mech_other","Minor traumatic brain injury",4.212094
+"inj_trans_road_other","Minor traumatic brain injury",1.337252
+"inj_trans_road_pedal","Minor traumatic brain injury",14.69517
+"inj_poisoning","Minor traumatic brain injury",.05059
+"inj_homicide_gun","Minor traumatic brain injury",.2230443
+"inj_trans_road_4wheel","Minor traumatic brain injury",20.95539
+"inj_trans_other","Minor traumatic brain injury",2.80662
+"inj_mech_gun","Minor traumatic brain injury",.1131964
+"inj_foreign_eye","Minor traumatic brain injury",.0092108
+"inj_foreign_aspiration","Minor traumatic brain injury",.0295581
+"inj_drowning","Minor traumatic brain injury",.1332344
+"inj_homicide_knife","Minor traumatic brain injury",.086893
+"inj_othunintent","Minor traumatic brain injury",10.85262
+"inj_homicide_other","Minor traumatic brain injury",2.472492
+"inj_animal_nonven","Minor traumatic brain injury",.1116017
+"inj_fires","Minor traumatic brain injury",.3600264
+"inj_trans_road_2wheel","Minor traumatic brain injury",3.987773
+"inj_mech_suffocate","Minor traumatic brain injury",.3417268
+"inj_suicide","Minor traumatic brain injury",.0335523
+"inj_falls","Minor traumatic brain injury",10.79407
+"inj_animal_venom","Minor traumatic brain injury",.0232735
+"inj_foreign_other","Minor traumatic brain injury",.0605314
+"inj_trans_road_pedest","Minor traumatic brain injury",18.54511
+"inj_trans_road_4wheel","Moderate to severe traumatic brain injury",49.28045
+"inj_fires","Moderate to severe traumatic brain injury",1.000514
+"inj_trans_road_other","Moderate to severe traumatic brain injury",2.727998
+"inj_trans_road_pedest","Moderate to severe traumatic brain injury",39.36206
+"inj_homicide_gun","Moderate to severe traumatic brain injury",.1264998
+"inj_trans_other","Moderate to severe traumatic brain injury",1.752348
+"inj_foreign_other","Moderate to severe traumatic brain injury",.0467541
+"inj_homicide_other","Moderate to severe traumatic brain injury",1.351694
+"inj_mech_suffocate","Moderate to severe traumatic brain injury",.3124666
+"inj_trans_road_pedal","Moderate to severe traumatic brain injury",15.35053
+"inj_othunintent","Moderate to severe traumatic brain injury",3.501335
+"inj_foreign_eye","Moderate to severe traumatic brain injury",.0832938
+"inj_mech_gun","Moderate to severe traumatic brain injury",.1998821
+"inj_foreign_aspiration","Moderate to severe traumatic brain injury",.0602892
+"inj_falls","Moderate to severe traumatic brain injury",38.88721
+"inj_poisoning","Moderate to severe traumatic brain injury",.096607
+"inj_animal_venom","Moderate to severe traumatic brain injury",.0529679
+"inj_suicide","Moderate to severe traumatic brain injury",.1434369
+"inj_animal_nonven","Moderate to severe traumatic brain injury",.2498911
+"inj_homicide_knife","Moderate to severe traumatic brain injury",.1036799
+"inj_drowning","Moderate to severe traumatic brain injury",.2561235
+"inj_trans_road_2wheel","Moderate to severe traumatic brain injury",13.82627
+"inj_mech_other","Moderate to severe traumatic brain injury",3.035773
+"inj_mech_other","Amputation of finger (excluding thumb)",8.453022
+"inj_foreign_other","Amputation of finger (excluding thumb)",.1232177
+"inj_animal_venom","Amputation of finger (excluding thumb)",.0229309
+"inj_trans_road_other","Amputation of finger (excluding thumb)",.0328469
+"inj_suicide","Amputation of finger (excluding thumb)",.0554699
+"inj_homicide_knife","Amputation of finger (excluding thumb)",.0770331
+"inj_drowning","Amputation of finger (excluding thumb)",.0479477
+"inj_foreign_eye","Amputation of finger (excluding thumb)",.0002477
+"inj_poisoning","Amputation of finger (excluding thumb)",.0062961
+"inj_trans_road_4wheel","Amputation of finger (excluding thumb)",.7816542
+"inj_trans_road_pedest","Amputation of finger (excluding thumb)",.7320833
+"inj_mech_gun","Amputation of finger (excluding thumb)",.1881734
+"inj_mech_suffocate","Amputation of finger (excluding thumb)",.2182524
+"inj_falls","Amputation of finger (excluding thumb)",.5926545
+"inj_homicide_other","Amputation of finger (excluding thumb)",.0544592
+"inj_trans_road_pedal","Amputation of finger (excluding thumb)",.1420496
+"inj_trans_road_2wheel","Amputation of finger (excluding thumb)",.1968276
+"inj_homicide_gun","Amputation of finger (excluding thumb)",.0237152
+"inj_foreign_aspiration","Amputation of finger (excluding thumb)",.0418138
+"inj_animal_nonven","Amputation of finger (excluding thumb)",.0854234
+"inj_trans_other","Amputation of finger (excluding thumb)",.3934138
+"inj_fires","Amputation of finger (excluding thumb)",.2308528
+"inj_othunintent","Amputation of finger (excluding thumb)",3.73747
+"inj_trans_road_other","Foreign body in ear",.000518
+"inj_foreign_other","Foreign body in ear",93.25976
+"inj_homicide_other","Foreign body in ear",.1106182
+"inj_animal_venom","Foreign body in ear",.0294153
+"inj_foreign_eye","Foreign body in ear",.1111104
+"inj_foreign_aspiration","Foreign body in ear",.0789089
+"inj_poisoning","Foreign body in ear",.0163696
+"inj_mech_gun","Foreign body in ear",.01352
+"inj_drowning","Foreign body in ear",.0010191
+"inj_othunintent","Foreign body in ear",.2508126
+"inj_falls","Foreign body in ear",.0535976
+"inj_mech_suffocate","Foreign body in ear",.0001433
+"inj_homicide_knife","Foreign body in ear",.0068255
+"inj_trans_road_4wheel","Foreign body in ear",.2257288
+"inj_trans_road_pedal","Foreign body in ear",.000518
+"inj_suicide","Foreign body in ear",.0229528
+"inj_trans_road_2wheel","Foreign body in ear",.0210024
+"inj_mech_other","Foreign body in ear",.0496353
+"inj_animal_nonven","Foreign body in ear",.0879438
+"inj_trans_other","Foreign body in ear",.3685761
+"inj_fires","Foreign body in ear",.032363
+"inj_trans_road_pedest","Foreign body in ear",.0976225
+"inj_homicide_gun","Foreign body in ear",.0004917
+"inj_drowning","Foreign body in respiratory system",.1275053
+"inj_othunintent","Foreign body in respiratory system",1.329788
+"inj_trans_road_other","Foreign body in respiratory system",.0043497
+"inj_animal_nonven","Foreign body in respiratory system",.016696
+"inj_suicide","Foreign body in respiratory system",.0329046
+"inj_poisoning","Foreign body in respiratory system",.0578197
+"inj_mech_suffocate","Foreign body in respiratory system",2.000487
+"inj_trans_road_pedal","Foreign body in respiratory system",.0164918
+"inj_falls","Foreign body in respiratory system",.5054705
+"inj_homicide_gun","Foreign body in respiratory system",.0056944
+"inj_foreign_eye","Foreign body in respiratory system",.0748439
+"inj_foreign_aspiration","Foreign body in respiratory system",112.9166
+"inj_trans_road_2wheel","Foreign body in respiratory system",.0211328
+"inj_homicide_knife","Foreign body in respiratory system",.067387
+"inj_homicide_other","Foreign body in respiratory system",.731527
+"inj_animal_venom","Foreign body in respiratory system",.0592385
+"inj_mech_other","Foreign body in respiratory system",.0492262
+"inj_trans_other","Foreign body in respiratory system",3.474046
+"inj_foreign_other","Foreign body in respiratory system",3.42016
+"inj_trans_road_pedest","Foreign body in respiratory system",.5781033
+"inj_trans_road_4wheel","Foreign body in respiratory system",.2000647
+"inj_fires","Foreign body in respiratory system",.1801892
+"inj_mech_gun","Foreign body in respiratory system",.008481
+"inj_trans_road_2wheel","Foreign body in gastrointestinal or urogenital system",.0317506
+"inj_trans_road_pedest","Foreign body in gastrointestinal or urogenital system",.3164375
+"inj_suicide","Foreign body in gastrointestinal or urogenital system",.1224857
+"inj_mech_suffocate","Foreign body in gastrointestinal or urogenital system",.0824991
+"inj_foreign_eye","Foreign body in gastrointestinal or urogenital system",1.514063
+"inj_animal_venom","Foreign body in gastrointestinal or urogenital system",.0378139
+"inj_homicide_knife","Foreign body in gastrointestinal or urogenital system",.0254227
+"inj_foreign_other","Foreign body in gastrointestinal or urogenital system",302.7468
+"inj_trans_road_pedal","Foreign body in gastrointestinal or urogenital system",.0390211
+"inj_drowning","Foreign body in gastrointestinal or urogenital system",.0690595
+"inj_trans_road_other","Foreign body in gastrointestinal or urogenital system",.0235675
+"inj_homicide_other","Foreign body in gastrointestinal or urogenital system",.087329
+"inj_poisoning","Foreign body in gastrointestinal or urogenital system",.1203215
+"inj_othunintent","Foreign body in gastrointestinal or urogenital system",.5711747
+"inj_fires","Foreign body in gastrointestinal or urogenital system",.1669388
+"inj_animal_nonven","Foreign body in gastrointestinal or urogenital system",.0163477
+"inj_homicide_gun","Foreign body in gastrointestinal or urogenital system",.0033102
+"inj_mech_gun","Foreign body in gastrointestinal or urogenital system",.0030344
+"inj_trans_road_4wheel","Foreign body in gastrointestinal or urogenital system",.1109863
+"inj_falls","Foreign body in gastrointestinal or urogenital system",.2908178
+"inj_foreign_aspiration","Foreign body in gastrointestinal or urogenital system",15.86383
+"inj_mech_other","Foreign body in gastrointestinal or urogenital system",.047308
+"inj_trans_other","Foreign body in gastrointestinal or urogenital system",2.381297
+"inj_trans_other","Spinal cord lesion at neck level",.0033443
+"inj_animal_venom","Spinal cord lesion at neck level",.0004624
+"inj_othunintent","Spinal cord lesion at neck level",.0241526
+"inj_animal_nonven","Spinal cord lesion at neck level",.0008292
+"inj_suicide","Spinal cord lesion at neck level",.003844
+"inj_falls","Spinal cord lesion at neck level",.3162834
+"inj_homicide_gun","Spinal cord lesion at neck level",.0063669
+"inj_poisoning","Spinal cord lesion at neck level",.0236323
+"inj_fires","Spinal cord lesion at neck level",.006073
+"inj_homicide_other","Spinal cord lesion at neck level",.012253
+"inj_trans_road_pedal","Spinal cord lesion at neck level",.0633552
+"inj_trans_road_4wheel","Spinal cord lesion at neck level",.5726396
+"inj_mech_other","Spinal cord lesion at neck level",.0192631
+"inj_drowning","Spinal cord lesion at neck level",.0054746
+"inj_homicide_knife","Spinal cord lesion at neck level",.0024835
+"inj_foreign_eye","Spinal cord lesion at neck level",.0003984
+"inj_trans_road_pedest","Spinal cord lesion at neck level",.1524397
+"inj_foreign_other","Spinal cord lesion at neck level",.0005242
+"inj_trans_road_other","Spinal cord lesion at neck level",.0829741
+"inj_mech_suffocate","Spinal cord lesion at neck level",.0097236
+"inj_foreign_aspiration","Spinal cord lesion at neck level",.0035031
+"inj_mech_gun","Spinal cord lesion at neck level",.0133147
+"inj_trans_road_2wheel","Spinal cord lesion at neck level",.0559032
+"inj_poisoning","Spinal cord lesion below neck level",.09333
+"inj_trans_other","Spinal cord lesion below neck level",.0076433
+"inj_homicide_knife","Spinal cord lesion below neck level",.0357295
+"inj_trans_road_pedest","Spinal cord lesion below neck level",1.454489
+"inj_mech_other","Spinal cord lesion below neck level",3.999268
+"inj_fires","Spinal cord lesion below neck level",3.41843
+"inj_homicide_gun","Spinal cord lesion below neck level",.0059965
+"inj_foreign_other","Spinal cord lesion below neck level",.0024151
+"inj_animal_nonven","Spinal cord lesion below neck level",.3834964
+"inj_animal_venom","Spinal cord lesion below neck level",.0005304
+"inj_mech_suffocate","Spinal cord lesion below neck level",.0554832
+"inj_trans_road_pedal","Spinal cord lesion below neck level",.6040978
+"inj_trans_road_other","Spinal cord lesion below neck level",.2355415
+"inj_mech_gun","Spinal cord lesion below neck level",.0346677
+"inj_foreign_eye","Spinal cord lesion below neck level",.0045421
+"inj_foreign_aspiration","Spinal cord lesion below neck level",.0006999
+"inj_trans_road_2wheel","Spinal cord lesion below neck level",.571226
+"inj_falls","Spinal cord lesion below neck level",6.673525
+"inj_othunintent","Spinal cord lesion below neck level",.5035849
+"inj_homicide_other","Spinal cord lesion below neck level",.4252337
+"inj_trans_road_4wheel","Spinal cord lesion below neck level",3.876868
+"inj_suicide","Spinal cord lesion below neck level",.0740417
+"inj_drowning","Spinal cord lesion below neck level",.0147514
+"inj_drowning","Non-fatal submersion",11.61809
+"inj_mech_suffocate","Non-fatal submersion",.0409615
+"inj_mech_gun","Non-fatal submersion",.0001447
+"inj_homicide_gun","Non-fatal submersion",.0001058
+"inj_animal_nonven","Non-fatal submersion",.0024065
+"inj_foreign_other","Non-fatal submersion",.0169049
+"inj_mech_other","Non-fatal submersion",.0279878
+"inj_poisoning","Non-fatal submersion",.0327965
+"inj_othunintent","Non-fatal submersion",.4287229
+"inj_trans_road_pedal","Non-fatal submersion",.0042645
+"inj_suicide","Non-fatal submersion",.0694238
+"inj_trans_road_other","Non-fatal submersion",.0032179
+"inj_trans_road_4wheel","Non-fatal submersion",.1024501
+"inj_animal_venom","Non-fatal submersion",.0038359
+"inj_homicide_knife","Non-fatal submersion",.0014203
+"inj_falls","Non-fatal submersion",.0468233
+"inj_homicide_other","Non-fatal submersion",.0371632
+"inj_trans_road_2wheel","Non-fatal submersion",.0135828
+"inj_trans_other","Non-fatal submersion",.13786
+"inj_trans_road_pedest","Non-fatal submersion",.0569356
+"inj_fires","Non-fatal submersion",.2841621
+"inj_foreign_aspiration","Non-fatal submersion",.0687954
+"inj_trans_road_pedal","Asphyxiation",.0057376
+"inj_foreign_aspiration","Asphyxiation",.2562406
+"inj_homicide_other","Asphyxiation",.0175456
+"inj_falls","Asphyxiation",.0289998
+"inj_drowning","Asphyxiation",.0577194
+"inj_homicide_knife","Asphyxiation",.0001877
+"inj_mech_gun","Asphyxiation",.0042717
+"inj_homicide_gun","Asphyxiation",4.88e-06
+"inj_mech_suffocate","Asphyxiation",2.513033
+"inj_animal_nonven","Asphyxiation",.000931
+"inj_othunintent","Asphyxiation",.2345013
+"inj_trans_road_other","Asphyxiation",.0057376
+"inj_fires","Asphyxiation",.1061978
+"inj_foreign_other","Asphyxiation",.1385475
+"inj_suicide","Asphyxiation",.0679138
+"inj_trans_road_pedest","Asphyxiation",.0115624
+"inj_poisoning","Asphyxiation",.038058
+"inj_mech_other","Asphyxiation",.0024533
+"inj_animal_venom","Asphyxiation",.0023
+"inj_trans_road_2wheel","Asphyxiation",.0106542
+"inj_trans_road_4wheel","Asphyxiation",.0095219
+"inj_trans_other","Asphyxiation",.0515132
+"inj_homicide_gun","Crush injury",.0026834
+"inj_trans_other","Crush injury",.1179849
+"inj_mech_other","Crush injury",2.524172
+"inj_trans_road_pedal","Crush injury",.8901591
+"inj_trans_road_2wheel","Crush injury",.5409204
+"inj_animal_nonven","Crush injury",.0241467
+"inj_foreign_aspiration","Crush injury",.0057636
+"inj_trans_road_other","Crush injury",.0908872
+"inj_trans_road_4wheel","Crush injury",2.28077
+"inj_poisoning","Crush injury",.0061911
+"inj_homicide_other","Crush injury",.018428
+"inj_mech_gun","Crush injury",.014806
+"inj_homicide_knife","Crush injury",.0073276
+"inj_falls","Crush injury",1.383113
+"inj_othunintent","Crush injury",.6008888
+"inj_suicide","Crush injury",.0178922
+"inj_foreign_eye","Crush injury",.036198
+"inj_foreign_other","Crush injury",.0794769
+"inj_trans_road_pedest","Crush injury",1.984765
+"inj_fires","Crush injury",.1349627
+"inj_drowning","Crush injury",.0334908
+"inj_mech_suffocate","Crush injury",.030285
+"inj_animal_venom","Crush injury",.0043771
+"inj_trans_road_other","Injured nerves",.0290443
+"inj_trans_road_pedest","Injured nerves",.8462104
+"inj_homicide_other","Injured nerves",.1971331
+"inj_fires","Injured nerves",.1501915
+"inj_animal_nonven","Injured nerves",.0409212
+"inj_foreign_other","Injured nerves",.2232801
+"inj_foreign_aspiration","Injured nerves",.0721305
+"inj_trans_road_4wheel","Injured nerves",1.484554
+"inj_falls","Injured nerves",1.118831
+"inj_suicide","Injured nerves",.0437152
+"inj_drowning","Injured nerves",.0692165
+"inj_trans_road_2wheel","Injured nerves",.2696043
+"inj_mech_suffocate","Injured nerves",.0057944
+"inj_trans_road_pedal","Injured nerves",.2041949
+"inj_homicide_knife","Injured nerves",.0704421
+"inj_animal_venom","Injured nerves",.0154478
+"inj_mech_gun","Injured nerves",.2517322
+"inj_trans_other","Injured nerves",1.553314
+"inj_poisoning","Injured nerves",.0173545
+"inj_homicide_gun","Injured nerves",.0823295
+"inj_mech_other","Injured nerves",.7779385
+"inj_foreign_eye","Injured nerves",.0429738
+"inj_othunintent","Injured nerves",5.549954
+"inj_trans_road_other","Injury to eyes (including foreign body eye)",.066083
+"inj_animal_venom","Injury to eyes (including foreign body eye)",.3873564
+"inj_mech_other","Injury to eyes (including foreign body eye)",105.797
+"inj_trans_road_2wheel","Injury to eyes (including foreign body eye)",1.448761
+"inj_mech_suffocate","Injury to eyes (including foreign body eye)",2.412891
+"inj_fires","Injury to eyes (including foreign body eye)",56.1365
+"inj_mech_gun","Injury to eyes (including foreign body eye)",9.728599
+"inj_homicide_knife","Injury to eyes (including foreign body eye)",.585052
+"inj_suicide","Injury to eyes (including foreign body eye)",.0489801
+"inj_animal_nonven","Injury to eyes (including foreign body eye)",1.035079
+"inj_othunintent","Injury to eyes (including foreign body eye)",149.1273
+"inj_poisoning","Injury to eyes (including foreign body eye)",.074576
+"inj_foreign_other","Injury to eyes (including foreign body eye)",1.60989
+"inj_foreign_aspiration","Injury to eyes (including foreign body eye)",.1628571
+"inj_falls","Injury to eyes (including foreign body eye)",25.31293
+"inj_trans_road_pedal","Injury to eyes (including foreign body eye)",2.896085
+"inj_drowning","Injury to eyes (including foreign body eye)",.0669368
+"inj_trans_other","Injury to eyes (including foreign body eye)",3.165879
+"inj_trans_road_pedest","Injury to eyes (including foreign body eye)",3.222445
+"inj_trans_road_4wheel","Injury to eyes (including foreign body eye)",16.52933
+"inj_homicide_gun","Injury to eyes (including foreign body eye)",.2008293
+"inj_homicide_other","Injury to eyes (including foreign body eye)",6.215107
+"inj_foreign_eye","Injury to eyes (including foreign body eye)",52.12413
+"inj_homicide_knife","Amputation of one lower limb",.0092884
+"inj_poisoning","Amputation of one lower limb",.0077501
+"inj_trans_road_2wheel","Amputation of one lower limb",.3136328
+"inj_homicide_gun","Amputation of one lower limb",.0015353
+"inj_animal_nonven","Amputation of one lower limb",.0081931
+"inj_foreign_aspiration","Amputation of one lower limb",.0266801
+"inj_trans_road_pedal","Amputation of one lower limb",.1049301
+"inj_animal_venom","Amputation of one lower limb",.007752
+"inj_drowning","Amputation of one lower limb",.1012822
+"inj_foreign_other","Amputation of one lower limb",.0156835
+"inj_othunintent","Amputation of one lower limb",.24442
+"inj_trans_road_pedest","Amputation of one lower limb",1.32802
+"inj_mech_suffocate","Amputation of one lower limb",.0046366
+"inj_trans_other","Amputation of one lower limb",.3087658
+"inj_trans_road_4wheel","Amputation of one lower limb",.2329501
+"inj_mech_gun","Amputation of one lower limb",.0045641
+"inj_trans_road_other","Amputation of one lower limb",.0234399
+"inj_falls","Amputation of one lower limb",.8435182
+"inj_fires","Amputation of one lower limb",.110012
+"inj_suicide","Amputation of one lower limb",.0545504
+"inj_homicide_other","Amputation of one lower limb",.0373539
+"inj_mech_other","Amputation of one lower limb",.1654602
+"inj_foreign_eye","Amputation of one lower limb",.0003896
+"inj_trans_other","Open wound",22.49772
+"inj_homicide_gun","Open wound",6.77589
+"inj_trans_road_2wheel","Open wound",119.673
+"inj_mech_gun","Open wound",13.77446
+"inj_suicide","Open wound",2.018145
+"inj_trans_road_pedest","Open wound",147.9998
+"inj_poisoning","Open wound",.4464546
+"inj_foreign_aspiration","Open wound",.2644741
+"inj_falls","Open wound",476.9648
+"inj_mech_other","Open wound",442.6456
+"inj_mech_suffocate","Open wound",20.06172
+"inj_trans_road_pedal","Open wound",181.4816
+"inj_animal_nonven","Open wound",402.3459
+"inj_homicide_other","Open wound",55.68926
+"inj_fires","Open wound",24.24493
+"inj_foreign_eye","Open wound",.4534537
+"inj_trans_road_other","Open wound",3.595136
+"inj_othunintent","Open wound",468.8133
+"inj_animal_venom","Open wound",8.164352
+"inj_trans_road_4wheel","Open wound",494.3056
+"inj_drowning","Open wound",.4843061
+"inj_foreign_other","Open wound",154.6665
+"inj_homicide_knife","Open wound",18.62231
+"inj_mech_other","Poisoning",1.00277
+"inj_trans_road_pedal","Poisoning",.431365
+"inj_suicide","Poisoning",24.79359
+"inj_animal_venom","Poisoning",31.10794
+"inj_mech_gun","Poisoning",.49539
+"inj_homicide_other","Poisoning",6.476605
+"inj_trans_other","Poisoning",5.47273
+"inj_falls","Poisoning",4.687331
+"inj_animal_nonven","Poisoning",1.832846
+"inj_foreign_other","Poisoning",12.23362
+"inj_trans_road_other","Poisoning",.07993
+"inj_trans_road_pedest","Poisoning",3.608517
+"inj_poisoning","Poisoning",141.4246
+"inj_trans_road_4wheel","Poisoning",1.67038
+"inj_fires","Poisoning",18.51351
+"inj_othunintent","Poisoning",128.5138
+"inj_homicide_gun","Poisoning",1.004812
+"inj_trans_road_2wheel","Poisoning",.4044298
+"inj_drowning","Poisoning",.4932364
+"inj_homicide_knife","Poisoning",.1745828
+"inj_foreign_eye","Poisoning",.0569247
+"inj_mech_suffocate","Poisoning",.8035065
+"inj_foreign_aspiration","Poisoning",1.401749
+"inj_mech_suffocate","Severe chest Injury",.1941354
+"inj_animal_venom","Severe chest Injury",.0531066
+"inj_mech_gun","Severe chest Injury",.1815806
+"inj_foreign_aspiration","Severe chest Injury",.2183724
+"inj_trans_road_pedal","Severe chest Injury",.8539543
+"inj_trans_road_4wheel","Severe chest Injury",5.777164
+"inj_trans_road_other","Severe chest Injury",.2020011
+"inj_homicide_knife","Severe chest Injury",.233875
+"inj_trans_road_2wheel","Severe chest Injury",.7226194
+"inj_poisoning","Severe chest Injury",.0243304
+"inj_foreign_other","Severe chest Injury",.2138737
+"inj_trans_other","Severe chest Injury",.9546196
+"inj_drowning","Severe chest Injury",.0335603
+"inj_falls","Severe chest Injury",2.428454
+"inj_foreign_eye","Severe chest Injury",.0018997
+"inj_homicide_other","Severe chest Injury",.135814
+"inj_homicide_gun","Severe chest Injury",.1541683
+"inj_trans_road_pedest","Severe chest Injury",2.401444
+"inj_mech_other","Severe chest Injury",.7765782
+"inj_fires","Severe chest Injury",.5894079
+"inj_animal_nonven","Severe chest Injury",.1023703
+"inj_othunintent","Severe chest Injury",2.993599
+"inj_suicide","Severe chest Injury",.0685203
+"inj_trans_road_4wheel","Internal hemorrhage in abdomen or pelvis",7.003945
+"inj_animal_nonven","Internal hemorrhage in abdomen or pelvis",.7444714
+"inj_foreign_eye","Internal hemorrhage in abdomen or pelvis",.4879533
+"inj_mech_other","Internal hemorrhage in abdomen or pelvis",10.57974
+"inj_mech_suffocate","Internal hemorrhage in abdomen or pelvis",.3313915
+"inj_suicide","Internal hemorrhage in abdomen or pelvis",.1500863
+"inj_foreign_other","Internal hemorrhage in abdomen or pelvis",4.313397
+"inj_trans_road_pedest","Internal hemorrhage in abdomen or pelvis",11.35136
+"inj_foreign_aspiration","Internal hemorrhage in abdomen or pelvis",.1602017
+"inj_poisoning","Internal hemorrhage in abdomen or pelvis",.364016
+"inj_fires","Internal hemorrhage in abdomen or pelvis",31.0855
+"inj_othunintent","Internal hemorrhage in abdomen or pelvis",27.85184
+"inj_homicide_knife","Internal hemorrhage in abdomen or pelvis",.3691629
+"inj_homicide_other","Internal hemorrhage in abdomen or pelvis",.4465306
+"inj_drowning","Internal hemorrhage in abdomen or pelvis",.1265594
+"inj_falls","Internal hemorrhage in abdomen or pelvis",6.009019
+"inj_trans_other","Internal hemorrhage in abdomen or pelvis",1.492602
+"inj_mech_gun","Internal hemorrhage in abdomen or pelvis",.8992386
+"inj_trans_road_pedal","Internal hemorrhage in abdomen or pelvis",.9057049
+"inj_animal_venom","Internal hemorrhage in abdomen or pelvis",.9515174
+"inj_trans_road_other","Internal hemorrhage in abdomen or pelvis",.265559
+"inj_trans_road_2wheel","Internal hemorrhage in abdomen or pelvis",1.870731
+"inj_homicide_gun","Internal hemorrhage in abdomen or pelvis",.1922227
+"inj_homicide_other","Contusion",13.87454
+"inj_mech_gun","Contusion",3.922199
+"inj_animal_nonven","Contusion",2.548648
+"inj_foreign_aspiration","Contusion",.0253688
+"inj_drowning","Contusion",.2586774
+"inj_trans_road_pedal","Contusion",37.96192
+"inj_trans_road_other","Contusion",2.975022
+"inj_suicide","Contusion",.2620422
+"inj_foreign_eye","Contusion",.0663143
+"inj_mech_suffocate","Contusion",5.582469
+"inj_falls","Contusion",178.1688
+"inj_homicide_gun","Contusion",2.353776
+"inj_mech_other","Contusion",305.9936
+"inj_trans_road_4wheel","Contusion",213.4654
+"inj_trans_other","Contusion",29.23078
+"inj_animal_venom","Contusion",2.789103
+"inj_othunintent","Contusion",179.1716
+"inj_foreign_other","Contusion",5.733462
+"inj_trans_road_pedest","Contusion",57.38864
+"inj_homicide_knife","Contusion",1.350342
+"inj_fires","Contusion",5.488583
+"inj_trans_road_2wheel","Contusion",9.079794
+"inj_poisoning","Contusion",.1855788
+"inj_trans_road_other","Environmental factors (e.g. temperature, pressure, electricity)",.0032334
+"inj_mech_suffocate","Environmental factors (e.g. temperature, pressure, electricity)",.1392278
+"inj_homicide_gun","Environmental factors (e.g. temperature, pressure, electricity)",.0212917
+"inj_trans_road_pedal","Environmental factors (e.g. temperature, pressure, electricity)",.0120393
+"inj_foreign_aspiration","Environmental factors (e.g. temperature, pressure, electricity)",.0361413
+"inj_foreign_eye","Environmental factors (e.g. temperature, pressure, electricity)",.0596625
+"inj_trans_road_2wheel","Environmental factors (e.g. temperature, pressure, electricity)",.068861
+"inj_falls","Environmental factors (e.g. temperature, pressure, electricity)",.387152
+"inj_trans_road_4wheel","Environmental factors (e.g. temperature, pressure, electricity)",.2150335
+"inj_suicide","Environmental factors (e.g. temperature, pressure, electricity)",.0238007
+"inj_mech_gun","Environmental factors (e.g. temperature, pressure, electricity)",1.08496
+"inj_homicide_other","Environmental factors (e.g. temperature, pressure, electricity)",.0429895
+"inj_poisoning","Environmental factors (e.g. temperature, pressure, electricity)",.0970196
+"inj_homicide_knife","Environmental factors (e.g. temperature, pressure, electricity)",.0046493
+"inj_animal_venom","Environmental factors (e.g. temperature, pressure, electricity)",.0256742
+"inj_fires","Environmental factors (e.g. temperature, pressure, electricity)",46.67699
+"inj_animal_nonven","Environmental factors (e.g. temperature, pressure, electricity)",.011193
+"inj_othunintent","Environmental factors (e.g. temperature, pressure, electricity)",49.15663
+"inj_drowning","Environmental factors (e.g. temperature, pressure, electricity)",.126893
+"inj_trans_road_pedest","Environmental factors (e.g. temperature, pressure, electricity)",.1797657
+"inj_trans_other","Environmental factors (e.g. temperature, pressure, electricity)",.343973
+"inj_foreign_other","Environmental factors (e.g. temperature, pressure, electricity)",.0612636
+"inj_mech_other","Environmental factors (e.g. temperature, pressure, electricity)",.1269529
+"inj_medical","Complications of medical treatment",565.0865
+"inj_mech_other","Complications of medical treatment",1.046982
+"inj_trans_road_2wheel","Complications of medical treatment",.5179419
+"inj_homicide_other","Complications of medical treatment",.3627028
+"inj_foreign_eye","Complications of medical treatment",1.916827
+"inj_mech_gun","Complications of medical treatment",.1117614
+"inj_mech_suffocate","Complications of medical treatment",.0146051
+"inj_fires","Complications of medical treatment",2.430605
+"inj_othunintent","Complications of medical treatment",26.32532
+"inj_trans_other","Complications of medical treatment",2.396521
+"inj_trans_road_4wheel","Complications of medical treatment",1.712459
+"inj_falls","Complications of medical treatment",12.36694
+"inj_drowning","Complications of medical treatment",.2389264
+"inj_foreign_other","Complications of medical treatment",1.049239
+"inj_animal_nonven","Complications of medical treatment",.1186897
+"inj_foreign_aspiration","Complications of medical treatment",.621762
+"inj_homicide_gun","Complications of medical treatment",.0232926
+"inj_poisoning","Complications of medical treatment",.2722334
+"inj_trans_road_pedal","Complications of medical treatment",.372087
+"inj_trans_road_other","Complications of medical treatment",.2292072
+"inj_trans_road_pedest","Complications of medical treatment",7.248368
+"inj_suicide","Complications of medical treatment",.3642015
+"inj_animal_venom","Complications of medical treatment",.2183902
+"inj_homicide_knife","Complications of medical treatment",.0967942
+"inj_trans_road_4wheel","Superficial injury",387.7663
+"inj_suicide","Superficial injury",.3137298
+"inj_mech_suffocate","Superficial injury",17.91515
+"inj_trans_road_other","Superficial injury",4.479459
+"inj_animal_nonven","Superficial injury",97.09203
+"inj_foreign_eye","Superficial injury",.0731919
+"inj_trans_road_pedal","Superficial injury",25.58595
+"inj_fires","Superficial injury",13.07914
+"inj_animal_venom","Superficial injury",13.34971
+"inj_homicide_knife","Superficial injury",3.111678
+"inj_foreign_aspiration","Superficial injury",.0909919
+"inj_poisoning","Superficial injury",.1650245
+"inj_falls","Superficial injury",253.2633
+"inj_homicide_other","Superficial injury",21.0115
+"inj_trans_other","Superficial injury",7.631042
+"inj_drowning","Superficial injury",.1825503
+"inj_othunintent","Superficial injury",280.535
+"inj_foreign_other","Superficial injury",2.446202
+"inj_mech_other","Superficial injury",306.222
+"inj_mech_gun","Superficial injury",7.422725
+"inj_trans_road_pedest","Superficial injury",55.39852
+"inj_homicide_gun","Superficial injury",2.46229
+"inj_trans_road_2wheel","Superficial injury",25.66054
+"inj_trans_road_2wheel","Multiple significant injuries",31.7147
+"inj_animal_nonven","Multiple significant injuries",1.090996
+"inj_suicide","Multiple significant injuries",.2817462
+"inj_foreign_other","Multiple significant injuries",.531607
+"inj_trans_other","Multiple significant injuries",.818223
+"inj_homicide_knife","Multiple significant injuries",2.786637
+"inj_drowning","Multiple significant injuries",.2536937
+"inj_trans_road_pedal","Multiple significant injuries",46.17188
+"inj_foreign_aspiration","Multiple significant injuries",.0811432
+"inj_animal_venom","Multiple significant injuries",2.445486
+"inj_homicide_other","Multiple significant injuries",22.68875
+"inj_mech_gun","Multiple significant injuries",2.792017
+"inj_trans_road_other","Multiple significant injuries",4.855027
+"inj_trans_road_4wheel","Multiple significant injuries",430.5997
+"inj_mech_other","Multiple significant injuries",17.24206
+"inj_fires","Multiple significant injuries",76.28363
+"inj_homicide_gun","Multiple significant injuries",2.873952
+"inj_poisoning","Multiple significant injuries",.0880729
+"inj_trans_road_pedest","Multiple significant injuries",137.9667
+"inj_mech_suffocate","Multiple significant injuries",1.290349
+"inj_othunintent","Multiple significant injuries",68.15865
+"inj_foreign_eye","Multiple significant injuries",.0425156
+"inj_falls","Multiple significant injuries",120.7779
+"inj_foreign_aspiration","Amputation of one upper limb",.000363
+"inj_trans_road_pedal","Amputation of one upper limb",.0042444
+"inj_trans_road_4wheel","Amputation of one upper limb",.134039
+"inj_mech_other","Amputation of one upper limb",.0528517
+"inj_foreign_other","Amputation of one upper limb",.0098132
+"inj_fires","Amputation of one upper limb",.0049641
+"inj_trans_road_2wheel","Amputation of one upper limb",.0180466
+"inj_homicide_other","Amputation of one upper limb",.0021896
+"inj_animal_venom","Amputation of one upper limb",.0003924
+"inj_homicide_gun","Amputation of one upper limb",.0011385
+"inj_mech_gun","Amputation of one upper limb",.0020827
+"inj_trans_road_pedest","Amputation of one upper limb",.0821897
+"inj_othunintent","Amputation of one upper limb",.0304009
+"inj_drowning","Amputation of one upper limb",.0017263
+"inj_suicide","Amputation of one upper limb",.0145236
+"inj_trans_other","Amputation of one upper limb",.118162
+"inj_falls","Amputation of one upper limb",.064006
+"inj_trans_road_other","Amputation of one upper limb",.0023306
+"inj_poisoning","Amputation of one upper limb",.0021106
+"inj_animal_nonven","Amputation of one upper limb",.0068403
+"inj_homicide_knife","Amputation of one upper limb",.0077782
+"inj_foreign_other","Amputation of thumb",.3133554
+"inj_trans_road_pedal","Amputation of thumb",.0353806
+"inj_fires","Amputation of thumb",.0594539
+"inj_animal_nonven","Amputation of thumb",.0360526
+"inj_homicide_knife","Amputation of thumb",.0478179
+"inj_trans_road_pedest","Amputation of thumb",.0433078
+"inj_mech_other","Amputation of thumb",5.755262
+"inj_suicide","Amputation of thumb",.0132948
+"inj_animal_venom","Amputation of thumb",.0013061
+"inj_falls","Amputation of thumb",.1388389
+"inj_trans_road_2wheel","Amputation of thumb",.0762799
+"inj_trans_road_4wheel","Amputation of thumb",.1961706
+"inj_homicide_other","Amputation of thumb",.0127934
+"inj_mech_suffocate","Amputation of thumb",.3417236
+"inj_poisoning","Amputation of thumb",.0184403
+"inj_homicide_gun","Amputation of thumb",.0004504
+"inj_trans_road_other","Amputation of thumb",.0449067
+"inj_foreign_aspiration","Amputation of thumb",.0015898
+"inj_drowning","Amputation of thumb",.0013982
+"inj_othunintent","Amputation of thumb",2.123816
+"inj_trans_other","Amputation of thumb",.0810658
+"inj_mech_gun","Amputation of thumb",.056322
+"inj_trans_road_2wheel","Amputation of toe",.1372102
+"inj_trans_road_pedal","Amputation of toe",.181587
+"inj_fires","Amputation of toe",.0065125
+"inj_othunintent","Amputation of toe",.0465024
+"inj_drowning","Amputation of toe",.0011099
+"inj_animal_nonven","Amputation of toe",.0189359
+"inj_suicide","Amputation of toe",.0036471
+"inj_homicide_other","Amputation of toe",.0045364
+"inj_homicide_gun","Amputation of toe",.0006451
+"inj_mech_other","Amputation of toe",.2057005
+"inj_foreign_aspiration","Amputation of toe",.0023477
+"inj_trans_road_other","Amputation of toe",.0035818
+"inj_animal_venom","Amputation of toe",.0034118
+"inj_falls","Amputation of toe",.1263966
+"inj_trans_road_pedest","Amputation of toe",.150292
+"inj_trans_road_4wheel","Amputation of toe",.0568999
+"inj_trans_other","Amputation of toe",.116653
+"inj_mech_gun","Amputation of toe",.0646428
+"inj_foreign_other","Amputation of toe",.0205778
+"inj_poisoning","Amputation of toe",.0007189
+"inj_homicide_knife","Amputation of toe",.0046375
+"inj_trans_road_pedest","Burns with <20% total burned surface area",2.145405
+"inj_homicide_gun","Burns with <20% total burned surface area",.0312172
+"inj_homicide_other","Burns with <20% total burned surface area",1.043425
+"inj_foreign_other","Burns with <20% total burned surface area",.141151
+"inj_homicide_knife","Burns with <20% total burned surface area",.0441512
+"inj_trans_other","Burns with <20% total burned surface area",3.883
+"inj_animal_venom","Burns with <20% total burned surface area",.1415981
+"inj_mech_suffocate","Burns with <20% total burned surface area",.014982
+"inj_animal_nonven","Burns with <20% total burned surface area",.0762247
+"inj_foreign_aspiration","Burns with <20% total burned surface area",.042594
+"inj_trans_road_2wheel","Burns with <20% total burned surface area",2.34787
+"inj_trans_road_pedal","Burns with <20% total burned surface area",.3304969
+"inj_mech_other","Burns with <20% total burned surface area",1.955477
+"inj_suicide","Burns with <20% total burned surface area",.2424803
+"inj_poisoning","Burns with <20% total burned surface area",.7844124
+"inj_trans_road_4wheel","Burns with <20% total burned surface area",2.497584
+"inj_fires","Burns with <20% total burned surface area",36.98645
+"inj_drowning","Burns with <20% total burned surface area",.1505146
+"inj_falls","Burns with <20% total burned surface area",2.576952
+"inj_trans_road_other","Burns with <20% total burned surface area",.0453426
+"inj_mech_gun","Burns with <20% total burned surface area",.3400907
+"inj_foreign_eye","Burns with <20% total burned surface area",.020732
+"inj_othunintent","Burns with <20% total burned surface area",12.73959
+"inj_falls","Burns with >=20% total burned surface area or >=10% if burns include face and/or hands",.2360928
+"inj_homicide_other","Burns with >=20% total burned surface area or >=10% if burns include face and/or hands",.0842938
+"inj_mech_gun","Burns with >=20% total burned surface area or >=10% if burns include face and/or hands",.0134916
+"inj_mech_other","Burns with >=20% total burned surface area or >=10% if burns include face and/or hands",.2272731
+"inj_homicide_knife","Burns with >=20% total burned surface area or >=10% if burns include face and/or hands",.0044845
+"inj_foreign_aspiration","Burns with >=20% total burned surface area or >=10% if burns include face and/or hands",.0192676
+"inj_trans_road_pedest","Burns with >=20% total burned surface area or >=10% if burns include face and/or hands",.70541
+"inj_othunintent","Burns with >=20% total burned surface area or >=10% if burns include face and/or hands",.5242604
+"inj_trans_other","Burns with >=20% total burned surface area or >=10% if burns include face and/or hands",.0205999
+"inj_fires","Burns with >=20% total burned surface area or >=10% if burns include face and/or hands",11.87678
+"inj_drowning","Burns with >=20% total burned surface area or >=10% if burns include face and/or hands",.0257811
+"inj_foreign_other","Burns with >=20% total burned surface area or >=10% if burns include face and/or hands",.0066387
+"inj_trans_road_pedal","Burns with >=20% total burned surface area or >=10% if burns include face and/or hands",.3943591
+"inj_foreign_eye","Burns with >=20% total burned surface area or >=10% if burns include face and/or hands",.0026408
+"inj_poisoning","Burns with >=20% total burned surface area or >=10% if burns include face and/or hands",.0274518
+"inj_homicide_gun","Burns with >=20% total burned surface area or >=10% if burns include face and/or hands",.0008672
+"inj_trans_road_other","Burns with >=20% total burned surface area or >=10% if burns include face and/or hands",.0174977
+"inj_suicide","Burns with >=20% total burned surface area or >=10% if burns include face and/or hands",.1069209
+"inj_animal_nonven","Burns with >=20% total burned surface area or >=10% if burns include face and/or hands",.0205679
+"inj_trans_road_4wheel","Burns with >=20% total burned surface area or >=10% if burns include face and/or hands",.0761168
+"inj_animal_venom","Burns with >=20% total burned surface area or >=10% if burns include face and/or hands",.0554819
+"inj_trans_road_2wheel","Burns with >=20% total burned surface area or >=10% if burns include face and/or hands",.2227452
