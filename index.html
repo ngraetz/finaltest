@@ -117,6 +117,8 @@ d3.csv("sankey.csv", function(error, data) {
       .attr("class", "node")
       .attr("transform", function(d) { 
 		  return "translate(" + d.x + "," + d.y + ")"; })
+		// CODE TO HIGHLIGHT ALL LINKS ON CLICK
+		.on("click",highlight_node_links)
 	/*
     .call(d3.behavior.drag()
       .origin(function(d) { return d; })
@@ -157,6 +159,21 @@ d3.csv("sankey.csv", function(error, data) {
     sankey.relayout();
     link.attr("d", path);
   }
+  
+ // FUNCTION TO HIGHLIGHT ALL LINKS CONNECTED TO A NODE
+ function highlight_node_links(node,i){
+
+    var remainingNodes=[],
+        nextNodes=[];
+
+    var stroke_opacity = 0;
+    if( d3.select(this).attr("data-clicked") == "1" ){
+      d3.select(this).attr("data-clicked","0");
+      stroke_opacity = 0.2;
+    }else{
+      d3.select(this).attr("data-clicked","1");
+      stroke_opacity = 0.5;
+    }
 });
 
 </script>
