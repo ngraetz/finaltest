@@ -1,5 +1,3 @@
-// Build Sankey
-
 d3.sankey = function() {
   var sankey = {},
       nodeWidth = 24,
