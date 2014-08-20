@@ -118,7 +118,7 @@ d3.csv("sankey.csv", function(error, data) {
       .attr("transform", function(d) { 
 		  return "translate(" + d.x + "," + d.y + ")"; })
 		// CODE TO HIGHLIGHT ALL LINKS ON CLICK
-		.on("click",highlight_node_links)
+		.on("click",highlight_paths(1))
 	/*
     .call(d3.behavior.drag()
       .origin(function(d) { return d; })
@@ -161,20 +161,16 @@ d3.csv("sankey.csv", function(error, data) {
   }
   
  // FUNCTION TO HIGHLIGHT ALL LINKS CONNECTED TO A NODE
- function highlight_node_links(node,i){
-
-    var remainingNodes=[],
-        nextNodes=[];
-
-    var stroke_opacity = 0;
-    if( d3.select(this).attr("data-clicked") == "1" ){
-      d3.select(this).attr("data-clicked","0");
-      stroke_opacity = 0.2;
-    }else{
-      d3.select(this).attr("data-clicked","1");
-      stroke_opacity = 0.5;
+function highlight_paths(stroke_opacity) {
+    return function(d,i){
+        d.sourceLinks.forEach(function(srcLnk){
+            d3.select("#link"+srcLnk.id).style("stroke-opacity", stroke_opacity);
+        });
+        d.targetLinks.forEach(function(srcLnk){
+            d3.select("#link"+srcLnk.id).style("stroke-opacity", stroke_opacity);
+        });
     }
-	}
+}
 	
 });
 
