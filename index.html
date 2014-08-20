@@ -172,7 +172,7 @@ d3.csv("sankey.csv", function(error, data) {
       d3.select(this).attr("data-clicked","1");
       stroke_opacity = 0.5;
     }
-
+	console.log("test", i, node)
     var traverse = [{
                       linkType : "sourceLinks",
                       nodeType : "target"
