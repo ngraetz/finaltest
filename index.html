@@ -65,7 +65,7 @@ var drawAxisLabels = function() {
 	// yAxisLabel = d3.select('#chart').append('text').attr('transform', 'translate(' + margin.left/3 + ',' + margin.top + ')').text('E-Code')
 
 	// title
-	title = d3.select('#chart').append('text').text('Injury YLDs')
+	title = d3.select('#chart').append('text').text('Injury YLDs').attr('transform', 'translate(' + margin.left/3 + ',' + 1000 + ')')
 }
 
 drawAxisLabels()
