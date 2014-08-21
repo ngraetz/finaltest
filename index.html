@@ -68,8 +68,10 @@ var drawAxisLabels = function() {
 	yAxisLabel = d3.select('#chart').append('text').attr('transform', 'translate(' + settings.padding/3 + ',' + (settings.height*2/3) + ')).text('E-Code')
 
 	// title
-	title = d3.select('#scatter-svg').append('text').attr('transform', 'translate(' + settings.width/2.5 + ',' + (30) + ')').text('Life expectancy: 1960 versus 2012')
+	title = d3.select('#chart').append('text').attr('transform', 'translate(' + settings.width/2.5 + ',' + (30) + ')').text('Injury YLDs')
 }
+
+drawAxisLabels()
 
 // load the data (using the timelyportfolio csv method)
 d3.csv("sankey.csv", function(error, data) {
