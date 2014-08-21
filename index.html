@@ -61,11 +61,8 @@ var path = sankey.link();
 
 // Draw axis labels
 var drawAxisLabels = function() {
-	// yAxisLabel
-	// yAxisLabel = d3.select('#chart').append('text').attr('transform', 'translate(' + margin.left/3 + ',' + margin.top + ')').text('E-Code')
-
 	// title
-	title = d3.select('#chart').append('text').text('Injury YLDs').attr('transform', 'translate(' + margin.left/3 + ',' + 1000 + ')')
+	title = d3.select('svg').append('text').text('Injury YLDs').attr('transform', 'translate(' + margin.left/3 + ',' + margin.top + ')')
 }
 
 drawAxisLabels()
