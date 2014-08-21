@@ -17,7 +17,7 @@
 .link {
   fill: none;
   stroke: #000;
-  stroke-opacity: 0;
+  stroke-opacity: .05;
 }
 
 .link:hover {
@@ -72,7 +72,7 @@ var drawAxisLabels = function() {
 	
 	ecodetitle = d3.select('svg').append('text').text('E-Codes').attr("x", margin.left).attr("y", margin.top-20).attr("text-anchor", "start").attr("font-size", 40)
 	
-	ncodetitle = d3.select('svg').append('text').text('N-Codes').attr("x", width + margin.left-24).attr("y", margin.top-20).attr("text-anchor", "start").attr("font-size", 30)
+	ncodetitle = d3.select('svg').append('text').text('N-Codes').attr("x", width + margin.left).attr("y", margin.top-20).attr("text-anchor", "end").attr("font-size", 40)
 }
 
 drawAxisLabels()
