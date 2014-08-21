@@ -36,7 +36,7 @@
 var units = "Cases";
 
 var margin = {top: 200, right: 200, bottom: 10, left: 200},
-    width = 1600 - margin.left - margin.right,
+    width = 1300 - margin.left - margin.right,
     height = 2200 - margin.top - margin.bottom;
 
 var formatNumber = d3.format(",.0f"),    // zero decimal places
@@ -62,7 +62,7 @@ var path = sankey.link();
 // Draw axis labels
 var drawAxisLabels = function() {
 	// title
-	title = d3.select('svg').append('text').text('Injury YLDs').attr("x", width/2).attr("y", 50)
+	title = d3.select('svg').append('text').text('Injury YLDs').attr("x", width/2).attr("y", 50).attr(size, 200)
 }
 
 drawAxisLabels()
