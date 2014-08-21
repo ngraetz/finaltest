@@ -68,11 +68,11 @@ var path = sankey.link();
 // Draw axis labels
 var drawAxisLabels = function() {
 	// title
-	title = d3.select('svg').append('text').text('Injury YLDs').attr("x", width/2).attr("y", margin.top/2).attr("font-size", 75).attr("text-anchor", "middle")
+	title = d3.select('svg').append('text').text('Injury YLDs').attr("x", (width+margin.left+margin.right)/2).attr("y", margin.top/2).attr("font-size", 75).attr("text-anchor", "middle")
 	
-	ecodetitle = d3.select('svg').append('text').text('E-Codes').attr("x", margin.left).attr("y", margin.top-10).attr("text-anchor", "start").attr("font-size", 30)
+	ecodetitle = d3.select('svg').append('text').text('E-Codes').attr("x", margin.left).attr("y", margin.top-20).attr("text-anchor", "start").attr("font-size", 40)
 	
-	ncodetitle = d3.select('svg').append('text').text('N-Codes').attr("x", width + margin.left).attr("y", margin.top-10).attr("text-anchor", "start").attr("font-size", 30)
+	ncodetitle = d3.select('svg').append('text').text('N-Codes').attr("x", width + margin.left-24).attr("y", margin.top-20).attr("text-anchor", "start").attr("font-size", 30)
 }
 
 drawAxisLabels()
