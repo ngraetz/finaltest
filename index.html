@@ -35,9 +35,9 @@
 	
 var units = "Cases";
 
-var margin = {top: 50, right: 200, bottom: 10, left: 400},
-    width = 1500 - margin.left - margin.right,
-    height = 2000 - margin.top - margin.bottom;
+var margin = {top: 200, right: 200, bottom: 10, left: 400},
+    width = 1300 - margin.left - margin.right,
+    height = 2200 - margin.top - margin.bottom;
 
 var formatNumber = d3.format(",.0f"),    // zero decimal places
     format = function(d) { return formatNumber(d) + " " + units; },
@@ -58,6 +58,18 @@ var sankey = d3.sankey()
     .size([width, height]);
 
 var path = sankey.link();
+
+// Draw axis labels
+var drawAxisLabels = function() {
+	// xAxisLabel
+	xAxisLabel = d3.select('#chart').append('text').attr('transform', 'translate(' + settings.width/2 + ',' + (settings.height + settings.padding*2) + ')').text('Life expectancy 1960')
+	
+	// yAxisLabel
+	yAxisLabel = d3.select('#chart').append('text').attr('transform', 'translate(' + settings.padding/3 + ',' + (settings.height*2/3) + ')).text('E-Code')
+
+	// title
+	title = d3.select('#scatter-svg').append('text').attr('transform', 'translate(' + settings.width/2.5 + ',' + (30) + ')').text('Life expectancy: 1960 versus 2012')
+}
 
 // load the data (using the timelyportfolio csv method)
 d3.csv("sankey.csv", function(error, data) {
