@@ -17,7 +17,7 @@
 .link {
   fill: none;
   stroke: #000;
-  stroke-opacity: .05;
+  stroke-opacity: .03;
 }
 
 .link:hover {
@@ -186,10 +186,10 @@ d3.csv("sankey.csv", function(error, data) {
     var remainingNodes=[],
         nextNodes=[];
 
-    var stroke_opacity = 0;
+    var stroke_opacity = 0.03;
     if( d3.select(this).attr("data-clicked") == "1" ){
       d3.select(this).attr("data-clicked","0");
-      stroke_opacity = 0;
+      stroke_opacity = 0.03;
     }else{
       d3.select(this).attr("data-clicked","1");
       stroke_opacity = 0.5;
