@@ -70,7 +70,9 @@ var drawAxisLabels = function() {
 	// title
 	title = d3.select('svg').append('text').text('Injury YLDs').attr("x", width/2).attr("y", margin.top/2).attr("font-size", 75).attr("text-anchor", "middle")
 	
-	ecodetitle = d3.select('svg').append('text').text('E-Codes').attr("x", margin.left).attr("y", margin.top)
+	ecodetitle = d3.select('svg').append('text').text('E-Codes').attr("x", margin.left).attr("y", margin.top-10).attr("text-anchor", "start").attr("font-size", 30)
+	
+	ncodetitle = d3.select('svg').append('text').text('N-Codes').attr("x", width - margin.right).attr("y", margin.top-10).attr("text-anchor", "start").attr("font-size", 30)
 }
 
 drawAxisLabels()
