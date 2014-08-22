@@ -18,7 +18,7 @@
 .link {
   fill: none;
   stroke: #000;
-  stroke-opacity: .02;
+  stroke-opacity: .03;
 }
 
 .link:hover {
@@ -65,7 +65,7 @@ var svg = d3.select("#chart").append("svg")
 // Set the sankey diagram properties
 var sankey = d3.sankey()
     .nodeWidth(60)
-    .nodePadding(0)
+    .nodePadding(5)
     .size([width, height]);
 
 var path = sankey.link();
