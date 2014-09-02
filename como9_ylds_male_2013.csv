@@ -1,940 +1,940 @@
-source,target,value
-"inj_animal","N11",.3503552
-"inj_animal","N12",8.057139
-"inj_animal","N13",45.22186
-"inj_animal","N14",22.83335
-"inj_animal","N15",4.869391
-"inj_animal","N16",3.046822
-"inj_animal","N17",7.495314
-"inj_animal","N18",26.78017
-"inj_animal","N19",31.33238
-"inj_animal","N20",147.2688
-"inj_animal","N21",12.65867
-"inj_animal","N22",3.946971
-"inj_animal","N23",12.60346
-"inj_animal","N24",.0952569
-"inj_animal","N25",23.00116
-"inj_animal","N26",53.90531
-"inj_animal","N27",13.20586
-"inj_animal","N28",63.97568
-"inj_animal","N3",.4195557
-"inj_animal","N33",2.77244
-"inj_animal","N34",363.3527
-"inj_animal","N35",.6364325
-"inj_animal","N37",3.96011
-"inj_animal","N38",11.84945
-"inj_animal","N39",23.72614
-"inj_animal","N40",2349.144
-"inj_animal","N41",2059.494
-"inj_animal","N42",3.586961
-"inj_animal","N43",137.6646
-"inj_animal","N44",27.51953
-"inj_animal","N45",5.548201
-"inj_animal","N46",70.79649
-"inj_animal","N48",190.7444
-"inj_animal","N8",9.264905
-"inj_animal","N9",16.76386
-"inj_animal_nonven","N11",.2348504
-"inj_animal_nonven","N12",4.582133
-"inj_animal_nonven","N13",26.50488
-"inj_animal_nonven","N14",10.58741
-"inj_animal_nonven","N15",2.765734
-"inj_animal_nonven","N16",2.414727
-"inj_animal_nonven","N17",4.588485
-"inj_animal_nonven","N18",17.98199
-"inj_animal_nonven","N19",12.50038
-"inj_animal_nonven","N20",111.9165
-"inj_animal_nonven","N21",7.85643
-"inj_animal_nonven","N22",3.335458
-"inj_animal_nonven","N23",10.13948
-"inj_animal_nonven","N24",.0944567
-"inj_animal_nonven","N25",19.98892
-"inj_animal_nonven","N26",40.43853
-"inj_animal_nonven","N27",9.630635
-"inj_animal_nonven","N28",48.11742
-"inj_animal_nonven","N3",.4195557
-"inj_animal_nonven","N33",2.214845
-"inj_animal_nonven","N34",359.6301
-"inj_animal_nonven","N35",.290057
-"inj_animal_nonven","N37",2.928155
-"inj_animal_nonven","N38",8.692721
-"inj_animal_nonven","N39",22.73303
-"inj_animal_nonven","N40",2265.781
-"inj_animal_nonven","N41",119.5495
-"inj_animal_nonven","N42",2.449395
-"inj_animal_nonven","N43",63.39633
-"inj_animal_nonven","N44",17.26909
-"inj_animal_nonven","N45",1.626042
-"inj_animal_nonven","N46",18.92611
-"inj_animal_nonven","N48",126.215
-"inj_animal_nonven","N8",3.076764
-"inj_animal_nonven","N9",3.696817
-"inj_animal_venom","N11",.1155047
-"inj_animal_venom","N12",3.475004
-"inj_animal_venom","N13",18.71698
-"inj_animal_venom","N14",12.24594
-"inj_animal_venom","N15",2.103658
-"inj_animal_venom","N16",.6320948
-"inj_animal_venom","N17",2.906831
-"inj_animal_venom","N18",8.798189
-"inj_animal_venom","N19",18.83202
-"inj_animal_venom","N20",35.35241
-"inj_animal_venom","N21",4.802238
-"inj_animal_venom","N22",.6115135
-"inj_animal_venom","N23",2.463986
-"inj_animal_venom","N24",.0008002
-"inj_animal_venom","N25",3.012237
-"inj_animal_venom","N26",13.46678
-"inj_animal_venom","N27",3.575228
-"inj_animal_venom","N28",15.85826
-"inj_animal_venom","N33",.5575961
-"inj_animal_venom","N34",3.722661
-"inj_animal_venom","N35",.3463755
-"inj_animal_venom","N37",1.031953
-"inj_animal_venom","N38",3.156729
-"inj_animal_venom","N39",.9931137
-"inj_animal_venom","N40",83.36362
-"inj_animal_venom","N41",1939.944
-"inj_animal_venom","N42",1.137566
-"inj_animal_venom","N43",74.26826
-"inj_animal_venom","N44",10.25045
-"inj_animal_venom","N45",3.92216
-"inj_animal_venom","N46",51.87037
-"inj_animal_venom","N48",64.52947
-"inj_animal_venom","N8",6.188141
-"inj_animal_venom","N9",13.06705
-"inj_drowning","N11",.1790126
-"inj_drowning","N12",11.65053
-"inj_drowning","N13",80.98399
-"inj_drowning","N14",17.77881
-"inj_drowning","N15",6.646605
-"inj_drowning","N16",1.338962
-"inj_drowning","N17",13.19148
-"inj_drowning","N18",11.99702
-"inj_drowning","N19",551.8487
-"inj_drowning","N20",149.2569
-"inj_drowning","N21",11.12731
-"inj_drowning","N22",1.956447
-"inj_drowning","N23",.7512141
-"inj_drowning","N24",.0098305
-"inj_drowning","N25",16.84411
-"inj_drowning","N26",54.01821
-"inj_drowning","N27",6.535342
-"inj_drowning","N28",32.27753
-"inj_drowning","N3",.0460566
-"inj_drowning","N33",8.026498
-"inj_drowning","N34",22.06237
-"inj_drowning","N35",144.7983
-"inj_drowning","N37",1.509085
-"inj_drowning","N38",13.32341
-"inj_drowning","N39",.8308697
-"inj_drowning","N40",17.40894
-"inj_drowning","N41",32.09283
-"inj_drowning","N42",.8955653
-"inj_drowning","N43",12.11417
-"inj_drowning","N44",4.39122
-"inj_drowning","N45",21.90943
-"inj_drowning","N46",77.47524
-"inj_drowning","N48",42.77732
-"inj_drowning","N8",4.01875
-"inj_drowning","N9",6.766449
-"inj_falls","N11",11.72194
-"inj_falls","N12",139.2751
-"inj_falls","N13",431.1353
-"inj_falls","N14",278.7812
-"inj_falls","N15",213.2157
-"inj_falls","N16",23.416
-"inj_falls","N17",197.4044
-"inj_falls","N18",319.4698
-"inj_falls","N19",1912.489
-"inj_falls","N20",3386.24
-"inj_falls","N21",228.3297
-"inj_falls","N22",478.5471
-"inj_falls","N23",479.669
-"inj_falls","N24",8.724073
-"inj_falls","N25",1049.394
-"inj_falls","N26",1122.6
-"inj_falls","N27",228.4568
-"inj_falls","N28",1954.004
-"inj_falls","N3",.5211987
-"inj_falls","N33",74.42758
-"inj_falls","N34",3777.642
-"inj_falls","N35",5.596452
-"inj_falls","N37",79.07592
-"inj_falls","N38",182.3745
-"inj_falls","N39",20.91249
-"inj_falls","N40",1683.923
-"inj_falls","N41",104.1161
-"inj_falls","N42",44.73053
-"inj_falls","N43",382.9682
-"inj_falls","N44",257.829
-"inj_falls","N45",20.10098
-"inj_falls","N46",628.6292
-"inj_falls","N48",2432.275
-"inj_falls","N8",62.67352
-"inj_falls","N9",52.49021
-"inj_fires","N11",.647401
-"inj_fires","N12",13.2496
-"inj_fires","N13",49.94067
-"inj_fires","N14",23.29825
-"inj_fires","N15",5.260968
-"inj_fires","N16",2.795494
-"inj_fires","N17",9.404885
-"inj_fires","N18",20.40038
-"inj_fires","N19",61.71956
-"inj_fires","N20",108.4119
-"inj_fires","N21",12.33312
-"inj_fires","N22",2.02356
-"inj_fires","N23",7.633878
-"inj_fires","N24",.0064923
-"inj_fires","N25",37.16197
-"inj_fires","N26",45.12066
-"inj_fires","N27",12.85557
-"inj_fires","N28",49.00434
-"inj_fires","N3",.2328834
-"inj_fires","N33",1.523542
-"inj_fires","N34",1034.455
-"inj_fires","N35",.6568785
-"inj_fires","N37",6.888324
-"inj_fires","N38",12.85795
-"inj_fires","N39",10.12405
-"inj_fires","N40",112.6689
-"inj_fires","N41",341.697
-"inj_fires","N42",2.588834
-"inj_fires","N43",550.1425
-"inj_fires","N44",7.98816
-"inj_fires","N45",53.37286
-"inj_fires","N46",158.268
-"inj_fires","N48",105.5547
-"inj_fires","N8",1178.137
-"inj_fires","N9",1850.143
-"inj_foreign_aspiration","N11",.0064868
-"inj_foreign_aspiration","N12",2.349644
-"inj_foreign_aspiration","N13",6.025892
-"inj_foreign_aspiration","N14",2.274917
-"inj_foreign_aspiration","N15",.2679125
-"inj_foreign_aspiration","N16",.1075386
-"inj_foreign_aspiration","N17",.3495013
-"inj_foreign_aspiration","N18",.6281469
-"inj_foreign_aspiration","N19",26.43444
-"inj_foreign_aspiration","N20",2.633959
-"inj_foreign_aspiration","N21",.6501471
-"inj_foreign_aspiration","N22",.402357
-"inj_foreign_aspiration","N23",.1737702
-"inj_foreign_aspiration","N24",.0032995
-"inj_foreign_aspiration","N25",1.434852
-"inj_foreign_aspiration","N26",2.07123
-"inj_foreign_aspiration","N27",.3526219
-"inj_foreign_aspiration","N28",1.394978
-"inj_foreign_aspiration","N33",.4788419
-"inj_foreign_aspiration","N34",.7158136
-"inj_foreign_aspiration","N35",.6473544
-"inj_foreign_aspiration","N37",.1138341
-"inj_foreign_aspiration","N38",.6607126
-"inj_foreign_aspiration","N39",.1466143
-"inj_foreign_aspiration","N40",1.052382
-"inj_foreign_aspiration","N41",14.8156
-"inj_foreign_aspiration","N42",.4032494
-"inj_foreign_aspiration","N43",2.014594
-"inj_foreign_aspiration","N44",.1096471
-"inj_foreign_aspiration","N45",.3709639
-"inj_foreign_aspiration","N46",7.445815
-"inj_foreign_aspiration","N48",7.085995
-"inj_foreign_aspiration","N8",.7185897
-"inj_foreign_aspiration","N9",1.051731
-"inj_foreign_eye","N11",.0030352
-"inj_foreign_eye","N12",.2341552
-"inj_foreign_eye","N13",.0931982
-"inj_foreign_eye","N14",.2902924
-"inj_foreign_eye","N15",.0309638
-"inj_foreign_eye","N16",.0406997
-"inj_foreign_eye","N17",.2280025
-"inj_foreign_eye","N18",.2327023
-"inj_foreign_eye","N19",4.098721
-"inj_foreign_eye","N20",1.883136
-"inj_foreign_eye","N21",.2250142
-"inj_foreign_eye","N22",.0452296
-"inj_foreign_eye","N23",1.452467
-"inj_foreign_eye","N24",.0000992
-"inj_foreign_eye","N25",.5088584
-"inj_foreign_eye","N26",.6950046
-"inj_foreign_eye","N27",.3067276
-"inj_foreign_eye","N28",4.460299
-"inj_foreign_eye","N33",.1762811
-"inj_foreign_eye","N34",1.556247
-"inj_foreign_eye","N37",2.501268
-"inj_foreign_eye","N38",7.176264
-"inj_foreign_eye","N39",13.84567
-"inj_foreign_eye","N40",2.450937
-"inj_foreign_eye","N41",1.274765
-"inj_foreign_eye","N42",.1199775
-"inj_foreign_eye","N43",27.63765
-"inj_foreign_eye","N44",.3955514
-"inj_foreign_eye","N45",.1446582
-"inj_foreign_eye","N46",25.50015
-"inj_foreign_eye","N48",.1328703
-"inj_foreign_eye","N8",.4023629
-"inj_foreign_eye","N9",.5723434
-"inj_foreign_other","N11",.0124257
-"inj_foreign_other","N12",.1247982
-"inj_foreign_other","N13",.2542289
-"inj_foreign_other","N14",4.951283
-"inj_foreign_other","N15",.2013314
-"inj_foreign_other","N16",.3576338
-"inj_foreign_other","N17",1.202014
-"inj_foreign_other","N18",6.6481
-"inj_foreign_other","N19",6.307417
-"inj_foreign_other","N20",11.62675
-"inj_foreign_other","N21",.5534769
-"inj_foreign_other","N22",.8683071
-"inj_foreign_other","N23",5.242274
-"inj_foreign_other","N24",.0006012
-"inj_foreign_other","N25",3.269702
-"inj_foreign_other","N26",12.56796
-"inj_foreign_other","N27",.8122606
-"inj_foreign_other","N28",3.499911
-"inj_foreign_other","N3",.5245266
-"inj_foreign_other","N33",.2778402
-"inj_foreign_other","N34",1.668681
-"inj_foreign_other","N35",.0939564
-"inj_foreign_other","N37",2.966573
-"inj_foreign_other","N38",8.253735
-"inj_foreign_other","N39",43.71244
-"inj_foreign_other","N40",197.6991
-"inj_foreign_other","N41",140.2642
-"inj_foreign_other","N42",.9392028
-"inj_foreign_other","N43",154.779
-"inj_foreign_other","N44",10.47154
-"inj_foreign_other","N45",.8959561
-"inj_foreign_other","N46",25.59687
-"inj_foreign_other","N48",10.92748
-"inj_foreign_other","N8",3.298807
-"inj_foreign_other","N9",.5713799
-"inj_homicide","N11",.2962761
-"inj_homicide","N12",1.992809
-"inj_homicide","N13",10.06812
-"inj_homicide","N14",14.15932
-"inj_homicide","N15",8.917571
-"inj_homicide","N16",6.855099
-"inj_homicide","N17",5.466634
-"inj_homicide","N18",50.42178
-"inj_homicide","N19",47.39859
-"inj_homicide","N20",218.3003
-"inj_homicide","N21",17.81429
-"inj_homicide","N22",15.26647
-"inj_homicide","N23",82.99415
-"inj_homicide","N24",.1763493
-"inj_homicide","N25",58.58273
-"inj_homicide","N26",87.75998
-"inj_homicide","N27",71.09152
-"inj_homicide","N28",144.7992
-"inj_homicide","N3",.8364943
-"inj_homicide","N33",7.310263
-"inj_homicide","N34",492.5361
-"inj_homicide","N35",.4384646
-"inj_homicide","N37",3.721186
-"inj_homicide","N38",30.06821
-"inj_homicide","N39",6.47136
-"inj_homicide","N40",337.6728
-"inj_homicide","N41",83.09483
-"inj_homicide","N42",11.53045
-"inj_homicide","N43",146.9863
-"inj_homicide","N44",44.55349
-"inj_homicide","N45",2.277162
-"inj_homicide","N46",53.02685
-"inj_homicide","N48",177.3569
-"inj_homicide","N8",28.7727
-"inj_homicide","N9",19.13762
-"inj_homicide_gun","N11",.0149087
-"inj_homicide_gun","N12",.3489713
-"inj_homicide_gun","N13",.1870901
-"inj_homicide_gun","N14",.9624166
-"inj_homicide_gun","N15",.8665884
-"inj_homicide_gun","N16",.4415716
-"inj_homicide_gun","N17",1.743291
-"inj_homicide_gun","N18",3.361459
-"inj_homicide_gun","N19",15.09473
-"inj_homicide_gun","N20",62.21882
-"inj_homicide_gun","N21",4.807442
-"inj_homicide_gun","N22",4.113553
-"inj_homicide_gun","N23",9.021238
-"inj_homicide_gun","N24",.0007531
-"inj_homicide_gun","N25",17.93842
-"inj_homicide_gun","N26",17.24325
-"inj_homicide_gun","N27",5.4052
-"inj_homicide_gun","N28",6.951105
-"inj_homicide_gun","N3",.1020282
-"inj_homicide_gun","N33",2.399762
-"inj_homicide_gun","N34",8.968573
-"inj_homicide_gun","N35",.0077331
-"inj_homicide_gun","N37",.366244
-"inj_homicide_gun","N38",3.760491
-"inj_homicide_gun","N39",.4930879
-"inj_homicide_gun","N40",36.07364
-"inj_homicide_gun","N41",11.69457
-"inj_homicide_gun","N42",2.466447
-"inj_homicide_gun","N43",32.57487
-"inj_homicide_gun","N44",4.261624
-"inj_homicide_gun","N45",.2994049
-"inj_homicide_gun","N46",6.860208
-"inj_homicide_gun","N48",18.34786
-"inj_homicide_gun","N8",.6788389
-"inj_homicide_gun","N9",.3014376
-"inj_homicide_knife","N11",.099405
-"inj_homicide_knife","N12",.5657229
-"inj_homicide_knife","N13",2.316017
-"inj_homicide_knife","N14",8.101196
-"inj_homicide_knife","N15",2.662755
-"inj_homicide_knife","N16",.4594935
-"inj_homicide_knife","N17",1.478887
-"inj_homicide_knife","N18",7.953116
-"inj_homicide_knife","N19",8.967813
-"inj_homicide_knife","N20",37.99096
-"inj_homicide_knife","N21",2.267761
-"inj_homicide_knife","N22",2.283406
-"inj_homicide_knife","N23",13.57009
-"inj_homicide_knife","N24",.0092171
-"inj_homicide_knife","N25",6.915826
-"inj_homicide_knife","N26",15.73288
-"inj_homicide_knife","N27",4.958611
-"inj_homicide_knife","N28",18.64906
-"inj_homicide_knife","N3",.6300246
-"inj_homicide_knife","N33",1.402523
-"inj_homicide_knife","N34",88.39617
-"inj_homicide_knife","N35",.0662137
-"inj_homicide_knife","N37",1.414734
-"inj_homicide_knife","N38",15.81007
-"inj_homicide_knife","N39",2.283798
-"inj_homicide_knife","N40",129.0212
-"inj_homicide_knife","N41",4.354526
-"inj_homicide_knife","N42",6.682864
-"inj_homicide_knife","N43",79.68237
-"inj_homicide_knife","N44",6.995261
-"inj_homicide_knife","N45",.5007501
-"inj_homicide_knife","N46",13.35429
-"inj_homicide_knife","N48",29.16264
-"inj_homicide_knife","N8",1.508865
-"inj_homicide_knife","N9",.7785183
-"inj_homicide_other","N11",.1819624
-"inj_homicide_other","N12",1.078115
-"inj_homicide_other","N13",7.565012
-"inj_homicide_other","N14",5.095702
-"inj_homicide_other","N15",5.388227
-"inj_homicide_other","N16",5.954034
-"inj_homicide_other","N17",2.244456
-"inj_homicide_other","N18",39.10719
-"inj_homicide_other","N19",23.33603
-"inj_homicide_other","N20",118.0905
-"inj_homicide_other","N21",10.73908
-"inj_homicide_other","N22",8.869514
-"inj_homicide_other","N23",60.40283
-"inj_homicide_other","N24",.1663791
-"inj_homicide_other","N25",33.72847
-"inj_homicide_other","N26",54.78386
-"inj_homicide_other","N27",60.72771
-"inj_homicide_other","N28",119.1991
-"inj_homicide_other","N3",.1044415
-"inj_homicide_other","N33",3.50798
-"inj_homicide_other","N34",395.1714
-"inj_homicide_other","N35",.3645179
-"inj_homicide_other","N37",1.940206
-"inj_homicide_other","N38",10.49764
-"inj_homicide_other","N39",3.694474
-"inj_homicide_other","N40",172.5778
-"inj_homicide_other","N41",67.04573
-"inj_homicide_other","N42",2.381134
-"inj_homicide_other","N43",34.729
-"inj_homicide_other","N44",33.29659
-"inj_homicide_other","N45",1.477007
-"inj_homicide_other","N46",32.81234
-"inj_homicide_other","N48",129.8464
-"inj_homicide_other","N8",26.58499
-"inj_homicide_other","N9",18.05766
-"inj_mech","N11",4.008923
-"inj_mech","N12",28.51047
-"inj_mech","N13",108.7306
-"inj_mech","N14",287.8407
-"inj_mech","N15",215.5289
-"inj_mech","N16",19.06915
-"inj_mech","N17",123.9213
-"inj_mech","N18",2648.229
-"inj_mech","N19",355.6793
-"inj_mech","N20",3152.286
-"inj_mech","N21",454.6385
-"inj_mech","N22",116.6039
-"inj_mech","N23",494.8676
-"inj_mech","N24",2.011795
-"inj_mech","N25",1914.577
-"inj_mech","N26",2136.898
-"inj_mech","N27",358.819
-"inj_mech","N28",575.0309
-"inj_mech","N3",130.2875
-"inj_mech","N33",63.50121
-"inj_mech","N34",9405.604
-"inj_mech","N35",.8809329
-"inj_mech","N37",629.3622
-"inj_mech","N38",322.3809
-"inj_mech","N39",129.9455
-"inj_mech","N40",5538.488
-"inj_mech","N41",121.9858
-"inj_mech","N42",32.50584
-"inj_mech","N43",1946.206
-"inj_mech","N44",1847.287
-"inj_mech","N45",11.08035
-"inj_mech","N46",224.0593
-"inj_mech","N48",726.3359
-"inj_mech","N8",207.8848
-"inj_mech","N9",125.1123
-"inj_mech_gun","N11",.0532406
-"inj_mech_gun","N12",1.291105
-"inj_mech_gun","N13",6.247472
-"inj_mech_gun","N14",7.062119
-"inj_mech_gun","N15",4.236753
-"inj_mech_gun","N16",.8474013
-"inj_mech_gun","N17",6.930932
-"inj_mech_gun","N18",30.42919
-"inj_mech_gun","N19",118.2956
-"inj_mech_gun","N20",150.5023
-"inj_mech_gun","N21",27.55161
-"inj_mech_gun","N22",3.341389
-"inj_mech_gun","N23",15.06387
-"inj_mech_gun","N24",.020347
-"inj_mech_gun","N25",112.5066
-"inj_mech_gun","N26",70.95909
-"inj_mech_gun","N27",7.353205
-"inj_mech_gun","N28",19.54782
-"inj_mech_gun","N3",1.256446
-"inj_mech_gun","N33",9.819805
-"inj_mech_gun","N34",30.29035
-"inj_mech_gun","N35",.0225358
-"inj_mech_gun","N37",1.854986
-"inj_mech_gun","N38",23.38772
-"inj_mech_gun","N39",2.977469
-"inj_mech_gun","N40",130.0538
-"inj_mech_gun","N41",20.64491
-"inj_mech_gun","N42",6.813319
-"inj_mech_gun","N43",106.1931
-"inj_mech_gun","N44",12.27397
-"inj_mech_gun","N45",1.13239
-"inj_mech_gun","N46",26.55278
-"inj_mech_gun","N48",57.37151
-"inj_mech_gun","N8",5.361608
-"inj_mech_gun","N9",3.597273
-"inj_mech_other","N11",3.172597
-"inj_mech_other","N12",27.2186
-"inj_mech_other","N13",101.4198
-"inj_mech_other","N14",279.6631
-"inj_mech_other","N15",208.8823
-"inj_mech_other","N16",18.18114
-"inj_mech_other","N17",116.6648
-"inj_mech_other","N18",2603.982
-"inj_mech_other","N19",234.5633
-"inj_mech_other","N20",2925.941
-"inj_mech_other","N21",422.8676
-"inj_mech_other","N22",108.9047
-"inj_mech_other","N23",466.1785
-"inj_mech_other","N24",1.978932
-"inj_mech_other","N25",1747.418
-"inj_mech_other","N26",2042.181
-"inj_mech_other","N27",348.7316
-"inj_mech_other","N28",535.6383
-"inj_mech_other","N3",128.398
-"inj_mech_other","N33",46.20177
-"inj_mech_other","N34",9358.335
-"inj_mech_other","N35",.1557676
-"inj_mech_other","N37",625.9547
-"inj_mech_other","N38",298.1095
-"inj_mech_other","N39",126.9681
-"inj_mech_other","N40",5357.368
-"inj_mech_other","N41",77.0582
-"inj_mech_other","N42",25.08742
-"inj_mech_other","N43",1802.19
-"inj_mech_other","N44",1829.33
-"inj_mech_other","N45",8.855304
-"inj_mech_other","N46",195.4977
-"inj_mech_other","N48",668.9637
-"inj_mech_other","N8",202.1049
-"inj_mech_other","N9",121.515
-"inj_mech_suffocate","N11",.7830857
-"inj_mech_suffocate","N12",.0007717
-"inj_mech_suffocate","N13",1.063321
-"inj_mech_suffocate","N14",1.115473
-"inj_mech_suffocate","N15",2.409811
-"inj_mech_suffocate","N16",.040604
-"inj_mech_suffocate","N17",.3256175
-"inj_mech_suffocate","N18",13.8173
-"inj_mech_suffocate","N19",2.820304
-"inj_mech_suffocate","N20",75.84196
-"inj_mech_suffocate","N21",4.219244
-"inj_mech_suffocate","N22",4.357766
-"inj_mech_suffocate","N23",13.62519
-"inj_mech_suffocate","N24",.0125153
-"inj_mech_suffocate","N25",54.65229
-"inj_mech_suffocate","N26",23.75784
-"inj_mech_suffocate","N27",2.734345
-"inj_mech_suffocate","N28",19.84469
-"inj_mech_suffocate","N3",.6330155
-"inj_mech_suffocate","N33",7.479622
-"inj_mech_suffocate","N34",16.9811
-"inj_mech_suffocate","N35",.7026294
-"inj_mech_suffocate","N37",1.552525
-"inj_mech_suffocate","N38",.8837044
-"inj_mech_suffocate","N40",51.06582
-"inj_mech_suffocate","N41",24.28272
-"inj_mech_suffocate","N42",.6051075
-"inj_mech_suffocate","N43",37.82267
-"inj_mech_suffocate","N44",5.682841
-"inj_mech_suffocate","N45",1.092658
-"inj_mech_suffocate","N46",2.008729
-"inj_mech_suffocate","N48",.0005812
-"inj_mech_suffocate","N8",.4182777
-"inj_medical","N46",8148.123
-"inj_othunintent","N11",14.67657
-"inj_othunintent","N12",17.474
-"inj_othunintent","N13",35.93521
-"inj_othunintent","N14",32.65855
-"inj_othunintent","N15",50.48693
-"inj_othunintent","N16",3.008997
-"inj_othunintent","N17",26.41604
-"inj_othunintent","N18",314.717
-"inj_othunintent","N19",74.16431
-"inj_othunintent","N20",1108.812
-"inj_othunintent","N21",149.9277
-"inj_othunintent","N22",58.65976
-"inj_othunintent","N23",63.50343
-"inj_othunintent","N24",.9432112
-"inj_othunintent","N25",1747.214
-"inj_othunintent","N26",278.7475
-"inj_othunintent","N27",63.9505
-"inj_othunintent","N28",85.67545
-"inj_othunintent","N3",13.53151
-"inj_othunintent","N33",4.685148
-"inj_othunintent","N34",151.8124
-"inj_othunintent","N35",.5518158
-"inj_othunintent","N37",22.31704
-"inj_othunintent","N38",23.99643
-"inj_othunintent","N39",9.647652
-"inj_othunintent","N40",465.1552
-"inj_othunintent","N41",948.5369
-"inj_othunintent","N42",20.40202
-"inj_othunintent","N43",341.8699
-"inj_othunintent","N44",145.0276
-"inj_othunintent","N45",16.13877
-"inj_othunintent","N46",90.5155
-"inj_othunintent","N48",86.2421
-"inj_othunintent","N8",142.6378
-"inj_othunintent","N9",98.09271
-"inj_poisoning","N11",.0060952
-"inj_poisoning","N12",.4640174
-"inj_poisoning","N13",3.571407
-"inj_poisoning","N14",.4422866
-"inj_poisoning","N15",.1648981
-"inj_poisoning","N16",.069091
-"inj_poisoning","N17",.1962861
-"inj_poisoning","N18",.3325535
-"inj_poisoning","N19",3.733398
-"inj_poisoning","N20",4.736166
-"inj_poisoning","N21",.5590339
-"inj_poisoning","N22",.1543618
-"inj_poisoning","N23",.2025869
-"inj_poisoning","N24",.0003449
-"inj_poisoning","N25",.6733287
-"inj_poisoning","N26",1.057181
-"inj_poisoning","N27",.829307
-"inj_poisoning","N28",2.957507
-"inj_poisoning","N33",.9099138
-"inj_poisoning","N34",9.478168
-"inj_poisoning","N35",.0870253
-"inj_poisoning","N37",.1135747
-"inj_poisoning","N38",.2415545
-"inj_poisoning","N39",.1161185
-"inj_poisoning","N40",.9527732
-"inj_poisoning","N41",769.1368
-"inj_poisoning","N42",.1001497
-"inj_poisoning","N43",5.011942
-"inj_poisoning","N44",.4711358
-"inj_poisoning","N45",1.086714
-"inj_poisoning","N46",7.552104
-"inj_poisoning","N48",2.614872
-"inj_poisoning","N8",7.174304
-"inj_poisoning","N9",3.334122
-"inj_suicide","N11",.0262007
-"inj_suicide","N12",.135756
-"inj_suicide","N13",2.034287
-"inj_suicide","N14",3.951799
-"inj_suicide","N15",.2738739
-"inj_suicide","N16",.2065915
-"inj_suicide","N17",1.326734
-"inj_suicide","N18",3.387297
-"inj_suicide","N19",4.622809
-"inj_suicide","N20",10.88002
-"inj_suicide","N21",1.303078
-"inj_suicide","N22",.3073619
-"inj_suicide","N23",1.512279
-"inj_suicide","N24",.0016055
-"inj_suicide","N25",3.393225
-"inj_suicide","N26",2.998834
-"inj_suicide","N27",1.310463
-"inj_suicide","N28",9.729416
-"inj_suicide","N3",.0934845
-"inj_suicide","N33",.8263557
-"inj_suicide","N34",13.59203
-"inj_suicide","N35",.1885405
-"inj_suicide","N37",1.267147
-"inj_suicide","N38",5.872601
-"inj_suicide","N39",.3304931
-"inj_suicide","N40",25.56893
-"inj_suicide","N41",155.4678
-"inj_suicide","N42",.8085098
-"inj_suicide","N43",8.951967
-"inj_suicide","N44",1.21141
-"inj_suicide","N45",2.394196
-"inj_suicide","N46",15.81253
-"inj_suicide","N48",8.836489
-"inj_suicide","N8",2.706664
-"inj_suicide","N9",5.679405
-"inj_trans_other","N11",4.675799
-"inj_trans_other","N12",16.20583
-"inj_trans_other","N13",38.42685
-"inj_trans_other","N14",17.38841
-"inj_trans_other","N15",26.08799
-"inj_trans_other","N16",6.746569
-"inj_trans_other","N17",23.37046
-"inj_trans_other","N18",143.0751
-"inj_trans_other","N19",203.2696
-"inj_trans_other","N20",1165.819
-"inj_trans_other","N21",208.0887
-"inj_trans_other","N22",84.31261
-"inj_trans_other","N23",82.23858
-"inj_trans_other","N24",.8687105
-"inj_trans_other","N25",336.2801
-"inj_trans_other","N26",163.8912
-"inj_trans_other","N27",70.83662
-"inj_trans_other","N28",127.1104
-"inj_trans_other","N3",3.38605
-"inj_trans_other","N33",2.831102
-"inj_trans_other","N34",15.59839
-"inj_trans_other","N35",1.081906
-"inj_trans_other","N37",36.11744
-"inj_trans_other","N38",16.1004
-"inj_trans_other","N39",.7553577
-"inj_trans_other","N40",86.02464
-"inj_trans_other","N41",90.39191
-"inj_trans_other","N42",12.55373
-"inj_trans_other","N43",144.1496
-"inj_trans_other","N44",79.87363
-"inj_trans_other","N45",3.761742
-"inj_trans_other","N46",142.359
-"inj_trans_other","N48",311.7262
-"inj_trans_other","N8",59.37838
-"inj_trans_other","N9",6.983761
-"inj_trans_road","N11",19.73829
-"inj_trans_road","N12",62.01954
-"inj_trans_road","N13",226.4188
-"inj_trans_road","N14",215.25
-"inj_trans_road","N15",173.0459
-"inj_trans_road","N16",35.62111
-"inj_trans_road","N17",149.2588
-"inj_trans_road","N18",232.645
-"inj_trans_road","N19",1936.585
-"inj_trans_road","N20",5385.701
-"inj_trans_road","N21",653.0192
-"inj_trans_road","N22",197.5761
-"inj_trans_road","N23",696.1106
-"inj_trans_road","N24",4.83616
-"inj_trans_road","N25",1460.142
-"inj_trans_road","N26",2133.074
-"inj_trans_road","N27",479.1519
-"inj_trans_road","N28",2974.101
-"inj_trans_road","N3",1.481633
-"inj_trans_road","N33",102.0064
-"inj_trans_road","N34",1477.522
-"inj_trans_road","N35",.9207711
-"inj_trans_road","N37",174.6561
-"inj_trans_road","N38",121.0207
-"inj_trans_road","N39",20.29538
-"inj_trans_road","N40",1403.983
-"inj_trans_road","N41",50.73624
-"inj_trans_road","N42",58.33131
-"inj_trans_road","N43",806.3667
-"inj_trans_road","N44",366.4739
-"inj_trans_road","N45",14.45177
-"inj_trans_road","N46",430.0311
-"inj_trans_road","N48",5591.437
-"inj_trans_road","N8",83.70194
-"inj_trans_road","N9",129.2102
-"inj_trans_road_2wheel","N11",4.724172
-"inj_trans_road_2wheel","N12",27.31433
-"inj_trans_road_2wheel","N13",90.77842
-"inj_trans_road_2wheel","N14",76.05772
-"inj_trans_road_2wheel","N15",49.752
-"inj_trans_road_2wheel","N16",12.69274
-"inj_trans_road_2wheel","N17",72.17088
-"inj_trans_road_2wheel","N18",76.41082
-"inj_trans_road_2wheel","N19",530.7642
-"inj_trans_road_2wheel","N20",1348.983
-"inj_trans_road_2wheel","N21",122.9704
-"inj_trans_road_2wheel","N22",30.67319
-"inj_trans_road_2wheel","N23",185.3656
-"inj_trans_road_2wheel","N24",.2644027
-"inj_trans_road_2wheel","N25",145.2627
-"inj_trans_road_2wheel","N26",529.3452
-"inj_trans_road_2wheel","N27",78.06614
-"inj_trans_road_2wheel","N28",720.5758
-"inj_trans_road_2wheel","N3",.1638934
-"inj_trans_road_2wheel","N33",23.22209
-"inj_trans_road_2wheel","N34",430.9123
-"inj_trans_road_2wheel","N35",.0323432
-"inj_trans_road_2wheel","N37",57.76451
-"inj_trans_road_2wheel","N38",32.265
-"inj_trans_road_2wheel","N39",3.693845
-"inj_trans_road_2wheel","N40",273.4455
-"inj_trans_road_2wheel","N41",4.27576
-"inj_trans_road_2wheel","N42",10.88136
-"inj_trans_road_2wheel","N43",225.2305
-"inj_trans_road_2wheel","N44",26.06206
-"inj_trans_road_2wheel","N45",4.84773
-"inj_trans_road_2wheel","N46",96.33603
-"inj_trans_road_2wheel","N48",1057.41
-"inj_trans_road_2wheel","N8",32.44763
-"inj_trans_road_2wheel","N9",33.20448
-"inj_trans_road_4wheel","N11",11.20443
-"inj_trans_road_4wheel","N12",10.75222
-"inj_trans_road_4wheel","N13",51.97066
-"inj_trans_road_4wheel","N14",56.70461
-"inj_trans_road_4wheel","N15",49.93347
-"inj_trans_road_4wheel","N16",10.0649
-"inj_trans_road_4wheel","N17",25.14251
-"inj_trans_road_4wheel","N18",64.93749
-"inj_trans_road_4wheel","N19",616.5452
-"inj_trans_road_4wheel","N20",2174.282
-"inj_trans_road_4wheel","N21",333.8514
-"inj_trans_road_4wheel","N22",63.48029
-"inj_trans_road_4wheel","N23",208.5912
-"inj_trans_road_4wheel","N24",2.797262
-"inj_trans_road_4wheel","N25",489.3003
-"inj_trans_road_4wheel","N26",979.7939
-"inj_trans_road_4wheel","N27",208.4885
-"inj_trans_road_4wheel","N28",1067.999
-"inj_trans_road_4wheel","N3",.950707
-"inj_trans_road_4wheel","N33",49.56971
-"inj_trans_road_4wheel","N34",693.7831
-"inj_trans_road_4wheel","N35",.4316137
-"inj_trans_road_4wheel","N37",45.43901
-"inj_trans_road_4wheel","N38",46.00684
-"inj_trans_road_4wheel","N39",7.874857
-"inj_trans_road_4wheel","N40",512.8978
-"inj_trans_road_4wheel","N41",15.29786
-"inj_trans_road_4wheel","N42",29.81185
-"inj_trans_road_4wheel","N43",237.8215
-"inj_trans_road_4wheel","N44",240.3082
-"inj_trans_road_4wheel","N45",3.944225
-"inj_trans_road_4wheel","N46",55.51393
-"inj_trans_road_4wheel","N48",2241.014
-"inj_trans_road_4wheel","N8",26.40499
-"inj_trans_road_4wheel","N9",17.30213
-"inj_trans_road_other","N11",.172407
-"inj_trans_road_other","N12",.6048828
-"inj_trans_road_other","N13",8.904312
-"inj_trans_road_other","N14",3.804711
-"inj_trans_road_other","N15",4.454766
-"inj_trans_road_other","N16",.4018285
-"inj_trans_road_other","N17",1.698272
-"inj_trans_road_other","N18",3.627385
-"inj_trans_road_other","N19",70.55917
-"inj_trans_road_other","N20",79.72243
-"inj_trans_road_other","N21",6.798251
-"inj_trans_road_other","N22",10.24265
-"inj_trans_road_other","N23",5.434736
-"inj_trans_road_other","N24",.0891582
-"inj_trans_road_other","N25",8.270396
-"inj_trans_road_other","N26",18.01838
-"inj_trans_road_other","N27",5.392979
-"inj_trans_road_other","N28",45.22738
-"inj_trans_road_other","N3",.0002966
-"inj_trans_road_other","N33",2.042686
-"inj_trans_road_other","N34",37.96605
-"inj_trans_road_other","N35",.0072503
-"inj_trans_road_other","N37",1.429823
-"inj_trans_road_other","N38",1.203677
-"inj_trans_road_other","N39",.2740461
-"inj_trans_road_other","N40",10.29406
-"inj_trans_road_other","N41",.3829245
-"inj_trans_road_other","N42",.7933756
-"inj_trans_road_other","N43",5.059937
-"inj_trans_road_other","N44",3.58145
-"inj_trans_road_other","N45",.0549557
-"inj_trans_road_other","N46",3.475304
-"inj_trans_road_other","N48",47.6697
-"inj_trans_road_other","N8",.2735092
-"inj_trans_road_other","N9",.8188426
-"inj_trans_road_pedal","N11",.5424467
-"inj_trans_road_pedal","N12",4.71714
-"inj_trans_road_pedal","N13",36.35905
-"inj_trans_road_pedal","N14",16.48686
-"inj_trans_road_pedal","N15",36.99327
-"inj_trans_road_pedal","N16",4.072587
-"inj_trans_road_pedal","N17",8.49337
-"inj_trans_road_pedal","N18",43.42035
-"inj_trans_road_pedal","N19",136.5933
-"inj_trans_road_pedal","N20",615.3206
-"inj_trans_road_pedal","N21",33.89055
-"inj_trans_road_pedal","N22",68.28408
-"inj_trans_road_pedal","N23",35.25814
-"inj_trans_road_pedal","N24",1.176274
-"inj_trans_road_pedal","N25",433.1177
-"inj_trans_road_pedal","N26",103.9819
-"inj_trans_road_pedal","N27",77.35449
-"inj_trans_road_pedal","N28",305.6934
-"inj_trans_road_pedal","N3",.1863811
-"inj_trans_road_pedal","N33",9.781188
-"inj_trans_road_pedal","N34",73.18791
-"inj_trans_road_pedal","N35",.0562602
-"inj_trans_road_pedal","N37",13.07686
-"inj_trans_road_pedal","N38",8.523156
-"inj_trans_road_pedal","N39",1.914588
-"inj_trans_road_pedal","N40",316.5865
-"inj_trans_road_pedal","N41",2.29507
-"inj_trans_road_pedal","N42",5.679149
-"inj_trans_road_pedal","N43",39.84937
-"inj_trans_road_pedal","N44",28.96494
-"inj_trans_road_pedal","N45",.5267903
-"inj_trans_road_pedal","N46",21.73633
-"inj_trans_road_pedal","N48",243.5848
-"inj_trans_road_pedal","N8",2.481318
-"inj_trans_road_pedal","N9",18.76173
-"inj_trans_road_pedest","N11",3.094835
-"inj_trans_road_pedest","N12",18.63098
-"inj_trans_road_pedest","N13",38.40631
-"inj_trans_road_pedest","N14",62.19605
-"inj_trans_road_pedest","N15",31.91239
-"inj_trans_road_pedest","N16",8.389046
-"inj_trans_road_pedest","N17",41.75375
-"inj_trans_road_pedest","N18",44.24901
-"inj_trans_road_pedest","N19",582.1229
-"inj_trans_road_pedest","N20",1167.394
-"inj_trans_road_pedest","N21",155.5087
-"inj_trans_road_pedest","N22",24.89587
-"inj_trans_road_pedest","N23",261.4608
-"inj_trans_road_pedest","N24",.5090649
-"inj_trans_road_pedest","N25",384.1909
-"inj_trans_road_pedest","N26",501.9347
-"inj_trans_road_pedest","N27",109.8498
-"inj_trans_road_pedest","N28",834.6071
-"inj_trans_road_pedest","N3",.1803546
-"inj_trans_road_pedest","N33",17.3907
-"inj_trans_road_pedest","N34",241.6725
-"inj_trans_road_pedest","N35",.3933038
-"inj_trans_road_pedest","N37",56.94586
-"inj_trans_road_pedest","N38",33.02201
-"inj_trans_road_pedest","N39",6.538036
-"inj_trans_road_pedest","N40",290.759
-"inj_trans_road_pedest","N41",28.48463
-"inj_trans_road_pedest","N42",11.16558
-"inj_trans_road_pedest","N43",298.4052
-"inj_trans_road_pedest","N44",67.5572
-"inj_trans_road_pedest","N45",5.078066
-"inj_trans_road_pedest","N46",252.9694
-"inj_trans_road_pedest","N48",2001.757
-"inj_trans_road_pedest","N8",22.09447
-"inj_trans_road_pedest","N9",59.12298
+value,source,target
+.099405,"Assault by sharp object","Dislocation of hip"
+14.67657,"Other unintentional injuries","Dislocation of hip"
+.0030352,"Foreign body in eyes","Dislocation of hip"
+.0060952,"Poisonings","Dislocation of hip"
+3.094835,"Pedestrian road injuries by road vehicle","Dislocation of hip"
+.0124257,"Foreign body in other body part","Dislocation of hip"
+.2348504,"Non-venomous animal contact","Dislocation of hip"
+.7830857,"Unintentional suffocation","Dislocation of hip"
+.0262007,"Self-harm","Dislocation of hip"
+.1155047,"Venomous animal contact","Dislocation of hip"
+4.008923,"Exposure to mechanical forces","Dislocation of hip"
+.2962761,"Interpersonal violence","Dislocation of hip"
+.1819624,"Assault by other means","Dislocation of hip"
+19.73829,"Road injuries","Dislocation of hip"
+.0532406,"Unintentional firearm injuries","Dislocation of hip"
+11.72194,"Falls","Dislocation of hip"
+.5424467,"Cyclist road injuries","Dislocation of hip"
+4.724172,"Motorcyclist road injuries","Dislocation of hip"
+.0149087,"Assault by firearm","Dislocation of hip"
+.3503552,"Animal contact","Dislocation of hip"
+.0064868,"Pulmonary aspiration and foreign body in airway","Dislocation of hip"
+11.20443,"Motor vehicle road injuries","Dislocation of hip"
+.1790126,"Drowning","Dislocation of hip"
+4.675799,"Other transport injuries","Dislocation of hip"
+3.172597,"Other exposure to mechanical forces","Dislocation of hip"
+.647401,"Fire, heat, and hot substances","Dislocation of hip"
+.172407,"Other road injuries","Dislocation of hip"
+139.2751,"Falls","Dislocation of knee"
+27.31433,"Motorcyclist road injuries","Dislocation of knee"
+13.2496,"Fire, heat, and hot substances","Dislocation of knee"
+10.75222,"Motor vehicle road injuries","Dislocation of knee"
+1.992809,"Interpersonal violence","Dislocation of knee"
+.6048828,"Other road injuries","Dislocation of knee"
+62.01954,"Road injuries","Dislocation of knee"
+.5657229,"Assault by sharp object","Dislocation of knee"
+2.349644,"Pulmonary aspiration and foreign body in airway","Dislocation of knee"
+18.63098,"Pedestrian road injuries by road vehicle","Dislocation of knee"
+17.474,"Other unintentional injuries","Dislocation of knee"
+8.057139,"Animal contact","Dislocation of knee"
+3.475004,"Venomous animal contact","Dislocation of knee"
+27.2186,"Other exposure to mechanical forces","Dislocation of knee"
+.3489713,"Assault by firearm","Dislocation of knee"
+1.291105,"Unintentional firearm injuries","Dislocation of knee"
+.2341552,"Foreign body in eyes","Dislocation of knee"
+28.51047,"Exposure to mechanical forces","Dislocation of knee"
+11.65053,"Drowning","Dislocation of knee"
+.135756,"Self-harm","Dislocation of knee"
+4.582133,"Non-venomous animal contact","Dislocation of knee"
+.4640174,"Poisonings","Dislocation of knee"
+1.078115,"Assault by other means","Dislocation of knee"
+16.20583,"Other transport injuries","Dislocation of knee"
+.1247982,"Foreign body in other body part","Dislocation of knee"
+.0007717,"Unintentional suffocation","Dislocation of knee"
+4.71714,"Cyclist road injuries","Dislocation of knee"
+1.063321,"Unintentional suffocation","Dislocation of shoulder"
+.1870901,"Assault by firearm","Dislocation of shoulder"
+38.40631,"Pedestrian road injuries by road vehicle","Dislocation of shoulder"
+6.025892,"Pulmonary aspiration and foreign body in airway","Dislocation of shoulder"
+51.97066,"Motor vehicle road injuries","Dislocation of shoulder"
+45.22186,"Animal contact","Dislocation of shoulder"
+226.4188,"Road injuries","Dislocation of shoulder"
+36.35905,"Cyclist road injuries","Dislocation of shoulder"
+49.94067,"Fire, heat, and hot substances","Dislocation of shoulder"
+35.93521,"Other unintentional injuries","Dislocation of shoulder"
+2.316017,"Assault by sharp object","Dislocation of shoulder"
+.0931982,"Foreign body in eyes","Dislocation of shoulder"
+18.71698,"Venomous animal contact","Dislocation of shoulder"
+80.98399,"Drowning","Dislocation of shoulder"
+38.42685,"Other transport injuries","Dislocation of shoulder"
+8.904312,"Other road injuries","Dislocation of shoulder"
+101.4198,"Other exposure to mechanical forces","Dislocation of shoulder"
+3.571407,"Poisonings","Dislocation of shoulder"
+10.06812,"Interpersonal violence","Dislocation of shoulder"
+431.1353,"Falls","Dislocation of shoulder"
+6.247472,"Unintentional firearm injuries","Dislocation of shoulder"
+.2542289,"Foreign body in other body part","Dislocation of shoulder"
+7.565012,"Assault by other means","Dislocation of shoulder"
+2.034287,"Self-harm","Dislocation of shoulder"
+108.7306,"Exposure to mechanical forces","Dislocation of shoulder"
+90.77842,"Motorcyclist road injuries","Dislocation of shoulder"
+26.50488,"Non-venomous animal contact","Dislocation of shoulder"
+56.70461,"Motor vehicle road injuries","Other injuries of muscle & tendon and other dislocations"
+3.804711,"Other road injuries","Other injuries of muscle & tendon and other dislocations"
+.4422866,"Poisonings","Other injuries of muscle & tendon and other dislocations"
+12.24594,"Venomous animal contact","Other injuries of muscle & tendon and other dislocations"
+278.7812,"Falls","Other injuries of muscle & tendon and other dislocations"
+17.77881,"Drowning","Other injuries of muscle & tendon and other dislocations"
+32.65855,"Other unintentional injuries","Other injuries of muscle & tendon and other dislocations"
+14.15932,"Interpersonal violence","Other injuries of muscle & tendon and other dislocations"
+7.062119,"Unintentional firearm injuries","Other injuries of muscle & tendon and other dislocations"
+17.38841,"Other transport injuries","Other injuries of muscle & tendon and other dislocations"
+1.115473,"Unintentional suffocation","Other injuries of muscle & tendon and other dislocations"
+16.48686,"Cyclist road injuries","Other injuries of muscle & tendon and other dislocations"
+.2902924,"Foreign body in eyes","Other injuries of muscle & tendon and other dislocations"
+62.19605,"Pedestrian road injuries by road vehicle","Other injuries of muscle & tendon and other dislocations"
+279.6631,"Other exposure to mechanical forces","Other injuries of muscle & tendon and other dislocations"
+76.05772,"Motorcyclist road injuries","Other injuries of muscle & tendon and other dislocations"
+287.8407,"Exposure to mechanical forces","Other injuries of muscle & tendon and other dislocations"
+2.274917,"Pulmonary aspiration and foreign body in airway","Other injuries of muscle & tendon and other dislocations"
+22.83335,"Animal contact","Other injuries of muscle & tendon and other dislocations"
+8.101196,"Assault by sharp object","Other injuries of muscle & tendon and other dislocations"
+10.58741,"Non-venomous animal contact","Other injuries of muscle & tendon and other dislocations"
+.9624166,"Assault by firearm","Other injuries of muscle & tendon and other dislocations"
+4.951283,"Foreign body in other body part","Other injuries of muscle & tendon and other dislocations"
+23.29825,"Fire, heat, and hot substances","Other injuries of muscle & tendon and other dislocations"
+5.095702,"Assault by other means","Other injuries of muscle & tendon and other dislocations"
+3.951799,"Self-harm","Other injuries of muscle & tendon and other dislocations"
+215.25,"Road injuries","Other injuries of muscle & tendon and other dislocations"
+213.2157,"Falls","Fracture of clavicle, scapula, or humerus"
+.8665884,"Assault by firearm","Fracture of clavicle, scapula, or humerus"
+.2013314,"Foreign body in other body part","Fracture of clavicle, scapula, or humerus"
+31.91239,"Pedestrian road injuries by road vehicle","Fracture of clavicle, scapula, or humerus"
+2.103658,"Venomous animal contact","Fracture of clavicle, scapula, or humerus"
+49.752,"Motorcyclist road injuries","Fracture of clavicle, scapula, or humerus"
+.0309638,"Foreign body in eyes","Fracture of clavicle, scapula, or humerus"
+2.662755,"Assault by sharp object","Fracture of clavicle, scapula, or humerus"
+5.260968,"Fire, heat, and hot substances","Fracture of clavicle, scapula, or humerus"
+215.5289,"Exposure to mechanical forces","Fracture of clavicle, scapula, or humerus"
+4.236753,"Unintentional firearm injuries","Fracture of clavicle, scapula, or humerus"
+2.765734,"Non-venomous animal contact","Fracture of clavicle, scapula, or humerus"
+.2738739,"Self-harm","Fracture of clavicle, scapula, or humerus"
+6.646605,"Drowning","Fracture of clavicle, scapula, or humerus"
+173.0459,"Road injuries","Fracture of clavicle, scapula, or humerus"
+.1648981,"Poisonings","Fracture of clavicle, scapula, or humerus"
+26.08799,"Other transport injuries","Fracture of clavicle, scapula, or humerus"
+49.93347,"Motor vehicle road injuries","Fracture of clavicle, scapula, or humerus"
+8.917571,"Interpersonal violence","Fracture of clavicle, scapula, or humerus"
+.2679125,"Pulmonary aspiration and foreign body in airway","Fracture of clavicle, scapula, or humerus"
+5.388227,"Assault by other means","Fracture of clavicle, scapula, or humerus"
+4.454766,"Other road injuries","Fracture of clavicle, scapula, or humerus"
+208.8823,"Other exposure to mechanical forces","Fracture of clavicle, scapula, or humerus"
+36.99327,"Cyclist road injuries","Fracture of clavicle, scapula, or humerus"
+4.869391,"Animal contact","Fracture of clavicle, scapula, or humerus"
+50.48693,"Other unintentional injuries","Fracture of clavicle, scapula, or humerus"
+2.409811,"Unintentional suffocation","Fracture of clavicle, scapula, or humerus"
+12.69274,"Motorcyclist road injuries","Fracture of face bone"
+2.795494,"Fire, heat, and hot substances","Fracture of face bone"
+3.046822,"Animal contact","Fracture of face bone"
+.040604,"Unintentional suffocation","Fracture of face bone"
+.1075386,"Pulmonary aspiration and foreign body in airway","Fracture of face bone"
+.8474013,"Unintentional firearm injuries","Fracture of face bone"
+4.072587,"Cyclist road injuries","Fracture of face bone"
+.6320948,"Venomous animal contact","Fracture of face bone"
+35.62111,"Road injuries","Fracture of face bone"
+5.954034,"Assault by other means","Fracture of face bone"
+1.338962,"Drowning","Fracture of face bone"
+.4018285,"Other road injuries","Fracture of face bone"
+2.414727,"Non-venomous animal contact","Fracture of face bone"
+.2065915,"Self-harm","Fracture of face bone"
+8.389046,"Pedestrian road injuries by road vehicle","Fracture of face bone"
+6.746569,"Other transport injuries","Fracture of face bone"
+.069091,"Poisonings","Fracture of face bone"
+23.416,"Falls","Fracture of face bone"
+10.0649,"Motor vehicle road injuries","Fracture of face bone"
+6.855099,"Interpersonal violence","Fracture of face bone"
+.3576338,"Foreign body in other body part","Fracture of face bone"
+.4594935,"Assault by sharp object","Fracture of face bone"
+.0406997,"Foreign body in eyes","Fracture of face bone"
+18.18114,"Other exposure to mechanical forces","Fracture of face bone"
+19.06915,"Exposure to mechanical forces","Fracture of face bone"
+.4415716,"Assault by firearm","Fracture of face bone"
+3.008997,"Other unintentional injuries","Fracture of face bone"
+1.202014,"Foreign body in other body part","Fracture of foot bone"
+.3495013,"Pulmonary aspiration and foreign body in airway","Fracture of foot bone"
+41.75375,"Pedestrian road injuries by road vehicle","Fracture of foot bone"
+9.404885,"Fire, heat, and hot substances","Fracture of foot bone"
+2.244456,"Assault by other means","Fracture of foot bone"
+5.466634,"Interpersonal violence","Fracture of foot bone"
+.2280025,"Foreign body in eyes","Fracture of foot bone"
+149.2588,"Road injuries","Fracture of foot bone"
+6.930932,"Unintentional firearm injuries","Fracture of foot bone"
+116.6648,"Other exposure to mechanical forces","Fracture of foot bone"
+7.495314,"Animal contact","Fracture of foot bone"
+23.37046,"Other transport injuries","Fracture of foot bone"
+8.49337,"Cyclist road injuries","Fracture of foot bone"
+197.4044,"Falls","Fracture of foot bone"
+.3256175,"Unintentional suffocation","Fracture of foot bone"
+2.906831,"Venomous animal contact","Fracture of foot bone"
+4.588485,"Non-venomous animal contact","Fracture of foot bone"
+1.743291,"Assault by firearm","Fracture of foot bone"
+123.9213,"Exposure to mechanical forces","Fracture of foot bone"
+25.14251,"Motor vehicle road injuries","Fracture of foot bone"
+1.478887,"Assault by sharp object","Fracture of foot bone"
+1.698272,"Other road injuries","Fracture of foot bone"
+1.326734,"Self-harm","Fracture of foot bone"
+26.41604,"Other unintentional injuries","Fracture of foot bone"
+13.19148,"Drowning","Fracture of foot bone"
+.1962861,"Poisonings","Fracture of foot bone"
+72.17088,"Motorcyclist road injuries","Fracture of foot bone"
+11.99702,"Drowning","Fracture of hand bone"
+7.953116,"Assault by sharp object","Fracture of hand bone"
+.2327023,"Foreign body in eyes","Fracture of hand bone"
+3.627385,"Other road injuries","Fracture of hand bone"
+.3325535,"Poisonings","Fracture of hand bone"
+26.78017,"Animal contact","Fracture of hand bone"
+3.387297,"Self-harm","Fracture of hand bone"
+64.93749,"Motor vehicle road injuries","Fracture of hand bone"
+39.10719,"Assault by other means","Fracture of hand bone"
+2603.982,"Other exposure to mechanical forces","Fracture of hand bone"
+314.717,"Other unintentional injuries","Fracture of hand bone"
+17.98199,"Non-venomous animal contact","Fracture of hand bone"
+20.40038,"Fire, heat, and hot substances","Fracture of hand bone"
+143.0751,"Other transport injuries","Fracture of hand bone"
+2648.229,"Exposure to mechanical forces","Fracture of hand bone"
+319.4698,"Falls","Fracture of hand bone"
+.6281469,"Pulmonary aspiration and foreign body in airway","Fracture of hand bone"
+44.24901,"Pedestrian road injuries by road vehicle","Fracture of hand bone"
+232.645,"Road injuries","Fracture of hand bone"
+50.42178,"Interpersonal violence","Fracture of hand bone"
+76.41082,"Motorcyclist road injuries","Fracture of hand bone"
+3.361459,"Assault by firearm","Fracture of hand bone"
+30.42919,"Unintentional firearm injuries","Fracture of hand bone"
+6.6481,"Foreign body in other body part","Fracture of hand bone"
+13.8173,"Unintentional suffocation","Fracture of hand bone"
+8.798189,"Venomous animal contact","Fracture of hand bone"
+43.42035,"Cyclist road injuries","Fracture of hand bone"
+136.5933,"Cyclist road injuries","Fracture of neck of femur"
+4.622809,"Self-harm","Fracture of neck of femur"
+4.098721,"Foreign body in eyes","Fracture of neck of femur"
+8.967813,"Assault by sharp object","Fracture of neck of femur"
+1936.585,"Road injuries","Fracture of neck of femur"
+203.2696,"Other transport injuries","Fracture of neck of femur"
+47.39859,"Interpersonal violence","Fracture of neck of femur"
+15.09473,"Assault by firearm","Fracture of neck of femur"
+26.43444,"Pulmonary aspiration and foreign body in airway","Fracture of neck of femur"
+355.6793,"Exposure to mechanical forces","Fracture of neck of femur"
+234.5633,"Other exposure to mechanical forces","Fracture of neck of femur"
+74.16431,"Other unintentional injuries","Fracture of neck of femur"
+18.83202,"Venomous animal contact","Fracture of neck of femur"
+1912.489,"Falls","Fracture of neck of femur"
+70.55917,"Other road injuries","Fracture of neck of femur"
+582.1229,"Pedestrian road injuries by road vehicle","Fracture of neck of femur"
+616.5452,"Motor vehicle road injuries","Fracture of neck of femur"
+61.71956,"Fire, heat, and hot substances","Fracture of neck of femur"
+3.733398,"Poisonings","Fracture of neck of femur"
+12.50038,"Non-venomous animal contact","Fracture of neck of femur"
+118.2956,"Unintentional firearm injuries","Fracture of neck of femur"
+31.33238,"Animal contact","Fracture of neck of femur"
+6.307417,"Foreign body in other body part","Fracture of neck of femur"
+2.820304,"Unintentional suffocation","Fracture of neck of femur"
+23.33603,"Assault by other means","Fracture of neck of femur"
+530.7642,"Motorcyclist road injuries","Fracture of neck of femur"
+551.8487,"Drowning","Fracture of neck of femur"
+10.88002,"Self-harm","Fracture of patella, tibia, fibula, or ankle"
+1167.394,"Pedestrian road injuries by road vehicle","Fracture of patella, tibia, fibula, or ankle"
+615.3206,"Cyclist road injuries","Fracture of patella, tibia, fibula, or ankle"
+218.3003,"Interpersonal violence","Fracture of patella, tibia, fibula, or ankle"
+2174.282,"Motor vehicle road injuries","Fracture of patella, tibia, fibula, or ankle"
+149.2569,"Drowning","Fracture of patella, tibia, fibula, or ankle"
+11.62675,"Foreign body in other body part","Fracture of patella, tibia, fibula, or ankle"
+3152.286,"Exposure to mechanical forces","Fracture of patella, tibia, fibula, or ankle"
+1108.812,"Other unintentional injuries","Fracture of patella, tibia, fibula, or ankle"
+4.736166,"Poisonings","Fracture of patella, tibia, fibula, or ankle"
+1.883136,"Foreign body in eyes","Fracture of patella, tibia, fibula, or ankle"
+79.72243,"Other road injuries","Fracture of patella, tibia, fibula, or ankle"
+111.9165,"Non-venomous animal contact","Fracture of patella, tibia, fibula, or ankle"
+37.99096,"Assault by sharp object","Fracture of patella, tibia, fibula, or ankle"
+35.35241,"Venomous animal contact","Fracture of patella, tibia, fibula, or ankle"
+2925.941,"Other exposure to mechanical forces","Fracture of patella, tibia, fibula, or ankle"
+1165.819,"Other transport injuries","Fracture of patella, tibia, fibula, or ankle"
+150.5023,"Unintentional firearm injuries","Fracture of patella, tibia, fibula, or ankle"
+5385.701,"Road injuries","Fracture of patella, tibia, fibula, or ankle"
+3386.24,"Falls","Fracture of patella, tibia, fibula, or ankle"
+108.4119,"Fire, heat, and hot substances","Fracture of patella, tibia, fibula, or ankle"
+118.0905,"Assault by other means","Fracture of patella, tibia, fibula, or ankle"
+75.84196,"Unintentional suffocation","Fracture of patella, tibia, fibula, or ankle"
+62.21882,"Assault by firearm","Fracture of patella, tibia, fibula, or ankle"
+147.2688,"Animal contact","Fracture of patella, tibia, fibula, or ankle"
+1348.983,"Motorcyclist road injuries","Fracture of patella, tibia, fibula, or ankle"
+2.633959,"Pulmonary aspiration and foreign body in airway","Fracture of patella, tibia, fibula, or ankle"
+17.81429,"Interpersonal violence","Fracture of pelvis"
+6.798251,"Other road injuries","Fracture of pelvis"
+11.12731,"Drowning","Fracture of pelvis"
+4.807442,"Assault by firearm","Fracture of pelvis"
+12.65867,"Animal contact","Fracture of pelvis"
+33.89055,"Cyclist road injuries","Fracture of pelvis"
+.5590339,"Poisonings","Fracture of pelvis"
+4.219244,"Unintentional suffocation","Fracture of pelvis"
+228.3297,"Falls","Fracture of pelvis"
+2.267761,"Assault by sharp object","Fracture of pelvis"
+27.55161,"Unintentional firearm injuries","Fracture of pelvis"
+1.303078,"Self-harm","Fracture of pelvis"
+454.6385,"Exposure to mechanical forces","Fracture of pelvis"
+.5534769,"Foreign body in other body part","Fracture of pelvis"
+149.9277,"Other unintentional injuries","Fracture of pelvis"
+333.8514,"Motor vehicle road injuries","Fracture of pelvis"
+.2250142,"Foreign body in eyes","Fracture of pelvis"
+122.9704,"Motorcyclist road injuries","Fracture of pelvis"
+4.802238,"Venomous animal contact","Fracture of pelvis"
+653.0192,"Road injuries","Fracture of pelvis"
+422.8676,"Other exposure to mechanical forces","Fracture of pelvis"
+7.85643,"Non-venomous animal contact","Fracture of pelvis"
+12.33312,"Fire, heat, and hot substances","Fracture of pelvis"
+208.0887,"Other transport injuries","Fracture of pelvis"
+155.5087,"Pedestrian road injuries by road vehicle","Fracture of pelvis"
+.6501471,"Pulmonary aspiration and foreign body in airway","Fracture of pelvis"
+10.73908,"Assault by other means","Fracture of pelvis"
+2.283406,"Assault by sharp object","Fracture of radius or ulna"
+84.31261,"Other transport injuries","Fracture of radius or ulna"
+108.9047,"Other exposure to mechanical forces","Fracture of radius or ulna"
+478.5471,"Falls","Fracture of radius or ulna"
+68.28408,"Cyclist road injuries","Fracture of radius or ulna"
+.1543618,"Poisonings","Fracture of radius or ulna"
+116.6039,"Exposure to mechanical forces","Fracture of radius or ulna"
+58.65976,"Other unintentional injuries","Fracture of radius or ulna"
+3.335458,"Non-venomous animal contact","Fracture of radius or ulna"
+1.956447,"Drowning","Fracture of radius or ulna"
+63.48029,"Motor vehicle road injuries","Fracture of radius or ulna"
+.8683071,"Foreign body in other body part","Fracture of radius or ulna"
+3.946971,"Animal contact","Fracture of radius or ulna"
+3.341389,"Unintentional firearm injuries","Fracture of radius or ulna"
+10.24265,"Other road injuries","Fracture of radius or ulna"
+8.869514,"Assault by other means","Fracture of radius or ulna"
+15.26647,"Interpersonal violence","Fracture of radius or ulna"
+2.02356,"Fire, heat, and hot substances","Fracture of radius or ulna"
+197.5761,"Road injuries","Fracture of radius or ulna"
+24.89587,"Pedestrian road injuries by road vehicle","Fracture of radius or ulna"
+.0452296,"Foreign body in eyes","Fracture of radius or ulna"
+.3073619,"Self-harm","Fracture of radius or ulna"
+4.113553,"Assault by firearm","Fracture of radius or ulna"
+30.67319,"Motorcyclist road injuries","Fracture of radius or ulna"
+4.357766,"Unintentional suffocation","Fracture of radius or ulna"
+.6115135,"Venomous animal contact","Fracture of radius or ulna"
+.402357,"Pulmonary aspiration and foreign body in airway","Fracture of radius or ulna"
+60.40283,"Assault by other means","Fracture of skull"
+10.13948,"Non-venomous animal contact","Fracture of skull"
+466.1785,"Other exposure to mechanical forces","Fracture of skull"
+.2025869,"Poisonings","Fracture of skull"
+.1737702,"Pulmonary aspiration and foreign body in airway","Fracture of skull"
+82.99415,"Interpersonal violence","Fracture of skull"
+15.06387,"Unintentional firearm injuries","Fracture of skull"
+479.669,"Falls","Fracture of skull"
+185.3656,"Motorcyclist road injuries","Fracture of skull"
+5.434736,"Other road injuries","Fracture of skull"
+208.5912,"Motor vehicle road injuries","Fracture of skull"
+9.021238,"Assault by firearm","Fracture of skull"
+13.62519,"Unintentional suffocation","Fracture of skull"
+5.242274,"Foreign body in other body part","Fracture of skull"
+7.633878,"Fire, heat, and hot substances","Fracture of skull"
+1.512279,"Self-harm","Fracture of skull"
+63.50343,"Other unintentional injuries","Fracture of skull"
+2.463986,"Venomous animal contact","Fracture of skull"
+82.23858,"Other transport injuries","Fracture of skull"
+494.8676,"Exposure to mechanical forces","Fracture of skull"
+12.60346,"Animal contact","Fracture of skull"
+1.452467,"Foreign body in eyes","Fracture of skull"
+13.57009,"Assault by sharp object","Fracture of skull"
+35.25814,"Cyclist road injuries","Fracture of skull"
+696.1106,"Road injuries","Fracture of skull"
+261.4608,"Pedestrian road injuries by road vehicle","Fracture of skull"
+.7512141,"Drowning","Fracture of skull"
+8.724073,"Falls","Fracture of sternum or rib(s)"
+2.011795,"Exposure to mechanical forces","Fracture of sternum or rib(s)"
+.0092171,"Assault by sharp object","Fracture of sternum or rib(s)"
+1.176274,"Cyclist road injuries","Fracture of sternum or rib(s)"
+.5090649,"Pedestrian road injuries by road vehicle","Fracture of sternum or rib(s)"
+.0064923,"Fire, heat, and hot substances","Fracture of sternum or rib(s)"
+.020347,"Unintentional firearm injuries","Fracture of sternum or rib(s)"
+4.83616,"Road injuries","Fracture of sternum or rib(s)"
+.1663791,"Assault by other means","Fracture of sternum or rib(s)"
+.2644027,"Motorcyclist road injuries","Fracture of sternum or rib(s)"
+.0003449,"Poisonings","Fracture of sternum or rib(s)"
+.0000992,"Foreign body in eyes","Fracture of sternum or rib(s)"
+1.978932,"Other exposure to mechanical forces","Fracture of sternum or rib(s)"
+.0008002,"Venomous animal contact","Fracture of sternum or rib(s)"
+.8687105,"Other transport injuries","Fracture of sternum or rib(s)"
+.0006012,"Foreign body in other body part","Fracture of sternum or rib(s)"
+2.797262,"Motor vehicle road injuries","Fracture of sternum or rib(s)"
+.0032995,"Pulmonary aspiration and foreign body in airway","Fracture of sternum or rib(s)"
+.0007531,"Assault by firearm","Fracture of sternum or rib(s)"
+.0125153,"Unintentional suffocation","Fracture of sternum or rib(s)"
+.1763493,"Interpersonal violence","Fracture of sternum or rib(s)"
+.0891582,"Other road injuries","Fracture of sternum or rib(s)"
+.0098305,"Drowning","Fracture of sternum or rib(s)"
+.0016055,"Self-harm","Fracture of sternum or rib(s)"
+.9432112,"Other unintentional injuries","Fracture of sternum or rib(s)"
+.0944567,"Non-venomous animal contact","Fracture of sternum or rib(s)"
+.0952569,"Animal contact","Fracture of sternum or rib(s)"
+1914.577,"Exposure to mechanical forces","Fracture of vertebral column"
+.5088584,"Foreign body in eyes","Fracture of vertebral column"
+58.58273,"Interpersonal violence","Fracture of vertebral column"
+33.72847,"Assault by other means","Fracture of vertebral column"
+1747.214,"Other unintentional injuries","Fracture of vertebral column"
+16.84411,"Drowning","Fracture of vertebral column"
+1747.418,"Other exposure to mechanical forces","Fracture of vertebral column"
+1460.142,"Road injuries","Fracture of vertebral column"
+384.1909,"Pedestrian road injuries by road vehicle","Fracture of vertebral column"
+3.393225,"Self-harm","Fracture of vertebral column"
+.6733287,"Poisonings","Fracture of vertebral column"
+17.93842,"Assault by firearm","Fracture of vertebral column"
+23.00116,"Animal contact","Fracture of vertebral column"
+112.5066,"Unintentional firearm injuries","Fracture of vertebral column"
+3.269702,"Foreign body in other body part","Fracture of vertebral column"
+8.270396,"Other road injuries","Fracture of vertebral column"
+19.98892,"Non-venomous animal contact","Fracture of vertebral column"
+433.1177,"Cyclist road injuries","Fracture of vertebral column"
+54.65229,"Unintentional suffocation","Fracture of vertebral column"
+1.434852,"Pulmonary aspiration and foreign body in airway","Fracture of vertebral column"
+489.3003,"Motor vehicle road injuries","Fracture of vertebral column"
+1049.394,"Falls","Fracture of vertebral column"
+6.915826,"Assault by sharp object","Fracture of vertebral column"
+336.2801,"Other transport injuries","Fracture of vertebral column"
+37.16197,"Fire, heat, and hot substances","Fracture of vertebral column"
+145.2627,"Motorcyclist road injuries","Fracture of vertebral column"
+3.012237,"Venomous animal contact","Fracture of vertebral column"
+163.8912,"Other transport injuries","Fracture of femur, other than femoral neck"
+13.46678,"Venomous animal contact","Fracture of femur, other than femoral neck"
+1.057181,"Poisonings","Fracture of femur, other than femoral neck"
+17.24325,"Assault by firearm","Fracture of femur, other than femoral neck"
+501.9347,"Pedestrian road injuries by road vehicle","Fracture of femur, other than femoral neck"
+70.95909,"Unintentional firearm injuries","Fracture of femur, other than femoral neck"
+278.7475,"Other unintentional injuries","Fracture of femur, other than femoral neck"
+53.90531,"Animal contact","Fracture of femur, other than femoral neck"
+103.9819,"Cyclist road injuries","Fracture of femur, other than femoral neck"
+54.78386,"Assault by other means","Fracture of femur, other than femoral neck"
+15.73288,"Assault by sharp object","Fracture of femur, other than femoral neck"
+529.3452,"Motorcyclist road injuries","Fracture of femur, other than femoral neck"
+40.43853,"Non-venomous animal contact","Fracture of femur, other than femoral neck"
+2.998834,"Self-harm","Fracture of femur, other than femoral neck"
+23.75784,"Unintentional suffocation","Fracture of femur, other than femoral neck"
+2133.074,"Road injuries","Fracture of femur, other than femoral neck"
+1122.6,"Falls","Fracture of femur, other than femoral neck"
+2136.898,"Exposure to mechanical forces","Fracture of femur, other than femoral neck"
+87.75998,"Interpersonal violence","Fracture of femur, other than femoral neck"
+2042.181,"Other exposure to mechanical forces","Fracture of femur, other than femoral neck"
+.6950046,"Foreign body in eyes","Fracture of femur, other than femoral neck"
+18.01838,"Other road injuries","Fracture of femur, other than femoral neck"
+45.12066,"Fire, heat, and hot substances","Fracture of femur, other than femoral neck"
+979.7939,"Motor vehicle road injuries","Fracture of femur, other than femoral neck"
+12.56796,"Foreign body in other body part","Fracture of femur, other than femoral neck"
+2.07123,"Pulmonary aspiration and foreign body in airway","Fracture of femur, other than femoral neck"
+54.01821,"Drowning","Fracture of femur, other than femoral neck"
+479.1519,"Road injuries","Minor traumatic brain injury"
+3.575228,"Venomous animal contact","Minor traumatic brain injury"
+5.392979,"Other road injuries","Minor traumatic brain injury"
+.829307,"Poisonings","Minor traumatic brain injury"
+208.4885,"Motor vehicle road injuries","Minor traumatic brain injury"
+78.06614,"Motorcyclist road injuries","Minor traumatic brain injury"
+348.7316,"Other exposure to mechanical forces","Minor traumatic brain injury"
+77.35449,"Cyclist road injuries","Minor traumatic brain injury"
+71.09152,"Interpersonal violence","Minor traumatic brain injury"
+4.958611,"Assault by sharp object","Minor traumatic brain injury"
+5.4052,"Assault by firearm","Minor traumatic brain injury"
+12.85557,"Fire, heat, and hot substances","Minor traumatic brain injury"
+70.83662,"Other transport injuries","Minor traumatic brain injury"
+.3526219,"Pulmonary aspiration and foreign body in airway","Minor traumatic brain injury"
+2.734345,"Unintentional suffocation","Minor traumatic brain injury"
+228.4568,"Falls","Minor traumatic brain injury"
+9.630635,"Non-venomous animal contact","Minor traumatic brain injury"
+.3067276,"Foreign body in eyes","Minor traumatic brain injury"
+1.310463,"Self-harm","Minor traumatic brain injury"
+60.72771,"Assault by other means","Minor traumatic brain injury"
+109.8498,"Pedestrian road injuries by road vehicle","Minor traumatic brain injury"
+7.353205,"Unintentional firearm injuries","Minor traumatic brain injury"
+358.819,"Exposure to mechanical forces","Minor traumatic brain injury"
+63.9505,"Other unintentional injuries","Minor traumatic brain injury"
+.8122606,"Foreign body in other body part","Minor traumatic brain injury"
+13.20586,"Animal contact","Minor traumatic brain injury"
+6.535342,"Drowning","Minor traumatic brain injury"
+119.1991,"Assault by other means","Moderate to severe traumatic brain injury"
+2.957507,"Poisonings","Moderate to severe traumatic brain injury"
+6.951105,"Assault by firearm","Moderate to severe traumatic brain injury"
+834.6071,"Pedestrian road injuries by road vehicle","Moderate to severe traumatic brain injury"
+19.54782,"Unintentional firearm injuries","Moderate to severe traumatic brain injury"
+15.85826,"Venomous animal contact","Moderate to severe traumatic brain injury"
+1.394978,"Pulmonary aspiration and foreign body in airway","Moderate to severe traumatic brain injury"
+48.11742,"Non-venomous animal contact","Moderate to severe traumatic brain injury"
+305.6934,"Cyclist road injuries","Moderate to severe traumatic brain injury"
+45.22738,"Other road injuries","Moderate to severe traumatic brain injury"
+63.97568,"Animal contact","Moderate to severe traumatic brain injury"
+535.6383,"Other exposure to mechanical forces","Moderate to severe traumatic brain injury"
+3.499911,"Foreign body in other body part","Moderate to severe traumatic brain injury"
+4.460299,"Foreign body in eyes","Moderate to severe traumatic brain injury"
+575.0309,"Exposure to mechanical forces","Moderate to severe traumatic brain injury"
+1067.999,"Motor vehicle road injuries","Moderate to severe traumatic brain injury"
+18.64906,"Assault by sharp object","Moderate to severe traumatic brain injury"
+127.1104,"Other transport injuries","Moderate to severe traumatic brain injury"
+2974.101,"Road injuries","Moderate to severe traumatic brain injury"
+85.67545,"Other unintentional injuries","Moderate to severe traumatic brain injury"
+1954.004,"Falls","Moderate to severe traumatic brain injury"
+32.27753,"Drowning","Moderate to severe traumatic brain injury"
+49.00434,"Fire, heat, and hot substances","Moderate to severe traumatic brain injury"
+19.84469,"Unintentional suffocation","Moderate to severe traumatic brain injury"
+144.7992,"Interpersonal violence","Moderate to severe traumatic brain injury"
+720.5758,"Motorcyclist road injuries","Moderate to severe traumatic brain injury"
+9.729416,"Self-harm","Moderate to severe traumatic brain injury"
+.1638934,"Motorcyclist road injuries","Amputation of finger (excluding thumb)"
+.0002966,"Other road injuries","Amputation of finger (excluding thumb)"
+1.256446,"Unintentional firearm injuries","Amputation of finger (excluding thumb)"
+.1020282,"Assault by firearm","Amputation of finger (excluding thumb)"
+.0934845,"Self-harm","Amputation of finger (excluding thumb)"
+.2328834,"Fire, heat, and hot substances","Amputation of finger (excluding thumb)"
+1.481633,"Road injuries","Amputation of finger (excluding thumb)"
+.6300246,"Assault by sharp object","Amputation of finger (excluding thumb)"
+.8364943,"Interpersonal violence","Amputation of finger (excluding thumb)"
+.4195557,"Animal contact","Amputation of finger (excluding thumb)"
+.5211987,"Falls","Amputation of finger (excluding thumb)"
+.4195557,"Non-venomous animal contact","Amputation of finger (excluding thumb)"
+128.398,"Other exposure to mechanical forces","Amputation of finger (excluding thumb)"
+13.53151,"Other unintentional injuries","Amputation of finger (excluding thumb)"
+.1863811,"Cyclist road injuries","Amputation of finger (excluding thumb)"
+.6330155,"Unintentional suffocation","Amputation of finger (excluding thumb)"
+3.38605,"Other transport injuries","Amputation of finger (excluding thumb)"
+.0460566,"Drowning","Amputation of finger (excluding thumb)"
+.5245266,"Foreign body in other body part","Amputation of finger (excluding thumb)"
+.1044415,"Assault by other means","Amputation of finger (excluding thumb)"
+.1803546,"Pedestrian road injuries by road vehicle","Amputation of finger (excluding thumb)"
+130.2875,"Exposure to mechanical forces","Amputation of finger (excluding thumb)"
+.950707,"Motor vehicle road injuries","Amputation of finger (excluding thumb)"
+.9099138,"Poisonings","Spinal cord lesion at neck level"
+1.523542,"Fire, heat, and hot substances","Spinal cord lesion at neck level"
+1.402523,"Assault by sharp object","Spinal cord lesion at neck level"
+3.50798,"Assault by other means","Spinal cord lesion at neck level"
+7.479622,"Unintentional suffocation","Spinal cord lesion at neck level"
+.5575961,"Venomous animal contact","Spinal cord lesion at neck level"
+46.20177,"Other exposure to mechanical forces","Spinal cord lesion at neck level"
+4.685148,"Other unintentional injuries","Spinal cord lesion at neck level"
+.1762811,"Foreign body in eyes","Spinal cord lesion at neck level"
+74.42758,"Falls","Spinal cord lesion at neck level"
+9.781188,"Cyclist road injuries","Spinal cord lesion at neck level"
+2.042686,"Other road injuries","Spinal cord lesion at neck level"
+.8263557,"Self-harm","Spinal cord lesion at neck level"
+2.399762,"Assault by firearm","Spinal cord lesion at neck level"
+102.0064,"Road injuries","Spinal cord lesion at neck level"
+.4788419,"Pulmonary aspiration and foreign body in airway","Spinal cord lesion at neck level"
+49.56971,"Motor vehicle road injuries","Spinal cord lesion at neck level"
+23.22209,"Motorcyclist road injuries","Spinal cord lesion at neck level"
+2.831102,"Other transport injuries","Spinal cord lesion at neck level"
+2.77244,"Animal contact","Spinal cord lesion at neck level"
+7.310263,"Interpersonal violence","Spinal cord lesion at neck level"
+9.819805,"Unintentional firearm injuries","Spinal cord lesion at neck level"
+17.3907,"Pedestrian road injuries by road vehicle","Spinal cord lesion at neck level"
+.2778402,"Foreign body in other body part","Spinal cord lesion at neck level"
+2.214845,"Non-venomous animal contact","Spinal cord lesion at neck level"
+8.026498,"Drowning","Spinal cord lesion at neck level"
+63.50121,"Exposure to mechanical forces","Spinal cord lesion at neck level"
+9358.335,"Other exposure to mechanical forces","Spinal cord lesion below neck level"
+3777.642,"Falls","Spinal cord lesion below neck level"
+73.18791,"Cyclist road injuries","Spinal cord lesion below neck level"
+693.7831,"Motor vehicle road injuries","Spinal cord lesion below neck level"
+1034.455,"Fire, heat, and hot substances","Spinal cord lesion below neck level"
+492.5361,"Interpersonal violence","Spinal cord lesion below neck level"
+1477.522,"Road injuries","Spinal cord lesion below neck level"
+151.8124,"Other unintentional injuries","Spinal cord lesion below neck level"
+.7158136,"Pulmonary aspiration and foreign body in airway","Spinal cord lesion below neck level"
+430.9123,"Motorcyclist road injuries","Spinal cord lesion below neck level"
+22.06237,"Drowning","Spinal cord lesion below neck level"
+30.29035,"Unintentional firearm injuries","Spinal cord lesion below neck level"
+3.722661,"Venomous animal contact","Spinal cord lesion below neck level"
+363.3527,"Animal contact","Spinal cord lesion below neck level"
+88.39617,"Assault by sharp object","Spinal cord lesion below neck level"
+37.96605,"Other road injuries","Spinal cord lesion below neck level"
+359.6301,"Non-venomous animal contact","Spinal cord lesion below neck level"
+8.968573,"Assault by firearm","Spinal cord lesion below neck level"
+16.9811,"Unintentional suffocation","Spinal cord lesion below neck level"
+241.6725,"Pedestrian road injuries by road vehicle","Spinal cord lesion below neck level"
+13.59203,"Self-harm","Spinal cord lesion below neck level"
+1.668681,"Foreign body in other body part","Spinal cord lesion below neck level"
+1.556247,"Foreign body in eyes","Spinal cord lesion below neck level"
+15.59839,"Other transport injuries","Spinal cord lesion below neck level"
+395.1714,"Assault by other means","Spinal cord lesion below neck level"
+9405.604,"Exposure to mechanical forces","Spinal cord lesion below neck level"
+9.478168,"Poisonings","Spinal cord lesion below neck level"
+.0077331,"Assault by firearm","Non-fatal submersion"
+5.596452,"Falls","Non-fatal submersion"
+.0323432,"Motorcyclist road injuries","Non-fatal submersion"
+.3463755,"Venomous animal contact","Non-fatal submersion"
+.0939564,"Foreign body in other body part","Non-fatal submersion"
+.8809329,"Exposure to mechanical forces","Non-fatal submersion"
+.9207711,"Road injuries","Non-fatal submersion"
+.4384646,"Interpersonal violence","Non-fatal submersion"
+.0870253,"Poisonings","Non-fatal submersion"
+.0562602,"Cyclist road injuries","Non-fatal submersion"
+.7026294,"Unintentional suffocation","Non-fatal submersion"
+.0072503,"Other road injuries","Non-fatal submersion"
+.290057,"Non-venomous animal contact","Non-fatal submersion"
+.1885405,"Self-harm","Non-fatal submersion"
+1.081906,"Other transport injuries","Non-fatal submersion"
+.6568785,"Fire, heat, and hot substances","Non-fatal submersion"
+.4316137,"Motor vehicle road injuries","Non-fatal submersion"
+144.7983,"Drowning","Non-fatal submersion"
+.3645179,"Assault by other means","Non-fatal submersion"
+.6364325,"Animal contact","Non-fatal submersion"
+.0225358,"Unintentional firearm injuries","Non-fatal submersion"
+.5518158,"Other unintentional injuries","Non-fatal submersion"
+.1557676,"Other exposure to mechanical forces","Non-fatal submersion"
+.0662137,"Assault by sharp object","Non-fatal submersion"
+.6473544,"Pulmonary aspiration and foreign body in airway","Non-fatal submersion"
+.3933038,"Pedestrian road injuries by road vehicle","Non-fatal submersion"
+1.552525,"Unintentional suffocation","Crush injury"
+.366244,"Assault by firearm","Crush injury"
+629.3622,"Exposure to mechanical forces","Crush injury"
+1.429823,"Other road injuries","Crush injury"
+36.11744,"Other transport injuries","Crush injury"
+1.509085,"Drowning","Crush injury"
+6.888324,"Fire, heat, and hot substances","Crush injury"
+.1138341,"Pulmonary aspiration and foreign body in airway","Crush injury"
+1.267147,"Self-harm","Crush injury"
+174.6561,"Road injuries","Crush injury"
+2.966573,"Foreign body in other body part","Crush injury"
+.1135747,"Poisonings","Crush injury"
+56.94586,"Pedestrian road injuries by road vehicle","Crush injury"
+79.07592,"Falls","Crush injury"
+1.940206,"Assault by other means","Crush injury"
+22.31704,"Other unintentional injuries","Crush injury"
+1.031953,"Venomous animal contact","Crush injury"
+57.76451,"Motorcyclist road injuries","Crush injury"
+13.07686,"Cyclist road injuries","Crush injury"
+1.414734,"Assault by sharp object","Crush injury"
+2.501268,"Foreign body in eyes","Crush injury"
+2.928155,"Non-venomous animal contact","Crush injury"
+45.43901,"Motor vehicle road injuries","Crush injury"
+3.96011,"Animal contact","Crush injury"
+1.854986,"Unintentional firearm injuries","Crush injury"
+3.721186,"Interpersonal violence","Crush injury"
+625.9547,"Other exposure to mechanical forces","Crush injury"
+32.265,"Motorcyclist road injuries","Injured nerves"
+3.156729,"Venomous animal contact","Injured nerves"
+8.523156,"Cyclist road injuries","Injured nerves"
+.8837044,"Unintentional suffocation","Injured nerves"
+46.00684,"Motor vehicle road injuries","Injured nerves"
+13.32341,"Drowning","Injured nerves"
+322.3809,"Exposure to mechanical forces","Injured nerves"
+8.692721,"Non-venomous animal contact","Injured nerves"
+5.872601,"Self-harm","Injured nerves"
+7.176264,"Foreign body in eyes","Injured nerves"
+1.203677,"Other road injuries","Injured nerves"
+298.1095,"Other exposure to mechanical forces","Injured nerves"
+15.81007,"Assault by sharp object","Injured nerves"
+3.760491,"Assault by firearm","Injured nerves"
+23.99643,"Other unintentional injuries","Injured nerves"
+.2415545,"Poisonings","Injured nerves"
+16.1004,"Other transport injuries","Injured nerves"
+10.49764,"Assault by other means","Injured nerves"
+12.85795,"Fire, heat, and hot substances","Injured nerves"
+30.06821,"Interpersonal violence","Injured nerves"
+182.3745,"Falls","Injured nerves"
+33.02201,"Pedestrian road injuries by road vehicle","Injured nerves"
+8.253735,"Foreign body in other body part","Injured nerves"
+.6607126,"Pulmonary aspiration and foreign body in airway","Injured nerves"
+23.38772,"Unintentional firearm injuries","Injured nerves"
+121.0207,"Road injuries","Injured nerves"
+11.84945,"Animal contact","Injured nerves"
+6.538036,"Pedestrian road injuries by road vehicle","Injury to eyes (including foreign body eye)"
+20.91249,"Falls","Injury to eyes (including foreign body eye)"
+.9931137,"Venomous animal contact","Injury to eyes (including foreign body eye)"
+9.647652,"Other unintentional injuries","Injury to eyes (including foreign body eye)"
+129.9455,"Exposure to mechanical forces","Injury to eyes (including foreign body eye)"
+7.874857,"Motor vehicle road injuries","Injury to eyes (including foreign body eye)"
+126.9681,"Other exposure to mechanical forces","Injury to eyes (including foreign body eye)"
+3.693845,"Motorcyclist road injuries","Injury to eyes (including foreign body eye)"
+2.977469,"Unintentional firearm injuries","Injury to eyes (including foreign body eye)"
+20.29538,"Road injuries","Injury to eyes (including foreign body eye)"
+3.694474,"Assault by other means","Injury to eyes (including foreign body eye)"
+2.283798,"Assault by sharp object","Injury to eyes (including foreign body eye)"
+.3304931,"Self-harm","Injury to eyes (including foreign body eye)"
+10.12405,"Fire, heat, and hot substances","Injury to eyes (including foreign body eye)"
+23.72614,"Animal contact","Injury to eyes (including foreign body eye)"
+.1161185,"Poisonings","Injury to eyes (including foreign body eye)"
+13.84567,"Foreign body in eyes","Injury to eyes (including foreign body eye)"
+1.914588,"Cyclist road injuries","Injury to eyes (including foreign body eye)"
+43.71244,"Foreign body in other body part","Injury to eyes (including foreign body eye)"
+.8308697,"Drowning","Injury to eyes (including foreign body eye)"
+22.73303,"Non-venomous animal contact","Injury to eyes (including foreign body eye)"
+6.47136,"Interpersonal violence","Injury to eyes (including foreign body eye)"
+.7553577,"Other transport injuries","Injury to eyes (including foreign body eye)"
+.4930879,"Assault by firearm","Injury to eyes (including foreign body eye)"
+.2740461,"Other road injuries","Injury to eyes (including foreign body eye)"
+.1466143,"Pulmonary aspiration and foreign body in airway","Injury to eyes (including foreign body eye)"
+197.6991,"Foreign body in other body part","Open wound"
+36.07364,"Assault by firearm","Open wound"
+83.36362,"Venomous animal contact","Open wound"
+25.56893,"Self-harm","Open wound"
+2265.781,"Non-venomous animal contact","Open wound"
+273.4455,"Motorcyclist road injuries","Open wound"
+86.02464,"Other transport injuries","Open wound"
+51.06582,"Unintentional suffocation","Open wound"
+5357.368,"Other exposure to mechanical forces","Open wound"
+2.450937,"Foreign body in eyes","Open wound"
+316.5865,"Cyclist road injuries","Open wound"
+10.29406,"Other road injuries","Open wound"
+290.759,"Pedestrian road injuries by road vehicle","Open wound"
+465.1552,"Other unintentional injuries","Open wound"
+172.5778,"Assault by other means","Open wound"
+130.0538,"Unintentional firearm injuries","Open wound"
+1403.983,"Road injuries","Open wound"
+1.052382,"Pulmonary aspiration and foreign body in airway","Open wound"
+.9527732,"Poisonings","Open wound"
+5538.488,"Exposure to mechanical forces","Open wound"
+2349.144,"Animal contact","Open wound"
+1683.923,"Falls","Open wound"
+129.0212,"Assault by sharp object","Open wound"
+17.40894,"Drowning","Open wound"
+337.6728,"Interpersonal violence","Open wound"
+112.6689,"Fire, heat, and hot substances","Open wound"
+512.8978,"Motor vehicle road injuries","Open wound"
+341.697,"Fire, heat, and hot substances","Poisoning"
+28.48463,"Pedestrian road injuries by road vehicle","Poisoning"
+155.4678,"Self-harm","Poisoning"
+11.69457,"Assault by firearm","Poisoning"
+83.09483,"Interpersonal violence","Poisoning"
+121.9858,"Exposure to mechanical forces","Poisoning"
+2.29507,"Cyclist road injuries","Poisoning"
+948.5369,"Other unintentional injuries","Poisoning"
+20.64491,"Unintentional firearm injuries","Poisoning"
+90.39191,"Other transport injuries","Poisoning"
+1.274765,"Foreign body in eyes","Poisoning"
+4.354526,"Assault by sharp object","Poisoning"
+2059.494,"Animal contact","Poisoning"
+769.1368,"Poisonings","Poisoning"
+15.29786,"Motor vehicle road injuries","Poisoning"
+50.73624,"Road injuries","Poisoning"
+32.09283,"Drowning","Poisoning"
+67.04573,"Assault by other means","Poisoning"
+104.1161,"Falls","Poisoning"
+119.5495,"Non-venomous animal contact","Poisoning"
+140.2642,"Foreign body in other body part","Poisoning"
+24.28272,"Unintentional suffocation","Poisoning"
+77.0582,"Other exposure to mechanical forces","Poisoning"
+.3829245,"Other road injuries","Poisoning"
+4.27576,"Motorcyclist road injuries","Poisoning"
+1939.944,"Venomous animal contact","Poisoning"
+14.8156,"Pulmonary aspiration and foreign body in airway","Poisoning"
+2.588834,"Fire, heat, and hot substances","Severe chest Injury"
+.8955653,"Drowning","Severe chest Injury"
+6.682864,"Assault by sharp object","Severe chest Injury"
+.1001497,"Poisonings","Severe chest Injury"
+20.40202,"Other unintentional injuries","Severe chest Injury"
+.9392028,"Foreign body in other body part","Severe chest Injury"
+.4032494,"Pulmonary aspiration and foreign body in airway","Severe chest Injury"
+2.466447,"Assault by firearm","Severe chest Injury"
+12.55373,"Other transport injuries","Severe chest Injury"
+.8085098,"Self-harm","Severe chest Injury"
+44.73053,"Falls","Severe chest Injury"
+11.16558,"Pedestrian road injuries by road vehicle","Severe chest Injury"
+2.449395,"Non-venomous animal contact","Severe chest Injury"
+3.586961,"Animal contact","Severe chest Injury"
+.6051075,"Unintentional suffocation","Severe chest Injury"
+5.679149,"Cyclist road injuries","Severe chest Injury"
+25.08742,"Other exposure to mechanical forces","Severe chest Injury"
+.7933756,"Other road injuries","Severe chest Injury"
+1.137566,"Venomous animal contact","Severe chest Injury"
+.1199775,"Foreign body in eyes","Severe chest Injury"
+29.81185,"Motor vehicle road injuries","Severe chest Injury"
+32.50584,"Exposure to mechanical forces","Severe chest Injury"
+2.381134,"Assault by other means","Severe chest Injury"
+58.33131,"Road injuries","Severe chest Injury"
+10.88136,"Motorcyclist road injuries","Severe chest Injury"
+11.53045,"Interpersonal violence","Severe chest Injury"
+6.813319,"Unintentional firearm injuries","Severe chest Injury"
+154.779,"Foreign body in other body part","Internal hemorrhage in abdomen or pelvis"
+550.1425,"Fire, heat, and hot substances","Internal hemorrhage in abdomen or pelvis"
+37.82267,"Unintentional suffocation","Internal hemorrhage in abdomen or pelvis"
+79.68237,"Assault by sharp object","Internal hemorrhage in abdomen or pelvis"
+27.63765,"Foreign body in eyes","Internal hemorrhage in abdomen or pelvis"
+237.8215,"Motor vehicle road injuries","Internal hemorrhage in abdomen or pelvis"
+5.059937,"Other road injuries","Internal hemorrhage in abdomen or pelvis"
+39.84937,"Cyclist road injuries","Internal hemorrhage in abdomen or pelvis"
+2.014594,"Pulmonary aspiration and foreign body in airway","Internal hemorrhage in abdomen or pelvis"
+8.951967,"Self-harm","Internal hemorrhage in abdomen or pelvis"
+146.9863,"Interpersonal violence","Internal hemorrhage in abdomen or pelvis"
+12.11417,"Drowning","Internal hemorrhage in abdomen or pelvis"
+106.1931,"Unintentional firearm injuries","Internal hemorrhage in abdomen or pelvis"
+74.26826,"Venomous animal contact","Internal hemorrhage in abdomen or pelvis"
+225.2305,"Motorcyclist road injuries","Internal hemorrhage in abdomen or pelvis"
+34.729,"Assault by other means","Internal hemorrhage in abdomen or pelvis"
+806.3667,"Road injuries","Internal hemorrhage in abdomen or pelvis"
+341.8699,"Other unintentional injuries","Internal hemorrhage in abdomen or pelvis"
+382.9682,"Falls","Internal hemorrhage in abdomen or pelvis"
+137.6646,"Animal contact","Internal hemorrhage in abdomen or pelvis"
+32.57487,"Assault by firearm","Internal hemorrhage in abdomen or pelvis"
+1946.206,"Exposure to mechanical forces","Internal hemorrhage in abdomen or pelvis"
+1802.19,"Other exposure to mechanical forces","Internal hemorrhage in abdomen or pelvis"
+144.1496,"Other transport injuries","Internal hemorrhage in abdomen or pelvis"
+63.39633,"Non-venomous animal contact","Internal hemorrhage in abdomen or pelvis"
+5.011942,"Poisonings","Internal hemorrhage in abdomen or pelvis"
+298.4052,"Pedestrian road injuries by road vehicle","Internal hemorrhage in abdomen or pelvis"
+240.3082,"Motor vehicle road injuries","Contusion"
+3.58145,"Other road injuries","Contusion"
+12.27397,"Unintentional firearm injuries","Contusion"
+.1096471,"Pulmonary aspiration and foreign body in airway","Contusion"
+1829.33,"Other exposure to mechanical forces","Contusion"
+26.06206,"Motorcyclist road injuries","Contusion"
+67.5572,"Pedestrian road injuries by road vehicle","Contusion"
+6.995261,"Assault by sharp object","Contusion"
+.4711358,"Poisonings","Contusion"
+1.21141,"Self-harm","Contusion"
+.3955514,"Foreign body in eyes","Contusion"
+28.96494,"Cyclist road injuries","Contusion"
+10.47154,"Foreign body in other body part","Contusion"
+4.261624,"Assault by firearm","Contusion"
+27.51953,"Animal contact","Contusion"
+79.87363,"Other transport injuries","Contusion"
+33.29659,"Assault by other means","Contusion"
+5.682841,"Unintentional suffocation","Contusion"
+17.26909,"Non-venomous animal contact","Contusion"
+4.39122,"Drowning","Contusion"
+366.4739,"Road injuries","Contusion"
+10.25045,"Venomous animal contact","Contusion"
+1847.287,"Exposure to mechanical forces","Contusion"
+257.829,"Falls","Contusion"
+44.55349,"Interpersonal violence","Contusion"
+145.0276,"Other unintentional injuries","Contusion"
+7.98816,"Fire, heat, and hot substances","Contusion"
+.5267903,"Cyclist road injuries","Environmental factors (e.g. temperature, pressure, electricity)"
+8.855304,"Other exposure to mechanical forces","Environmental factors (e.g. temperature, pressure, electricity)"
+.2994049,"Assault by firearm","Environmental factors (e.g. temperature, pressure, electricity)"
+1.092658,"Unintentional suffocation","Environmental factors (e.g. temperature, pressure, electricity)"
+.0549557,"Other road injuries","Environmental factors (e.g. temperature, pressure, electricity)"
+21.90943,"Drowning","Environmental factors (e.g. temperature, pressure, electricity)"
+1.477007,"Assault by other means","Environmental factors (e.g. temperature, pressure, electricity)"
+53.37286,"Fire, heat, and hot substances","Environmental factors (e.g. temperature, pressure, electricity)"
+3.92216,"Venomous animal contact","Environmental factors (e.g. temperature, pressure, electricity)"
+20.10098,"Falls","Environmental factors (e.g. temperature, pressure, electricity)"
+.5007501,"Assault by sharp object","Environmental factors (e.g. temperature, pressure, electricity)"
+1.13239,"Unintentional firearm injuries","Environmental factors (e.g. temperature, pressure, electricity)"
+14.45177,"Road injuries","Environmental factors (e.g. temperature, pressure, electricity)"
+3.761742,"Other transport injuries","Environmental factors (e.g. temperature, pressure, electricity)"
+.1446582,"Foreign body in eyes","Environmental factors (e.g. temperature, pressure, electricity)"
+.8959561,"Foreign body in other body part","Environmental factors (e.g. temperature, pressure, electricity)"
+1.626042,"Non-venomous animal contact","Environmental factors (e.g. temperature, pressure, electricity)"
+1.086714,"Poisonings","Environmental factors (e.g. temperature, pressure, electricity)"
+5.078066,"Pedestrian road injuries by road vehicle","Environmental factors (e.g. temperature, pressure, electricity)"
+16.13877,"Other unintentional injuries","Environmental factors (e.g. temperature, pressure, electricity)"
+11.08035,"Exposure to mechanical forces","Environmental factors (e.g. temperature, pressure, electricity)"
+2.394196,"Self-harm","Environmental factors (e.g. temperature, pressure, electricity)"
+.3709639,"Pulmonary aspiration and foreign body in airway","Environmental factors (e.g. temperature, pressure, electricity)"
+2.277162,"Interpersonal violence","Environmental factors (e.g. temperature, pressure, electricity)"
+3.944225,"Motor vehicle road injuries","Environmental factors (e.g. temperature, pressure, electricity)"
+4.84773,"Motorcyclist road injuries","Environmental factors (e.g. temperature, pressure, electricity)"
+5.548201,"Animal contact","Environmental factors (e.g. temperature, pressure, electricity)"
+32.81234,"Assault by other means","Complications of medical treatment"
+142.359,"Other transport injuries","Complications of medical treatment"
+96.33603,"Motorcyclist road injuries","Complications of medical treatment"
+3.475304,"Other road injuries","Complications of medical treatment"
+7.445815,"Pulmonary aspiration and foreign body in airway","Complications of medical treatment"
+628.6292,"Falls","Complications of medical treatment"
+7.552104,"Poisonings","Complications of medical treatment"
+21.73633,"Cyclist road injuries","Complications of medical treatment"
+13.35429,"Assault by sharp object","Complications of medical treatment"
+252.9694,"Pedestrian road injuries by road vehicle","Complications of medical treatment"
+15.81253,"Self-harm","Complications of medical treatment"
+25.50015,"Foreign body in eyes","Complications of medical treatment"
+158.268,"Fire, heat, and hot substances","Complications of medical treatment"
+224.0593,"Exposure to mechanical forces","Complications of medical treatment"
+2.008729,"Unintentional suffocation","Complications of medical treatment"
+195.4977,"Other exposure to mechanical forces","Complications of medical treatment"
+430.0311,"Road injuries","Complications of medical treatment"
+77.47524,"Drowning","Complications of medical treatment"
+70.79649,"Animal contact","Complications of medical treatment"
+8148.123,"Adverse effects of medical treatment","Complications of medical treatment"
+55.51393,"Motor vehicle road injuries","Complications of medical treatment"
+90.5155,"Other unintentional injuries","Complications of medical treatment"
+51.87037,"Venomous animal contact","Complications of medical treatment"
+6.860208,"Assault by firearm","Complications of medical treatment"
+18.92611,"Non-venomous animal contact","Complications of medical treatment"
+25.59687,"Foreign body in other body part","Complications of medical treatment"
+53.02685,"Interpersonal violence","Complications of medical treatment"
+26.55278,"Unintentional firearm injuries","Complications of medical treatment"
+1057.41,"Motorcyclist road injuries","Multiple significant injuries"
+29.16264,"Assault by sharp object","Multiple significant injuries"
+7.085995,"Pulmonary aspiration and foreign body in airway","Multiple significant injuries"
+10.92748,"Foreign body in other body part","Multiple significant injuries"
+.1328703,"Foreign body in eyes","Multiple significant injuries"
+8.836489,"Self-harm","Multiple significant injuries"
+2001.757,"Pedestrian road injuries by road vehicle","Multiple significant injuries"
+129.8464,"Assault by other means","Multiple significant injuries"
+18.34786,"Assault by firearm","Multiple significant injuries"
+243.5848,"Cyclist road injuries","Multiple significant injuries"
+5591.437,"Road injuries","Multiple significant injuries"
+2.614872,"Poisonings","Multiple significant injuries"
+42.77732,"Drowning","Multiple significant injuries"
+311.7262,"Other transport injuries","Multiple significant injuries"
+105.5547,"Fire, heat, and hot substances","Multiple significant injuries"
+57.37151,"Unintentional firearm injuries","Multiple significant injuries"
+126.215,"Non-venomous animal contact","Multiple significant injuries"
+190.7444,"Animal contact","Multiple significant injuries"
+2432.275,"Falls","Multiple significant injuries"
+177.3569,"Interpersonal violence","Multiple significant injuries"
+47.6697,"Other road injuries","Multiple significant injuries"
+.0005812,"Unintentional suffocation","Multiple significant injuries"
+668.9637,"Other exposure to mechanical forces","Multiple significant injuries"
+64.52947,"Venomous animal contact","Multiple significant injuries"
+86.2421,"Other unintentional injuries","Multiple significant injuries"
+726.3359,"Exposure to mechanical forces","Multiple significant injuries"
+2241.014,"Motor vehicle road injuries","Multiple significant injuries"
+1178.137,"Fire, heat, and hot substances","Burns with <20% total burned surface area"
+22.09447,"Pedestrian road injuries by road vehicle","Burns with <20% total burned surface area"
+32.44763,"Motorcyclist road injuries","Burns with <20% total burned surface area"
+9.264905,"Animal contact","Burns with <20% total burned surface area"
+.7185897,"Pulmonary aspiration and foreign body in airway","Burns with <20% total burned surface area"
+7.174304,"Poisonings","Burns with <20% total burned surface area"
+4.01875,"Drowning","Burns with <20% total burned surface area"
+83.70194,"Road injuries","Burns with <20% total burned surface area"
+2.481318,"Cyclist road injuries","Burns with <20% total burned surface area"
+202.1049,"Other exposure to mechanical forces","Burns with <20% total burned surface area"
+5.361608,"Unintentional firearm injuries","Burns with <20% total burned surface area"
+.6788389,"Assault by firearm","Burns with <20% total burned surface area"
+.2735092,"Other road injuries","Burns with <20% total burned surface area"
+62.67352,"Falls","Burns with <20% total burned surface area"
+28.7727,"Interpersonal violence","Burns with <20% total burned surface area"
+.4182777,"Unintentional suffocation","Burns with <20% total burned surface area"
+59.37838,"Other transport injuries","Burns with <20% total burned surface area"
+142.6378,"Other unintentional injuries","Burns with <20% total burned surface area"
+2.706664,"Self-harm","Burns with <20% total burned surface area"
+1.508865,"Assault by sharp object","Burns with <20% total burned surface area"
+6.188141,"Venomous animal contact","Burns with <20% total burned surface area"
+26.58499,"Assault by other means","Burns with <20% total burned surface area"
+.4023629,"Foreign body in eyes","Burns with <20% total burned surface area"
+26.40499,"Motor vehicle road injuries","Burns with <20% total burned surface area"
+207.8848,"Exposure to mechanical forces","Burns with <20% total burned surface area"
+3.076764,"Non-venomous animal contact","Burns with <20% total burned surface area"
+3.298807,"Foreign body in other body part","Burns with <20% total burned surface area"
+.8188426,"Other road injuries","Burns with >=20% total burned surface area or >=10% if burns include face and/or hands"
+.3014376,"Assault by firearm","Burns with >=20% total burned surface area or >=10% if burns include face and/or hands"
+59.12298,"Pedestrian road injuries by road vehicle","Burns with >=20% total burned surface area or >=10% if burns include face and/or hands"
+6.983761,"Other transport injuries","Burns with >=20% total burned surface area or >=10% if burns include face and/or hands"
+129.2102,"Road injuries","Burns with >=20% total burned surface area or >=10% if burns include face and/or hands"
+98.09271,"Other unintentional injuries","Burns with >=20% total burned surface area or >=10% if burns include face and/or hands"
+1.051731,"Pulmonary aspiration and foreign body in airway","Burns with >=20% total burned surface area or >=10% if burns include face and/or hands"
+121.515,"Other exposure to mechanical forces","Burns with >=20% total burned surface area or >=10% if burns include face and/or hands"
+33.20448,"Motorcyclist road injuries","Burns with >=20% total burned surface area or >=10% if burns include face and/or hands"
+5.679405,"Self-harm","Burns with >=20% total burned surface area or >=10% if burns include face and/or hands"
+52.49021,"Falls","Burns with >=20% total burned surface area or >=10% if burns include face and/or hands"
+17.30213,"Motor vehicle road injuries","Burns with >=20% total burned surface area or >=10% if burns include face and/or hands"
+18.05766,"Assault by other means","Burns with >=20% total burned surface area or >=10% if burns include face and/or hands"
+.5723434,"Foreign body in eyes","Burns with >=20% total burned surface area or >=10% if burns include face and/or hands"
+18.76173,"Cyclist road injuries","Burns with >=20% total burned surface area or >=10% if burns include face and/or hands"
+6.766449,"Drowning","Burns with >=20% total burned surface area or >=10% if burns include face and/or hands"
+.7785183,"Assault by sharp object","Burns with >=20% total burned surface area or >=10% if burns include face and/or hands"
+3.597273,"Unintentional firearm injuries","Burns with >=20% total burned surface area or >=10% if burns include face and/or hands"
+.5713799,"Foreign body in other body part","Burns with >=20% total burned surface area or >=10% if burns include face and/or hands"
+3.696817,"Non-venomous animal contact","Burns with >=20% total burned surface area or >=10% if burns include face and/or hands"
+19.13762,"Interpersonal violence","Burns with >=20% total burned surface area or >=10% if burns include face and/or hands"
+3.334122,"Poisonings","Burns with >=20% total burned surface area or >=10% if burns include face and/or hands"
+125.1123,"Exposure to mechanical forces","Burns with >=20% total burned surface area or >=10% if burns include face and/or hands"
+16.76386,"Animal contact","Burns with >=20% total burned surface area or >=10% if burns include face and/or hands"
+13.06705,"Venomous animal contact","Burns with >=20% total burned surface area or >=10% if burns include face and/or hands"
+1850.143,"Fire, heat, and hot substances","Burns with >=20% total burned surface area or >=10% if burns include face and/or hands"
