@@ -86,7 +86,8 @@ drawAxisLabels()
 
 // load the data (using the timelyportfolio csv method)
 // d3.csv("como9_ylds_male_2013.csv", function(error, data) {
-d3.json("como9_ylds_male_2013.json", function(error, graph) {
+
+	$.getJSON("como9_ylds_male_2013.json", function(graph) {
 	
 	var nodeMap = {};
     graph.nodes.forEach(function(x) { nodeMap[x.name] = x; });
