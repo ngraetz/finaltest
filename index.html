@@ -88,6 +88,8 @@ drawAxisLabels()
 // d3.csv("como9_ylds_male_2013.csv", function(error, data) {
 d3.json("como9_ylds_male_2013.json", function(error, graph) {
 	
+	graph = {"nodes" : [], "links" : []};
+	
 	var nodeMap = {};
     graph.nodes.forEach(function(x) { nodeMap[x.name] = x; });
     graph.links = graph.links.map(function(x) {
@@ -97,7 +99,7 @@ d3.json("como9_ylds_male_2013.json", function(error, graph) {
         value: x.value
       };
     });
-	
+	/*
   //set up graph in same style as original example but empty
   graph = {"nodes" : [], "links" : []};
 
@@ -125,7 +127,7 @@ d3.json("como9_ylds_male_2013.json", function(error, graph) {
      graph.nodes.forEach(function (d, i) {
        graph.nodes[i] = { "name": d };
      });
-
+*/
   sankey
     .nodes(graph.nodes)
     .links(graph.links)
