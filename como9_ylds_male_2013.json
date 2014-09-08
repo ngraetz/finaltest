@@ -1,4 +1,4 @@
-var graph = [{"value":0.099405,"source":"Assault by sharp object","target":"Dislocation of hip"},
+[{"value":0.099405,"source":"Assault by sharp object","target":"Dislocation of hip"},
 {"value":14.67657,"source":"Other unintentional injuries","target":"Dislocation of hip"},
 {"value":0.0030352,"source":"Foreign body in eyes","target":"Dislocation of hip"},
 {"value":0.0060952,"source":"Poisonings","target":"Dislocation of hip"},
