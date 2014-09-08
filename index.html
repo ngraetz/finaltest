@@ -89,7 +89,7 @@ drawAxisLabels()
 // d3.csv("como9_ylds_male_2013.csv", function(error, data) {
 
 $.getJSON("como9_ylds_male_2013.json", function(graph) {
-	/*
+	
     var nodeMap = {};
     graph.nodes.forEach(function(x) { nodeMap[x.name] = x; });
     graph.links = graph.links.map(function(x) {
@@ -99,7 +99,7 @@ $.getJSON("como9_ylds_male_2013.json", function(graph) {
         value: x.value
       };
     });
-	*/
+	
   sankey
     .nodes(graph.nodes)
     .links(graph.links)
