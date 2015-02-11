@@ -1,4 +1,4 @@
-ecode,target,value,rank,parent_ecode_name,e_code_name,trans_groups,cause_name,source,cause_level
+ecode,target,value,rank,parent_ecode_name,e_code_name,trans_groups,source,cause_short,cause_level
 "inj_animal","Amputations",9644.35,22,"Animal contact","Animal contact","unintentional","Animal contact","Animal",3
 "inj_animal","Burns",3364.443,22,"Animal contact","Animal contact","unintentional","Animal contact","Animal",3
 "inj_animal","Fractures",91403.13,22,"Animal contact","Animal contact","unintentional","Animal contact","Animal",3
