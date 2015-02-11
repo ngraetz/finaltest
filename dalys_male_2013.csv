@@ -1,0 +1,93 @@
+ecode,target,value,rank,parent_ecode_name,e_code_name,trans_groups,cause_name,source,cause_level
+"inj_animal","Amputations",9644.35,22,"Animal contact","Animal contact","unintentional","Animal contact","Animal",3
+"inj_animal","Burns",3364.443,22,"Animal contact","Animal contact","unintentional","Animal contact","Animal",3
+"inj_animal","Fractures",91403.13,22,"Animal contact","Animal contact","unintentional","Animal contact","Animal",3
+"inj_animal","Head Injury",14932.42,22,"Animal contact","Animal contact","unintentional","Animal contact","Animal",3
+"inj_animal","Minor Injury",52099.71,22,"Animal contact","Animal contact","unintentional","Animal contact","Animal",3
+"inj_animal","Other Injury",170100.2,22,"Animal contact","Animal contact","unintentional","Animal contact","Animal",3
+"inj_animal","Spinal Lesions",4137.511,22,"Animal contact","Animal contact","unintentional","Animal contact","Animal",3
+"inj_disaster","Amputations",19027.05,40,"Exposure to forces of nature","Exposure to forces of nature","disaster","Exposure to forces of nature","Disaster",3
+"inj_disaster","Burns",89576,40,"Exposure to forces of nature","Exposure to forces of nature","disaster","Exposure to forces of nature","Disaster",3
+"inj_disaster","Fractures",110052.1,40,"Exposure to forces of nature","Exposure to forces of nature","disaster","Exposure to forces of nature","Disaster",3
+"inj_disaster","Head Injury",17253.14,40,"Exposure to forces of nature","Exposure to forces of nature","disaster","Exposure to forces of nature","Disaster",3
+"inj_disaster","Minor Injury",13695.41,40,"Exposure to forces of nature","Exposure to forces of nature","disaster","Exposure to forces of nature","Disaster",3
+"inj_disaster","Other Injury",299863.2,40,"Exposure to forces of nature","Exposure to forces of nature","disaster","Exposure to forces of nature","Disaster",3
+"inj_disaster","Spinal Lesions",12020.69,40,"Exposure to forces of nature","Exposure to forces of nature","disaster","Exposure to forces of nature","Disaster",3
+"inj_drowning","Amputations",18595.37,11,"Drowning","Drowning","unintentional","Drowning","Drown",3
+"inj_drowning","Burns",2694.317,11,"Drowning","Drowning","unintentional","Drowning","Drown",3
+"inj_drowning","Fractures",169534.1,11,"Drowning","Drowning","unintentional","Drowning","Drown",3
+"inj_drowning","Head Injury",12060.25,11,"Drowning","Drowning","unintentional","Drowning","Drown",3
+"inj_drowning","Minor Injury",9639.62,11,"Drowning","Drowning","unintentional","Drowning","Drown",3
+"inj_drowning","Other Injury",137961.8,11,"Drowning","Drowning","unintentional","Drowning","Drown",3
+"inj_drowning","Spinal Lesions",23206.42,11,"Drowning","Drowning","unintentional","Drowning","Drown",3
+"inj_falls","Amputations",87253.54,10,"Falls","Falls","unintentional","Falls","Falls",3
+"inj_falls","Burns",29333.77,10,"Falls","Falls","unintentional","Falls","Falls",3
+"inj_falls","Fractures",9411980,10,"Falls","Falls","unintentional","Falls","Falls",3
+"inj_falls","Head Injury",1121585,10,"Falls","Falls","unintentional","Falls","Falls",3
+"inj_falls","Minor Injury",489477.2,10,"Falls","Falls","unintentional","Falls","Falls",3
+"inj_falls","Other Injury",1152017,10,"Falls","Falls","unintentional","Falls","Falls",3
+"inj_falls","Spinal Lesions",515527.7,10,"Falls","Falls","unintentional","Falls","Falls",3
+"inj_fires","Amputations",31472.92,12,"Fire, heat, and hot substances","Fire, heat, and hot substances","unintentional","Fire, heat, and hot substances","Fire",3
+"inj_fires","Burns",671663.4,12,"Fire, heat, and hot substances","Fire, heat, and hot substances","unintentional","Fire, heat, and hot substances","Fire",3
+"inj_fires","Fractures",93157.34,12,"Fire, heat, and hot substances","Fire, heat, and hot substances","unintentional","Fire, heat, and hot substances","Fire",3
+"inj_fires","Head Injury",17582.36,12,"Fire, heat, and hot substances","Fire, heat, and hot substances","unintentional","Fire, heat, and hot substances","Fire",3
+"inj_fires","Minor Injury",43491.59,12,"Fire, heat, and hot substances","Fire, heat, and hot substances","unintentional","Fire, heat, and hot substances","Fire",3
+"inj_fires","Other Injury",309193.9,12,"Fire, heat, and hot substances","Fire, heat, and hot substances","unintentional","Fire, heat, and hot substances","Fire",3
+"inj_fires","Spinal Lesions",4958.79,12,"Fire, heat, and hot substances","Fire, heat, and hot substances","unintentional","Fire, heat, and hot substances","Fire",3
+"inj_homicide","Amputations",22904.67,36,"Interpersonal violence","Interpersonal violence","intentional","Interpersonal violence","Violence",3
+"inj_homicide","Burns",14872.74,36,"Interpersonal violence","Interpersonal violence","intentional","Interpersonal violence","Violence",3
+"inj_homicide","Fractures",261939.2,36,"Interpersonal violence","Interpersonal violence","intentional","Interpersonal violence","Violence",3
+"inj_homicide","Head Injury",81343.54,36,"Interpersonal violence","Interpersonal violence","intentional","Interpersonal violence","Violence",3
+"inj_homicide","Minor Injury",89780.16,36,"Interpersonal violence","Interpersonal violence","intentional","Interpersonal violence","Violence",3
+"inj_homicide","Other Injury",210425.4,36,"Interpersonal violence","Interpersonal violence","intentional","Interpersonal violence","Violence",3
+"inj_homicide","Spinal Lesions",50958.61,36,"Interpersonal violence","Interpersonal violence","intentional","Interpersonal violence","Violence",3
+"inj_mech","Amputations",133834.2,17,"Exposure to mechanical forces","Exposure to mechanical forces","unintentional","Exposure to mechanical forces","Mech",3
+"inj_mech","Burns",36721.07,17,"Exposure to mechanical forces","Exposure to mechanical forces","unintentional","Exposure to mechanical forces","Mech",3
+"inj_mech","Fractures",1891995,17,"Exposure to mechanical forces","Exposure to mechanical forces","unintentional","Exposure to mechanical forces","Mech",3
+"inj_mech","Head Injury",156496.9,17,"Exposure to mechanical forces","Exposure to mechanical forces","unintentional","Exposure to mechanical forces","Mech",3
+"inj_mech","Minor Injury",258676.7,17,"Exposure to mechanical forces","Exposure to mechanical forces","unintentional","Exposure to mechanical forces","Mech",3
+"inj_mech","Other Injury",557525.4,17,"Exposure to mechanical forces","Exposure to mechanical forces","unintentional","Exposure to mechanical forces","Mech",3
+"inj_mech","Spinal Lesions",78372.97,17,"Exposure to mechanical forces","Exposure to mechanical forces","unintentional","Exposure to mechanical forces","Mech",3
+"inj_medical","Other Injury",200751.5,21,"Adverse effects of medical treatment","Adverse effects of medical treatment","unintentional","Adverse effects of medical treatment","Med Treat",3
+"inj_othunintent","Amputations",32617.78,29,"Other unintentional injuries","Other unintentional injuries","unintentional","Other unintentional injuries","Oth Unint",3
+"inj_othunintent","Burns",58343.79,29,"Other unintentional injuries","Other unintentional injuries","unintentional","Other unintentional injuries","Oth Unint",3
+"inj_othunintent","Fractures",1924471,29,"Other unintentional injuries","Other unintentional injuries","unintentional","Other unintentional injuries","Oth Unint",3
+"inj_othunintent","Head Injury",54610.03,29,"Other unintentional injuries","Other unintentional injuries","unintentional","Other unintentional injuries","Oth Unint",3
+"inj_othunintent","Minor Injury",92659.71,29,"Other unintentional injuries","Other unintentional injuries","unintentional","Other unintentional injuries","Oth Unint",3
+"inj_othunintent","Other Injury",392757.8,29,"Other unintentional injuries","Other unintentional injuries","unintentional","Other unintentional injuries","Oth Unint",3
+"inj_othunintent","Spinal Lesions",29386.33,29,"Other unintentional injuries","Other unintentional injuries","unintentional","Other unintentional injuries","Oth Unint",3
+"inj_poisoning","Amputations",755.9349,13,"Poisonings","Poisonings","unintentional","Poisonings","Poison",3
+"inj_poisoning","Burns",2849.006,13,"Poisonings","Poisonings","unintentional","Poisonings","Poison",3
+"inj_poisoning","Fractures",6936.58,13,"Poisonings","Poisonings","unintentional","Poisonings","Poison",3
+"inj_poisoning","Head Injury",1657.934,13,"Poisonings","Poisonings","unintentional","Poisonings","Poison",3
+"inj_poisoning","Minor Injury",1234.502,13,"Poisonings","Poisonings","unintentional","Poisonings","Poison",3
+"inj_poisoning","Other Injury",64665.7,13,"Poisonings","Poisonings","unintentional","Poisonings","Poison",3
+"inj_poisoning","Spinal Lesions",543.1494,13,"Poisonings","Poisonings","unintentional","Poisonings","Poison",3
+"inj_suicide","Amputations",13178.13,30,"Self-harm","Self-harm","intentional","Self-harm","Self Harm",3
+"inj_suicide","Burns",7167.334,30,"Self-harm","Self-harm","intentional","Self-harm","Self Harm",3
+"inj_suicide","Fractures",34374,30,"Self-harm","Self-harm","intentional","Self-harm","Self Harm",3
+"inj_suicide","Head Injury",9633.254,30,"Self-harm","Self-harm","intentional","Self-harm","Self Harm",3
+"inj_suicide","Minor Injury",34187.14,30,"Self-harm","Self-harm","intentional","Self-harm","Self Harm",3
+"inj_suicide","Other Injury",125343.6,30,"Self-harm","Self-harm","intentional","Self-harm","Self Harm",3
+"inj_suicide","Spinal Lesions",7478.929,30,"Self-harm","Self-harm","intentional","Self-harm","Self Harm",3
+"inj_trans_other","Amputations",186131.6,9,"Other transport injuries","Other transport injuries","transport","Other transport injuries","Oth Trans",3
+"inj_trans_other","Burns",14853.81,9,"Other transport injuries","Other transport injuries","transport","Other transport injuries","Oth Trans",3
+"inj_trans_other","Fractures",1069226,9,"Other transport injuries","Other transport injuries","transport","Other transport injuries","Oth Trans",3
+"inj_trans_other","Head Injury",69912.19,9,"Other transport injuries","Other transport injuries","transport","Other transport injuries","Oth Trans",3
+"inj_trans_other","Minor Injury",35705.58,9,"Other transport injuries","Other transport injuries","transport","Other transport injuries","Oth Trans",3
+"inj_trans_other","Other Injury",191262.6,9,"Other transport injuries","Other transport injuries","transport","Other transport injuries","Oth Trans",3
+"inj_trans_other","Spinal Lesions",33833.64,9,"Other transport injuries","Other transport injuries","transport","Other transport injuries","Oth Trans",3
+"inj_trans_road","Amputations",119379.9,3,"Road Injuries","Road injuries","transport","Road injuries","Road Inj",3
+"inj_trans_road","Burns",31397.19,3,"Road Injuries","Road injuries","transport","Road injuries","Road Inj",3
+"inj_trans_road","Fractures",4676606,3,"Road Injuries","Road injuries","transport","Road injuries","Road Inj",3
+"inj_trans_road","Head Injury",732415.7,3,"Road Injuries","Road injuries","transport","Road injuries","Road Inj",3
+"inj_trans_road","Minor Injury",253447.8,3,"Road Injuries","Road injuries","transport","Road injuries","Road Inj",3
+"inj_trans_road","Other Injury",1811856,3,"Road Injuries","Road injuries","transport","Road injuries","Road Inj",3
+"inj_trans_road","Spinal Lesions",337829.3,3,"Road Injuries","Road injuries","transport","Road injuries","Road Inj",3
+"inj_war","Amputations",93775.19,41,"Collective violence and legal intervention","Collective violence and legal intervention","war","Collective violence and legal intervention","War",3
+"inj_war","Burns",38718.06,41,"Collective violence and legal intervention","Collective violence and legal intervention","war","Collective violence and legal intervention","War",3
+"inj_war","Fractures",1658422,41,"Collective violence and legal intervention","Collective violence and legal intervention","war","Collective violence and legal intervention","War",3
+"inj_war","Head Injury",106891.3,41,"Collective violence and legal intervention","Collective violence and legal intervention","war","Collective violence and legal intervention","War",3
+"inj_war","Minor Injury",106242.9,41,"Collective violence and legal intervention","Collective violence and legal intervention","war","Collective violence and legal intervention","War",3
+"inj_war","Other Injury",1309537,41,"Collective violence and legal intervention","Collective violence and legal intervention","war","Collective violence and legal intervention","War",3
+"inj_war","Spinal Lesions",224228.6,41,"Collective violence and legal intervention","Collective violence and legal intervention","war","Collective violence and legal intervention","War",3
